@@ -6,13 +6,8 @@ LightingSettings:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<<< HEAD:Assets/Samples/Universal RP/13.1.8/URP Package Samples/CameraStacking/MixedFOV/MixedFOV/MixedFOVSettings.lighting
   m_Name: MixedFOVSettings
   serializedVersion: 3
-========
-  m_Name: DemoSceneSettings
-  serializedVersion: 5
->>>>>>>> main:Assets/Sherbbs Particle Collection/Scenes/DemoSceneSettings.lighting
   m_GIWorkflowMode: 1
   m_EnableBakedLightmaps: 1
   m_EnableRealtimeLightmaps: 0
@@ -23,15 +18,9 @@ LightingSettings:
   m_UsingShadowmask: 1
   m_BakeBackend: 1
   m_LightmapMaxSize: 1024
-<<<<<<<< HEAD:Assets/Samples/Universal RP/13.1.8/URP Package Samples/CameraStacking/MixedFOV/MixedFOV/MixedFOVSettings.lighting
   m_BakeResolution: 2
   m_Padding: 2
   m_TextureCompression: 1
-========
-  m_BakeResolution: 40
-  m_Padding: 2
-  m_LightmapCompression: 3
->>>>>>>> main:Assets/Sherbbs Particle Collection/Scenes/DemoSceneSettings.lighting
   m_AO: 0
   m_AOMaxDistance: 1
   m_CompAOExponent: 1
