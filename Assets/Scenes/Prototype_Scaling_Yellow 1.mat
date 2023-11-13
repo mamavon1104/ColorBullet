@@ -12,7 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
+  version: 7
+=======
   version: 6
+>>>>>>> PushBranch
 --- !u!21 &2100000
 Material:
   serializedVersion: 8
@@ -48,5 +52,10 @@ Material:
     m_Floats: []
     m_Colors:
     - Color_2d523c9e87ea411c87ba7d7b977b62e7: {r: 1, g: 0.63075733, b: 0.13013652, a: 0}
+<<<<<<< HEAD
+    - Color_7F5D350D: {r: 36.665684, g: 36.665684, b: 36.665684, a: 0.12941177}
+    - Color_BE5A53D8: {r: 0.754717, g: 0.754717, b: 0.754717, a: 0}
+=======
     - Color_BE5A53D8: {r: 0.2830189, g: 0.2830189, b: 0.2830189, a: 0}
+>>>>>>> PushBranch
   m_BuildTextureStacks: []

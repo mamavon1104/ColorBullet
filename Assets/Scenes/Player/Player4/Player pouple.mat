@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Player pouple
-  m_Shader: {fileID: -6465566751694194690, guid: d0cc351a101eab14abe751e7c9ff5e70, type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: 445e1445d2b459744aad01a51ec01a67, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
