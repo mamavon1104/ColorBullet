@@ -12,7 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
+  version: 7
+=======
   version: 6
+>>>>>>> PushBranch
 --- !u!21 &2100000
 Material:
   serializedVersion: 8
@@ -37,6 +41,11 @@ Material:
     RenderType: Opaque
   disabledShaderPasses:
   - ALWAYS
+<<<<<<< HEAD
+  - DepthOnly
+  - SHADOWCASTER
+=======
+>>>>>>> PushBranch
   m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
@@ -84,6 +93,10 @@ Material:
     m_Ints: []
     m_Floats:
     - _AlphaClip: 0
+<<<<<<< HEAD
+    - _AlphaToMask: 0
+=======
+>>>>>>> PushBranch
     - _Blend: 1
     - _BlendOp: 0
     - _BumpScale: 1
@@ -98,7 +111,12 @@ Material:
     - _DistortionEnabled: 0
     - _DistortionStrength: 1
     - _DistortionStrengthScaled: 0
+<<<<<<< HEAD
+    - _DstBlend: 10
+    - _DstBlendAlpha: 10
+=======
     - _DstBlend: 0
+>>>>>>> PushBranch
     - _EmissionEnabled: 0
     - _FlipbookBlending: 0
     - _FlipbookMode: 0
@@ -117,6 +135,10 @@ Material:
     - _SoftParticlesNearFadeDistance: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
+<<<<<<< HEAD
+    - _SrcBlendAlpha: 1
+=======
+>>>>>>> PushBranch
     - _Surface: 1
     - _UVSec: 0
     - _ZWrite: 1
@@ -124,7 +146,11 @@ Material:
     - _BaseColor: {r: 8.474191, g: 8.474191, b: 8.474191, a: 1}
     - _BaseColorAddSubDiff: {r: 0, g: 0, b: 0, a: 0}
     - _CameraFadeParams: {r: 0, g: Infinity, b: 0, a: 0}
+<<<<<<< HEAD
+    - _Color: {r: 8.474192, g: 8.474192, b: 8.474192, a: 1}
+=======
     - _Color: {r: 1, g: 1, b: 1, a: 1}
+>>>>>>> PushBranch
     - _ColorAddSubDiff: {r: 1, g: 0, b: 0, a: 0}
     - _EmissionColor: {r: 0.6675392, g: 0.6675392, b: 0.6675392, a: 1}
     - _SoftParticleFadeParams: {r: 0, g: 0, b: 0, a: 0}

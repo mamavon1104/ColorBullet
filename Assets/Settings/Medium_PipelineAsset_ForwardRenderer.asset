@@ -14,6 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   debugShaders:
     debugReplacementPS: {fileID: 0}
+    hdrDebugViewPS: {fileID: 0}
   m_RendererFeatures: []
   m_RendererFeatureMap: 
   m_UseNativeRenderPass: 0
@@ -26,11 +27,14 @@ MonoBehaviour:
     samplingPS: {fileID: 0}
     stencilDeferredPS: {fileID: 0}
     fallbackErrorPS: {fileID: 0}
+    fallbackLoadingPS: {fileID: 0}
     materialErrorPS: {fileID: 0}
     coreBlitPS: {fileID: 0}
     coreBlitColorAndDepthPS: {fileID: 0}
+    blitHDROverlay: {fileID: 0}
     cameraMotionVector: {fileID: 0}
     objectMotionVector: {fileID: 0}
+    dataDrivenLensFlare: {fileID: 0}
   m_AssetVersion: 2
   m_OpaqueLayerMask:
     serializedVersion: 2
@@ -50,6 +54,4 @@ MonoBehaviour:
   m_DepthPrimingMode: 0
   m_CopyDepthMode: 1
   m_AccurateGbufferNormals: 0
-  m_ClusteredRendering: 0
-  m_TileSize: 32
-  m_IntermediateTextureMode: 0
+  m_IntermediateTextureMode: 1

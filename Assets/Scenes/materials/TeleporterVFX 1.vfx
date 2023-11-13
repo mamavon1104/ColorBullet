@@ -20,6 +20,11 @@ VisualEffectResource:
     m_PreWarmDeltaTime: 0.05
     m_PreWarmStepCount: 0
     m_InitialEventName: OnPlay
+<<<<<<< HEAD
+    m_InstancingMode: -1
+    m_InstancingCapacity: 64
+=======
+>>>>>>> PushBranch
 --- !u!114 &8926484042661615756
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -41,7 +46,11 @@ MonoBehaviour:
   m_UIInfos: {fileID: 8926484042661615757}
   m_ParameterInfo: []
   m_ImportDependencies: []
+<<<<<<< HEAD
+  m_GraphVersion: 12
+=======
   m_GraphVersion: 9
+>>>>>>> PushBranch
   m_ResourceVersion: 1
   m_SubgraphDependencies: []
   m_CategoryPath: 
