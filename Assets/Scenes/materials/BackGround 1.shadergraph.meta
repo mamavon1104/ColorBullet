@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Scenes/materials/BackGround 1.shadergraph.meta
 guid: 7dc650e76eceaca4a86e21167341d4ac
+========
+guid: 9d4a8268dcc035a4abf4ccf90da679cc
+>>>>>>>> fix:Assets/Scenes/materials/teleport/Teleporter.shadergraph.meta
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
