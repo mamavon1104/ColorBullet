@@ -1,9 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 <<<<<<<< HEAD:Assets/Scenes/GameResult.meta
 guid: d8ced84c0f0830440b24706b68a97fe8
 ========
 guid: fe4541c2357d72e409bf6624574ee6ab
 >>>>>>>> testBranch:Assets/Scenes/Player/Player2.meta
+=======
+guid: d8ced84c0f0830440b24706b68a97fe8
+>>>>>>> origin/main
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}

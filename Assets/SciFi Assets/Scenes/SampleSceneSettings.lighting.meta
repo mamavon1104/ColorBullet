@@ -1,4 +1,5 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 <<<<<<<< HEAD:Assets/SciFi Assets/Scenes/SampleSceneSettings.lighting.meta
 guid: ddee20a124a8c604f8f78ab269cf1fc2
 ========
@@ -7,6 +8,12 @@ guid: 904f5a820bd2e49499414b1cac1a35ba
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 6200000
+=======
+guid: ddee20a124a8c604f8f78ab269cf1fc2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+>>>>>>> origin/main
   userData: 
   assetBundleName: 
   assetBundleVariant: 

@@ -15,9 +15,13 @@ MonoBehaviour:
   debugShaders:
     debugReplacementPS: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
     hdrDebugViewPS: {fileID: 0}
 =======
 >>>>>>> testBranch
+=======
+    hdrDebugViewPS: {fileID: 0}
+>>>>>>> origin/main
   m_RendererFeatures: []
   m_RendererFeatureMap: 
   m_UseNativeRenderPass: 0
@@ -31,6 +35,9 @@ MonoBehaviour:
     stencilDeferredPS: {fileID: 0}
     fallbackErrorPS: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/main
     fallbackLoadingPS: {fileID: 0}
     materialErrorPS: {fileID: 0}
     coreBlitPS: {fileID: 0}
@@ -39,6 +46,7 @@ MonoBehaviour:
     cameraMotionVector: {fileID: 0}
     objectMotionVector: {fileID: 0}
     dataDrivenLensFlare: {fileID: 0}
+<<<<<<< HEAD
 =======
     materialErrorPS: {fileID: 0}
     coreBlitPS: {fileID: 0}
@@ -46,6 +54,8 @@ MonoBehaviour:
     cameraMotionVector: {fileID: 0}
     objectMotionVector: {fileID: 0}
 >>>>>>> testBranch
+=======
+>>>>>>> origin/main
   m_AssetVersion: 2
   m_OpaqueLayerMask:
     serializedVersion: 2

@@ -8,11 +8,17 @@
     },
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "com.unity.ai.navigation": {
       "version": "1.1.5",
 =======
 =======
 >>>>>>> testBranch
+=======
+    "com.unity.ai.navigation": {
+      "version": "1.1.5",
+=======
+>>>>>>> origin/main
     "com.unity.burst": {
       "version": "1.7.3",
       "depth": 1,
@@ -83,13 +89,19 @@
     "com.unity.inputsystem": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/main
       "version": "1.7.0",
 =======
       "version": "1.3.0",
 >>>>>>> PushBranch
+<<<<<<< HEAD
 =======
       "version": "1.3.0",
 >>>>>>> testBranch
+=======
+>>>>>>> origin/main
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -106,6 +118,9 @@
     },
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/main
     "com.unity.render-pipelines.core": {
       "version": "14.0.9",
       "depth": 1,
@@ -131,8 +146,11 @@
     "com.unity.searcher": {
       "version": "4.9.2",
 =======
+<<<<<<< HEAD
 =======
 >>>>>>> testBranch
+=======
+>>>>>>> origin/main
     "com.unity.nuget.newtonsoft-json": {
       "version": "3.0.2",
 >>>>>>> PushBranch
@@ -168,6 +186,7 @@
     },
     "com.unity.searcher": {
       "version": "4.9.2",
+<<<<<<< HEAD
       "depth": 2,
       "source": "registry",
       "dependencies": {},
@@ -196,6 +215,8 @@
     },
     "com.unity.searcher": {
       "version": "4.9.2",
+=======
+>>>>>>> origin/main
       "depth": 2,
       "source": "registry",
       "dependencies": {},
@@ -219,6 +240,7 @@
         "com.unity.render-pipelines.core": "13.1.8",
         "com.unity.searcher": "4.9.2"
       }
+<<<<<<< HEAD
     },
     "com.unity.shadergraph": {
       "version": "13.1.8",
@@ -228,6 +250,8 @@
         "com.unity.render-pipelines.core": "13.1.8",
         "com.unity.searcher": "4.9.2"
       }
+=======
+>>>>>>> origin/main
     },
     "com.unity.test-framework": {
       "version": "1.1.33",
@@ -273,6 +297,9 @@
     "com.unity.visualeffectgraph": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/main
       "version": "14.0.9",
       "depth": 0,
       "source": "builtin",
@@ -280,8 +307,11 @@
         "com.unity.shadergraph": "14.0.9",
         "com.unity.render-pipelines.core": "14.0.9"
 =======
+<<<<<<< HEAD
 =======
 >>>>>>> testBranch
+=======
+>>>>>>> origin/main
       "version": "13.1.8",
       "depth": 0,
       "source": "builtin",
@@ -289,9 +319,13 @@
         "com.unity.shadergraph": "13.1.8",
         "com.unity.render-pipelines.core": "13.1.8"
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> PushBranch
 =======
 >>>>>>> testBranch
+=======
+>>>>>>> PushBranch
+>>>>>>> origin/main
       }
     },
     "com.unity.visualscripting": {

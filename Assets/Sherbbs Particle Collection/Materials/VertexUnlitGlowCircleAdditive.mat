@@ -13,10 +13,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
+<<<<<<< HEAD
   version: 7
 =======
   version: 6
 >>>>>>> testBranch
+=======
+  version: 7
+>>>>>>> origin/main
 --- !u!21 &2100000
 Material:
   serializedVersion: 8
@@ -42,10 +46,15 @@ Material:
   disabledShaderPasses:
   - ALWAYS
 <<<<<<< HEAD
+<<<<<<< HEAD
   - DepthOnly
   - SHADOWCASTER
 =======
 >>>>>>> testBranch
+=======
+  - DepthOnly
+  - SHADOWCASTER
+>>>>>>> origin/main
   m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
@@ -94,9 +103,13 @@ Material:
     m_Floats:
     - _AlphaClip: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     - _AlphaToMask: 0
 =======
 >>>>>>> testBranch
+=======
+    - _AlphaToMask: 0
+>>>>>>> origin/main
     - _Blend: 1
     - _BlendOp: 0
     - _BumpScale: 1
@@ -114,9 +127,12 @@ Material:
 <<<<<<< HEAD
     - _DstBlend: 10
     - _DstBlendAlpha: 10
+<<<<<<< HEAD
 =======
     - _DstBlend: 0
 >>>>>>> testBranch
+=======
+>>>>>>> origin/main
     - _EmissionEnabled: 0
     - _FlipbookBlending: 0
     - _FlipbookMode: 0
@@ -136,9 +152,13 @@ Material:
     - _SpecularHighlights: 1
     - _SrcBlend: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
     - _SrcBlendAlpha: 1
 =======
 >>>>>>> testBranch
+=======
+    - _SrcBlendAlpha: 1
+>>>>>>> origin/main
     - _Surface: 1
     - _UVSec: 0
     - _ZWrite: 1
@@ -147,10 +167,14 @@ Material:
     - _BaseColorAddSubDiff: {r: 0, g: 0, b: 0, a: 0}
     - _CameraFadeParams: {r: 0, g: Infinity, b: 0, a: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
     - _Color: {r: 8.474192, g: 8.474192, b: 8.474192, a: 1}
 =======
     - _Color: {r: 1, g: 1, b: 1, a: 1}
 >>>>>>> testBranch
+=======
+    - _Color: {r: 8.474192, g: 8.474192, b: 8.474192, a: 1}
+>>>>>>> origin/main
     - _ColorAddSubDiff: {r: 1, g: 0, b: 0, a: 0}
     - _EmissionColor: {r: 0.6675392, g: 0.6675392, b: 0.6675392, a: 1}
     - _SoftParticleFadeParams: {r: 0, g: 0, b: 0, a: 0}

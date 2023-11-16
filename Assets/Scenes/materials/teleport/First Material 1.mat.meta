@@ -3,10 +3,14 @@ guid: 0b4f8f8cb697b844599fbdc54ad76908
 NativeFormatImporter:
   externalObjects: {}
 <<<<<<< HEAD
+<<<<<<< HEAD
   mainObjectFileID: 0
 =======
   mainObjectFileID: 2100000
 >>>>>>> testBranch
+=======
+  mainObjectFileID: 0
+>>>>>>> origin/main
   userData: 
   assetBundleName: 
   assetBundleVariant: 

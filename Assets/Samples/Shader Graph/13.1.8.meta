@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Samples/Shader Graph/13.1.8.meta
 guid: c7a3ae157d2a3b74b9ddecd9ed3ebb9c
+========
+guid: 7b85e44a9c040844b85073f091dcf60f
+>>>>>>>> origin/main:Assets/Samples/Shader Graph.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}

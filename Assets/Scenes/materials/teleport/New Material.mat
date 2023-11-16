@@ -13,10 +13,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
+<<<<<<< HEAD
   version: 7
 =======
   version: 6
 >>>>>>> testBranch
+=======
+  version: 7
+>>>>>>> origin/main
 --- !u!21 &2100000
 Material:
   serializedVersion: 8

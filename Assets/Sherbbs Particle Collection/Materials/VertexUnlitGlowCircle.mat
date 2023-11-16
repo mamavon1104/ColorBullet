@@ -13,10 +13,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
+<<<<<<< HEAD
   version: 7
 =======
   version: 6
 >>>>>>> testBranch
+=======
+  version: 7
+>>>>>>> origin/main
 --- !u!21 &2100000
 Material:
   serializedVersion: 8
@@ -89,9 +93,13 @@ Material:
     m_Floats:
     - _AlphaClip: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
     - _AlphaToMask: 1
 =======
 >>>>>>> testBranch
+=======
+    - _AlphaToMask: 1
+>>>>>>> origin/main
     - _Blend: 0
     - _BlendOp: 0
     - _BumpScale: 1
@@ -127,9 +135,13 @@ Material:
     - _SpecularHighlights: 1
     - _SrcBlend: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
     - _SrcBlendAlpha: 1
 =======
 >>>>>>> testBranch
+=======
+    - _SrcBlendAlpha: 1
+>>>>>>> origin/main
     - _Surface: 0
     - _UVSec: 0
     - _ZWrite: 1

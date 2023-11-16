@@ -75,9 +75,13 @@ Material:
     m_Floats:
     - _AlphaClip: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     - _AlphaToMask: 0
 =======
 >>>>>>> testBranch
+=======
+    - _AlphaToMask: 0
+>>>>>>> origin/main
     - _Blend: 2
     - _BlendOp: 0
     - _BumpScale: 1
@@ -95,9 +99,12 @@ Material:
 <<<<<<< HEAD
     - _DstBlend: 1
     - _DstBlendAlpha: 1
+<<<<<<< HEAD
 =======
     - _DstBlend: 0
 >>>>>>> testBranch
+=======
+>>>>>>> origin/main
     - _EmissionEnabled: 0
     - _FlipbookBlending: 0
     - _FlipbookMode: 0
@@ -118,9 +125,12 @@ Material:
 <<<<<<< HEAD
     - _SrcBlend: 5
     - _SrcBlendAlpha: 1
+<<<<<<< HEAD
 =======
     - _SrcBlend: 1
 >>>>>>> testBranch
+=======
+>>>>>>> origin/main
     - _Surface: 1
     - _UVSec: 0
     - _ZWrite: 1
@@ -146,7 +156,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
+<<<<<<< HEAD
   version: 7
 =======
   version: 6
 >>>>>>> testBranch
+=======
+  version: 7
+>>>>>>> origin/main

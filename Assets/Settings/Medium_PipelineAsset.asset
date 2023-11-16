@@ -25,9 +25,13 @@ MonoBehaviour:
   m_SupportsTerrainHoles: 1
   m_SupportsHDR: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_HDRColorBufferPrecision: 0
 =======
 >>>>>>> testBranch
+=======
+  m_HDRColorBufferPrecision: 0
+>>>>>>> origin/main
   m_MSAA: 1
   m_RenderScale: 1
   m_UpscalingFilter: 0

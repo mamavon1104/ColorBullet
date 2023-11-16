@@ -9,10 +9,14 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: Player
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Shader: {fileID: -6465566751694194690, guid: 445e1445d2b459744aad01a51ec01a67, type: 3}
 =======
   m_Shader: {fileID: -6465566751694194690, guid: d0cc351a101eab14abe751e7c9ff5e70, type: 3}
 >>>>>>> testBranch
+=======
+  m_Shader: {fileID: -6465566751694194690, guid: 445e1445d2b459744aad01a51ec01a67, type: 3}
+>>>>>>> origin/main
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -120,10 +124,14 @@ Material:
     m_Colors:
     - _Color: {r: 1, g: 0, b: 0, a: 1}
 <<<<<<< HEAD
+<<<<<<< HEAD
     - _Color_1: {r: 2.8540318, g: 38.93715, b: 7.338939, a: 1}
 =======
     - _Color_1: {r: 0.041607905, g: 0.56765074, b: 0.10699176, a: 1}
 >>>>>>> testBranch
+=======
+    - _Color_1: {r: 2.8540318, g: 38.93715, b: 7.338939, a: 1}
+>>>>>>> origin/main
     - _EmissionColor: {r: 0.30588236, g: 0.5372549, b: 0.8039216, a: 1}
     - _Emmision: {r: 0, g: 3.9999995, b: 0.40780923, a: 0}
     - _TranslucencyColor: {r: 0.73, g: 0.85, b: 0.41, a: 1}
@@ -143,7 +151,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
+<<<<<<< HEAD
   version: 7
 =======
   version: 6
 >>>>>>> testBranch
+=======
+  version: 7
+>>>>>>> origin/main
