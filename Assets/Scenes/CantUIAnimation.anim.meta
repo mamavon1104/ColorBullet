@@ -4,6 +4,9 @@ NativeFormatImporter:
   externalObjects: {}
 <<<<<<< HEAD:Assets/Scenes/Player/Player1/New Material.mat.meta
 <<<<<<< HEAD
+  mainObjectFileID: 2100000
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
   mainObjectFileID: 0
 =======
@@ -12,9 +15,13 @@ NativeFormatImporter:
 =======
   mainObjectFileID: 0
 >>>>>>> origin/main
+<<<<<<< HEAD:Assets/Scenes/CantUIAnimation.anim.meta
 =======
   mainObjectFileID: 7400000
 >>>>>>> recover:Assets/Scenes/CantUIAnimation.anim.meta
+=======
+>>>>>>> main
+>>>>>>> fix3:Assets/Scenes/Player/Player1/Bullet.mat.meta
   userData: 
   assetBundleName: 
   assetBundleVariant: 

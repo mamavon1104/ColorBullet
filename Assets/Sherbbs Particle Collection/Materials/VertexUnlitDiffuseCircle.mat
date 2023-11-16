@@ -14,6 +14,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
+  version: 6
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
   version: 7
 =======
@@ -22,8 +25,12 @@ MonoBehaviour:
 =======
   version: 7
 >>>>>>> origin/main
+<<<<<<< HEAD
 =======
 >>>>>>> recover
+=======
+>>>>>>> main
+>>>>>>> fix3
 --- !u!21 &2100000
 Material:
   serializedVersion: 8
@@ -36,6 +43,12 @@ Material:
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> fix3
   - _ALPHATEST_ON
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -43,6 +56,7 @@ Material:
 >>>>>>> testBranch
 =======
 >>>>>>> origin/main
+>>>>>>> main
   - _EMISSION
   m_InvalidKeywords:
   - _FLIPBOOKBLENDING_OFF
@@ -102,6 +116,8 @@ Material:
 <<<<<<< HEAD
     - _AlphaClip: 1
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
     - _AlphaToMask: 1
 =======
@@ -109,6 +125,7 @@ Material:
 =======
     - _AlphaToMask: 1
 >>>>>>> origin/main
+>>>>>>> main
     - _Blend: 0
 =======
 >>>>>>> recover
@@ -143,6 +160,8 @@ Material:
     - _SpecularHighlights: 1
     - _SrcBlend: 1
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     - _SrcBlendAlpha: 1
@@ -151,6 +170,7 @@ Material:
 =======
     - _SrcBlendAlpha: 1
 >>>>>>> origin/main
+>>>>>>> main
     - _Surface: 0
 =======
 >>>>>>> recover

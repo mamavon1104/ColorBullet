@@ -67,6 +67,8 @@ Material:
 <<<<<<< HEAD
     - _AlphaClip: 0
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
     - _AlphaToMask: 0
 =======
@@ -74,6 +76,7 @@ Material:
 =======
     - _AlphaToMask: 0
 >>>>>>> origin/main
+>>>>>>> main
     - _Blend: 2
 =======
 >>>>>>> recover
@@ -90,6 +93,13 @@ Material:
     - _DistortionEnabled: 0
     - _DistortionStrength: 1
     - _DistortionStrengthScaled: 0
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    - _DstBlend: 0
+=======
+<<<<<<< HEAD
+>>>>>>> fix3
     - _DstBlend: 1
 <<<<<<< HEAD
     - _DstBlendAlpha: 1
@@ -99,8 +109,12 @@ Material:
 >>>>>>> testBranch
 =======
 >>>>>>> origin/main
+<<<<<<< HEAD
 =======
 >>>>>>> recover
+=======
+>>>>>>> main
+>>>>>>> fix3
     - _EmissionEnabled: 0
     - _FlipbookMode: 0
     - _GlossMapScale: 1
@@ -116,6 +130,13 @@ Material:
     - _SoftParticlesFarFadeDistance: 1
     - _SoftParticlesNearFadeDistance: 0
     - _SpecularHighlights: 1
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    - _SrcBlend: 1
+=======
+<<<<<<< HEAD
+>>>>>>> fix3
     - _SrcBlend: 5
 <<<<<<< HEAD
     - _SrcBlendAlpha: 1
@@ -125,6 +146,7 @@ Material:
 >>>>>>> testBranch
 =======
 >>>>>>> origin/main
+>>>>>>> main
     - _Surface: 1
 =======
 >>>>>>> recover
@@ -151,6 +173,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
+  version: 6
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
   version: 7
 =======
@@ -159,5 +184,9 @@ MonoBehaviour:
 =======
   version: 7
 >>>>>>> origin/main
+<<<<<<< HEAD
 =======
 >>>>>>> recover
+=======
+>>>>>>> main
+>>>>>>> fix3

@@ -26,6 +26,8 @@ MonoBehaviour:
 <<<<<<< HEAD
   m_SupportsHDR: 1
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_HDRColorBufferPrecision: 0
 =======
@@ -33,9 +35,13 @@ MonoBehaviour:
 =======
   m_HDRColorBufferPrecision: 0
 >>>>>>> origin/main
+<<<<<<< HEAD
 =======
   m_SupportsHDR: 0
 >>>>>>> recover
+=======
+>>>>>>> main
+>>>>>>> fix3
   m_MSAA: 2
   m_RenderScale: 1
   m_MainLightRenderingMode: 1

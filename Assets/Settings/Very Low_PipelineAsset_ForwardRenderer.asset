@@ -16,6 +16,8 @@ MonoBehaviour:
 <<<<<<< HEAD
     debugReplacementPS: {fileID: 0}
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
     hdrDebugViewPS: {fileID: 0}
 =======
@@ -23,9 +25,13 @@ MonoBehaviour:
 =======
     hdrDebugViewPS: {fileID: 0}
 >>>>>>> origin/main
+<<<<<<< HEAD
 =======
     debugReplacementPS: {fileID: 4800000, guid: cf852408f2e174538bcd9b7fda1c5ae7, type: 3}
 >>>>>>> recover
+=======
+>>>>>>> main
+>>>>>>> fix3
   m_RendererFeatures: []
   m_RendererFeatureMap: 
   m_UseNativeRenderPass: 0
@@ -40,6 +46,8 @@ MonoBehaviour:
     stencilDeferredPS: {fileID: 0}
     fallbackErrorPS: {fileID: 0}
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 >>>>>>> origin/main
@@ -53,14 +61,18 @@ MonoBehaviour:
     dataDrivenLensFlare: {fileID: 0}
 <<<<<<< HEAD
 =======
+>>>>>>> main
     materialErrorPS: {fileID: 0}
     coreBlitPS: {fileID: 0}
     coreBlitColorAndDepthPS: {fileID: 0}
     cameraMotionVector: {fileID: 0}
     objectMotionVector: {fileID: 0}
+<<<<<<< HEAD
+=======
 >>>>>>> testBranch
 =======
 >>>>>>> origin/main
+<<<<<<< HEAD
 =======
     samplingPS: {fileID: 4800000, guid: 04c410c9937594faa893a11dceb85f7e, type: 3}
     stencilDeferredPS: {fileID: 4800000, guid: e9155b26e1bc55942a41e518703fe304, type: 3}
@@ -71,6 +83,9 @@ MonoBehaviour:
     cameraMotionVector: {fileID: 4800000, guid: c56b7e0d4c7cb484e959caeeedae9bbf, type: 3}
     objectMotionVector: {fileID: 4800000, guid: 7b3ede40266cd49a395def176e1bc486, type: 3}
 >>>>>>> recover
+=======
+>>>>>>> main
+>>>>>>> fix3
   m_AssetVersion: 2
   m_OpaqueLayerMask:
     serializedVersion: 2

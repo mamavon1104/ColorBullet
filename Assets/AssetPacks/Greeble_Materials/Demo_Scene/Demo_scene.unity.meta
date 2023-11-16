@@ -1,5 +1,14 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Assets/AssetPacks/Greeble_Materials/Demo_Scene/Demo_scene.unity.meta
 guid: 98cf7a4bdb2031b4a8bafaef3888656b
+=======
+<<<<<<<< HEAD:Assets/Scenes/Player/Player4.meta
+guid: 3c60173c8198feb4c98f34027c364fcb
+folderAsset: yes
+========
+guid: 1b8d251f9af63b746bf2f7ffe00ebb9b
+>>>>>>>> main:Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf.meta
+>>>>>>> fix3:Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf.meta
 DefaultImporter:
   externalObjects: {}
   userData: 

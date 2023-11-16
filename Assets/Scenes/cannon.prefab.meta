@@ -1,6 +1,16 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Scenes/cannon.prefab.meta
 guid: 47dd4d4e01350384e98fe5ed4fb71281
 PrefabImporter:
+=======
+<<<<<<<< HEAD:Assets/Scenes/Player/Player2.meta
+guid: fe4541c2357d72e409bf6624574ee6ab
+========
+guid: 2724853d887ec3b498ed8df97779ba7d
+>>>>>>>> main:Assets/Scenes/Player/Player3.meta
+folderAsset: yes
+DefaultImporter:
+>>>>>>> fix3:Assets/Scenes/Player/Player2.meta
   externalObjects: {}
   userData: 
   assetBundleName: 

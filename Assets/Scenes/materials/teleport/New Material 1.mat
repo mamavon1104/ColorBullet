@@ -113,6 +113,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
+  version: 6
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
   version: 7
 =======
@@ -121,3 +124,4 @@ MonoBehaviour:
 =======
   version: 7
 >>>>>>> origin/main
+>>>>>>> main

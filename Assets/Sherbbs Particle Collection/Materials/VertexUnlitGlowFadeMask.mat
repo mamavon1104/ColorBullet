@@ -15,6 +15,9 @@ Material:
 <<<<<<< HEAD
   m_DoubleSidedGI: 1
 <<<<<<< HEAD
+  m_CustomRenderQueue: -1
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 >>>>>>> origin/main
@@ -22,14 +25,20 @@ Material:
 =======
   m_CustomRenderQueue: -1
 >>>>>>> testBranch
+<<<<<<< HEAD
 =======
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: 3000
 >>>>>>> recover
+=======
+>>>>>>> main
+>>>>>>> fix3
   stringTagMap:
     RenderType: Transparent
   disabledShaderPasses:
   - ALWAYS
+<<<<<<< HEAD
+=======
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -41,6 +50,7 @@ Material:
   - DepthOnly
   - SHADOWCASTER
 >>>>>>> origin/main
+>>>>>>> main
   m_LockedProperties: 
 =======
 >>>>>>> recover
@@ -87,6 +97,8 @@ Material:
 <<<<<<< HEAD
     - _AlphaClip: 0
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
     - _AlphaToMask: 0
 =======
@@ -94,6 +106,7 @@ Material:
 =======
     - _AlphaToMask: 0
 >>>>>>> origin/main
+>>>>>>> main
     - _Blend: 2
 =======
 >>>>>>> recover
@@ -110,6 +123,13 @@ Material:
     - _DistortionEnabled: 0
     - _DistortionStrength: 1
     - _DistortionStrengthScaled: 0
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    - _DstBlend: 0
+=======
+<<<<<<< HEAD
+>>>>>>> fix3
     - _DstBlend: 1
 <<<<<<< HEAD
     - _DstBlendAlpha: 1
@@ -119,8 +139,12 @@ Material:
 >>>>>>> testBranch
 =======
 >>>>>>> origin/main
+<<<<<<< HEAD
 =======
 >>>>>>> recover
+=======
+>>>>>>> main
+>>>>>>> fix3
     - _EmissionEnabled: 0
     - _FlipbookMode: 0
     - _GlossMapScale: 1
@@ -136,6 +160,13 @@ Material:
     - _SoftParticlesFarFadeDistance: 1
     - _SoftParticlesNearFadeDistance: 0
     - _SpecularHighlights: 1
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    - _SrcBlend: 1
+=======
+<<<<<<< HEAD
+>>>>>>> fix3
     - _SrcBlend: 5
 <<<<<<< HEAD
     - _SrcBlendAlpha: 1
@@ -145,6 +176,7 @@ Material:
 >>>>>>> testBranch
 =======
 >>>>>>> origin/main
+>>>>>>> main
     - _Surface: 1
 =======
 >>>>>>> recover
@@ -152,6 +184,9 @@ Material:
     - _ZWrite: 0
     m_Colors:
     - _CameraFadeParams: {r: 0, g: Infinity, b: 0, a: 0}
+<<<<<<< HEAD
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+=======
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -162,6 +197,7 @@ Material:
 =======
     - _Color: {r: 8.474192, g: 8.474192, b: 8.474192, a: 1}
 >>>>>>> origin/main
+>>>>>>> main
     - _ColorAddSubDiff: {r: 0, g: 0, b: 0, a: 0}
     - _EmissionColor: {r: 0.6675392, g: 0.6675392, b: 0.6675392, a: 1}
     - _SoftParticleFadeParams: {r: 0, g: 0, b: 0, a: 0}
@@ -179,6 +215,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
+  version: 6
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
   version: 7
 =======
@@ -187,9 +226,13 @@ MonoBehaviour:
 =======
   version: 7
 >>>>>>> origin/main
+<<<<<<< HEAD
 =======
     - _Color: {r: 8.47419, g: 8.47419, b: 8.47419, a: 1}
     - _ColorAddSubDiff: {r: 0, g: 0, b: 0, a: 0}
     - _EmissionColor: {r: 0.6675392, g: 0.6675392, b: 0.6675392, a: 1}
     - _SoftParticleFadeParams: {r: 0, g: 0, b: 0, a: 0}
 >>>>>>> recover
+=======
+>>>>>>> main
+>>>>>>> fix3

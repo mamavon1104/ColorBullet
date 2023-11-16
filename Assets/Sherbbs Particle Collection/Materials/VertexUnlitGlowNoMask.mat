@@ -14,6 +14,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
+  version: 6
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
   version: 7
 =======
@@ -22,8 +25,12 @@ MonoBehaviour:
 =======
   version: 7
 >>>>>>> origin/main
+<<<<<<< HEAD
 =======
 >>>>>>> recover
+=======
+>>>>>>> main
+>>>>>>> fix3
 --- !u!21 &2100000
 Material:
   serializedVersion: 8
@@ -36,6 +43,12 @@ Material:
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> fix3
   - _ALPHATEST_ON
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -43,12 +56,16 @@ Material:
 >>>>>>> testBranch
 =======
 >>>>>>> origin/main
+>>>>>>> main
   - _EMISSION
   m_InvalidKeywords:
   - _FLIPBOOKBLENDING_OFF
   m_LightmapFlags: 0
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 1
+<<<<<<< HEAD
+  m_CustomRenderQueue: -1
+=======
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -57,6 +74,7 @@ Material:
 =======
   m_CustomRenderQueue: -1
 >>>>>>> testBranch
+<<<<<<< HEAD
 =======
   m_InvalidKeywords: []
   m_LightmapFlags: 0
@@ -64,6 +82,9 @@ Material:
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: 2450
 >>>>>>> recover
+=======
+>>>>>>> main
+>>>>>>> fix3
   stringTagMap:
     RenderType: TransparentCutout
   disabledShaderPasses:
@@ -113,6 +134,8 @@ Material:
 <<<<<<< HEAD
     - _AlphaClip: 1
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
     - _AlphaToMask: 1
 =======
@@ -120,6 +143,7 @@ Material:
 =======
     - _AlphaToMask: 1
 >>>>>>> origin/main
+>>>>>>> main
     - _Blend: 0
 =======
 >>>>>>> recover
@@ -154,6 +178,8 @@ Material:
     - _SpecularHighlights: 1
     - _SrcBlend: 1
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     - _SrcBlendAlpha: 1
@@ -162,6 +188,7 @@ Material:
 =======
     - _SrcBlendAlpha: 1
 >>>>>>> origin/main
+>>>>>>> main
     - _Surface: 0
 =======
 >>>>>>> recover
@@ -169,6 +196,9 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - _CameraFadeParams: {r: 0, g: Infinity, b: 0, a: 0}
+<<<<<<< HEAD
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+=======
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -179,9 +209,13 @@ Material:
 =======
     - _Color: {r: 8.474192, g: 8.474192, b: 8.474192, a: 1}
 >>>>>>> origin/main
+<<<<<<< HEAD
 =======
     - _Color: {r: 8.47419, g: 8.47419, b: 8.47419, a: 1}
 >>>>>>> recover
+=======
+>>>>>>> main
+>>>>>>> fix3
     - _ColorAddSubDiff: {r: 0, g: 0, b: 0, a: 0}
     - _EmissionColor: {r: 0.6675392, g: 0.6675392, b: 0.6675392, a: 1}
     - _SoftParticleFadeParams: {r: 0, g: 0, b: 0, a: 0}

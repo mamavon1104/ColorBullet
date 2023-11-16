@@ -8,6 +8,8 @@
       "dependencies": {}
     },
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     "com.unity.ai.navigation": {
@@ -20,6 +22,7 @@
       "version": "1.1.5",
 =======
 >>>>>>> origin/main
+>>>>>>> main
     "com.unity.burst": {
       "version": "1.7.3",
       "depth": 1,
@@ -75,6 +78,9 @@
 <<<<<<< HEAD
     "com.unity.inputsystem": {
 <<<<<<< HEAD
+      "version": "1.3.0",
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -89,6 +95,7 @@
 >>>>>>> testBranch
 =======
 >>>>>>> origin/main
+>>>>>>> main
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -103,6 +110,8 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
+=======
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -138,6 +147,7 @@
 >>>>>>> testBranch
 =======
 >>>>>>> origin/main
+>>>>>>> main
     "com.unity.nuget.newtonsoft-json": {
       "version": "3.0.2",
 >>>>>>> PushBranch
@@ -208,6 +218,34 @@
     "com.unity.nuget.newtonsoft-json": {
       "version": "3.0.2",
 >>>>>>> recover
+      "depth": 2,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.render-pipelines.core": {
+      "version": "13.1.8",
+      "depth": 1,
+      "source": "builtin",
+      "dependencies": {
+        "com.unity.ugui": "1.0.0",
+        "com.unity.modules.physics": "1.0.0",
+        "com.unity.modules.jsonserialize": "1.0.0"
+      }
+    },
+    "com.unity.render-pipelines.universal": {
+      "version": "13.1.8",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {
+        "com.unity.mathematics": "1.2.1",
+        "com.unity.burst": "1.5.0",
+        "com.unity.render-pipelines.core": "13.1.8",
+        "com.unity.shadergraph": "13.1.8"
+      }
+    },
+    "com.unity.searcher": {
+      "version": "4.9.2",
       "depth": 2,
       "source": "registry",
       "dependencies": {},
@@ -250,6 +288,15 @@
       },
       "url": "https://packages.unity.com"
 >>>>>>> recover
+    },
+    "com.unity.shadergraph": {
+      "version": "13.1.8",
+      "depth": 1,
+      "source": "builtin",
+      "dependencies": {
+        "com.unity.render-pipelines.core": "13.1.8",
+        "com.unity.searcher": "4.9.2"
+      }
     },
     "com.unity.test-framework": {
       "version": "1.1.31",
@@ -295,6 +342,8 @@
 <<<<<<< HEAD
     "com.unity.visualeffectgraph": {
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -311,12 +360,15 @@
 >>>>>>> testBranch
 =======
 >>>>>>> origin/main
+>>>>>>> main
       "version": "13.1.8",
       "depth": 0,
       "source": "builtin",
       "dependencies": {
         "com.unity.shadergraph": "13.1.8",
         "com.unity.render-pipelines.core": "13.1.8"
+<<<<<<< HEAD
+=======
 <<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> PushBranch
@@ -325,6 +377,7 @@
 =======
 >>>>>>> PushBranch
 >>>>>>> origin/main
+>>>>>>> main
       }
     },
 =======

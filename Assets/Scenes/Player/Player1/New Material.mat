@@ -9,6 +9,9 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: New Material
 <<<<<<< HEAD
+  m_Shader: {fileID: -6465566751694194690, guid: d0cc351a101eab14abe751e7c9ff5e70, type: 3}
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_Shader: {fileID: -6465566751694194690, guid: 445e1445d2b459744aad01a51ec01a67, type: 3}
 =======
@@ -17,6 +20,7 @@ Material:
 =======
   m_Shader: {fileID: -6465566751694194690, guid: 445e1445d2b459744aad01a51ec01a67, type: 3}
 >>>>>>> origin/main
+>>>>>>> main
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -112,6 +116,9 @@ Material:
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
 <<<<<<< HEAD
+    - _Speed: 0.5
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
     - _Speed: 3.1
 =======
@@ -120,6 +127,7 @@ Material:
 =======
     - _Speed: 3.1
 >>>>>>> origin/main
+>>>>>>> main
     - _SrcBlend: 1
     - _Subtract: 0.32
     - _TopLines: 2.2
@@ -129,6 +137,9 @@ Material:
     m_Colors:
     - _Color: {r: 1, g: 0.8098928, b: 0, a: 1}
 <<<<<<< HEAD
+    - _Color_1: {r: 6.964404, g: 0.2731139, b: 0, a: 0}
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
     - _Color_1: {r: 126.50718, g: 13.157039, b: 0, a: 0}
 =======
@@ -137,6 +148,7 @@ Material:
 =======
     - _Color_1: {r: 126.50718, g: 13.157039, b: 0, a: 0}
 >>>>>>> origin/main
+>>>>>>> main
     - _EmissionColor: {r: 0.092156865, g: 0.5, b: 0, a: 1}
   m_BuildTextureStacks: []
 --- !u!114 &2011956992511387642
@@ -152,6 +164,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
+  version: 6
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
   version: 7
 =======
@@ -160,3 +175,4 @@ MonoBehaviour:
 =======
   version: 7
 >>>>>>> origin/main
+>>>>>>> main

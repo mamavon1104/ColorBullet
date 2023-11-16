@@ -14,6 +14,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
+  version: 6
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
   version: 7
 =======
@@ -22,8 +25,12 @@ MonoBehaviour:
 =======
   version: 7
 >>>>>>> origin/main
+<<<<<<< HEAD
 =======
 >>>>>>> recover
+=======
+>>>>>>> main
+>>>>>>> fix3
 --- !u!21 &2100000
 Material:
   serializedVersion: 8
