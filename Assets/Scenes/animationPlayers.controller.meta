@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: e72d01dff2e0ab24da5672e0d1f7eae5
+NativeFormatImporter:
+  externalObjects: {}
+<<<<<<< HEAD:Assets/Scenes/Player/Player2/Bullet.mat.meta
+<<<<<<< HEAD
+<<<<<<< HEAD
+  mainObjectFileID: 0
+=======
+  mainObjectFileID: 2100000
+>>>>>>> testBranch
+=======
+  mainObjectFileID: 0
+>>>>>>> origin/main
+=======
+  mainObjectFileID: 9100000
+>>>>>>> recover:Assets/Scenes/animationPlayers.controller.meta
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

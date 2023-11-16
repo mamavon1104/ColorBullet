@@ -2,29 +2,23 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!21 &2100000
 Material:
-  serializedVersion: 8
+  serializedVersion: 6
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: VertexUnlitGlowNoMaskAdditive
-  m_Shader: {fileID: 4800000, guid: 0406db5a14f94604a8c57ccfbc9f3b46, type: 3}
-  m_Parent: {fileID: 0}
-  m_ModifiedSerializedProperties: 0
-  m_ValidKeywords:
-  - _EMISSION
-  - _SURFACE_TYPE_TRANSPARENT
-  m_InvalidKeywords:
-  - _ALPHABLEND_ON
-  - _FLIPBOOKBLENDING_OFF
+  m_Shader: {fileID: 211, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: _ALPHABLEND_ON
   m_LightmapFlags: 0
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
-  m_CustomRenderQueue: -1
+  m_CustomRenderQueue: 3000
   stringTagMap:
-    RenderType: Opaque
+    RenderType: Transparent
   disabledShaderPasses:
   - ALWAYS
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
   - DepthOnly
@@ -36,13 +30,11 @@ Material:
   - SHADOWCASTER
 >>>>>>> origin/main
   m_LockedProperties: 
+=======
+>>>>>>> recover
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
-    - _BaseMap:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
     - _BumpMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -79,8 +71,8 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    m_Ints: []
     m_Floats:
+<<<<<<< HEAD
     - _AlphaClip: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -91,6 +83,8 @@ Material:
     - _AlphaToMask: 0
 >>>>>>> origin/main
     - _Blend: 2
+=======
+>>>>>>> recover
     - _BlendOp: 0
     - _BumpScale: 1
     - _CameraFadingEnabled: 0
@@ -104,8 +98,8 @@ Material:
     - _DistortionEnabled: 0
     - _DistortionStrength: 1
     - _DistortionStrengthScaled: 0
-<<<<<<< HEAD
     - _DstBlend: 1
+<<<<<<< HEAD
     - _DstBlendAlpha: 1
 <<<<<<< HEAD
 =======
@@ -113,8 +107,9 @@ Material:
 >>>>>>> testBranch
 =======
 >>>>>>> origin/main
+=======
+>>>>>>> recover
     - _EmissionEnabled: 0
-    - _FlipbookBlending: 0
     - _FlipbookMode: 0
     - _GlossMapScale: 1
     - _Glossiness: 0.5
@@ -124,14 +119,13 @@ Material:
     - _Mode: 4
     - _OcclusionStrength: 1
     - _Parallax: 0.02
-    - _QueueOffset: 0
     - _SmoothnessTextureChannel: 0
     - _SoftParticlesEnabled: 0
     - _SoftParticlesFarFadeDistance: 1
     - _SoftParticlesNearFadeDistance: 0
     - _SpecularHighlights: 1
-<<<<<<< HEAD
     - _SrcBlend: 5
+<<<<<<< HEAD
     - _SrcBlendAlpha: 1
 <<<<<<< HEAD
 =======
@@ -140,12 +134,13 @@ Material:
 =======
 >>>>>>> origin/main
     - _Surface: 1
+=======
+>>>>>>> recover
     - _UVSec: 0
-    - _ZWrite: 1
+    - _ZWrite: 0
     m_Colors:
-    - _BaseColor: {r: 3.9999998, g: 3.9999998, b: 3.9999998, a: 1}
-    - _BaseColorAddSubDiff: {r: 0, g: 0, b: 0, a: 0}
     - _CameraFadeParams: {r: 0, g: Infinity, b: 0, a: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     - _Color: {r: 4, g: 4, b: 4, a: 1}
@@ -180,3 +175,9 @@ MonoBehaviour:
 =======
   version: 7
 >>>>>>> origin/main
+=======
+    - _Color: {r: 3.9999995, g: 3.9999995, b: 3.9999995, a: 1}
+    - _ColorAddSubDiff: {r: 1, g: 0, b: 0, a: 0}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _SoftParticleFadeParams: {r: 0, g: 0, b: 0, a: 0}
+>>>>>>> recover

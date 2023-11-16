@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Samples/Shader Graph.meta
+<<<<<<<< HEAD:Assets/Samples/Shader Graph.meta
+guid: 7b85e44a9c040844b85073f091dcf60f
+========
+guid: 8e1c7f9e04c795044993c7024011b9b9
+>>>>>>>> origin/main:Assets/Samples.meta
+=======
+guid: a168713ba095ed141baec66e677dec5a
+>>>>>>> recover:Assets/Scenes/C#.meta
+folderAsset: yes
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
