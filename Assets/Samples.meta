@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Samples.meta
+guid: 8e1c7f9e04c795044993c7024011b9b9
+========
+guid: 0c626b26cad4fcf41a933597422bbf8d
+>>>>>>>> testBranch:Assets/Scenes/Player/Player1.meta
+folderAsset: yes
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
