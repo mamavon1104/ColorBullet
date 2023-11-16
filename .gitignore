@@ -60,8 +60,5 @@ Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
 Assets/Scenes/textProFolder/NotoSansJP-Black SDF.asset
 Assets/Scenes/togalite/Togalite-Medium SDF.asset
 >>>>>>> main
-<<<<<<< HEAD
-Assets/Sherbbs Particle Collection/Materials/UnlitBlack.mat
-Assets/Scenes/Button UI/NotoSansJP-Black SDF.asset.meta
-=======
->>>>>>> PushBranch
+Assets/NotoSansJP-Black SDF.asset
+Assets/Scenes/GameResult/LightingData.asset.meta

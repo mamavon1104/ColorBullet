@@ -20,11 +20,8 @@ VisualEffectResource:
     m_PreWarmDeltaTime: 0.05
     m_PreWarmStepCount: 0
     m_InitialEventName: OnPlay
-<<<<<<< HEAD
     m_InstancingMode: -1
     m_InstancingCapacity: 64
-=======
->>>>>>> PushBranch
 --- !u!114 &8926484042661615022
 MonoBehaviour:
   m_ObjectHideFlags: 1
