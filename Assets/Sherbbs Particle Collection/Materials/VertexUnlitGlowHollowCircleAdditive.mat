@@ -1,6 +1,7 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!114 &-1845122198915704877
 MonoBehaviour:
   m_ObjectHideFlags: 11
@@ -14,6 +15,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
+<<<<<<< HEAD
   version: 6
 =======
 <<<<<<< HEAD
@@ -26,11 +28,20 @@ MonoBehaviour:
   version: 7
 >>>>>>> origin/main
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> recover
 =======
 >>>>>>> main
 >>>>>>> fix3
+=======
+>>>>>>> recover
+=======
+>>>>>>> main
+>>>>>>> fix3
+=======
+  version: 7
+>>>>>>> test
 --- !u!21 &2100000
 Material:
   serializedVersion: 6
@@ -44,7 +55,9 @@ Material:
   m_LightmapFlags: 0
   m_EnableInstancingVariants: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_DoubleSidedGI: 1
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_CustomRenderQueue: -1
 =======
@@ -56,6 +69,7 @@ Material:
 =======
   m_CustomRenderQueue: -1
 >>>>>>> testBranch
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
   m_DoubleSidedGI: 0
@@ -64,13 +78,29 @@ Material:
 =======
 >>>>>>> main
 >>>>>>> fix3
+=======
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3000
+>>>>>>> recover
+=======
+>>>>>>> main
+>>>>>>> fix3
+=======
+  m_CustomRenderQueue: 3000
+>>>>>>> test
   stringTagMap:
     RenderType: Transparent
   disabledShaderPasses:
   - ALWAYS
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
+=======
+=======
+>>>>>>> fix3
 <<<<<<< HEAD
 <<<<<<< HEAD
   - DepthOnly
@@ -82,7 +112,13 @@ Material:
   - SHADOWCASTER
 >>>>>>> origin/main
 >>>>>>> main
+=======
+  - DepthOnly
+  - SHADOWCASTER
+>>>>>>> test
   m_LockedProperties: 
+=======
+>>>>>>> recover
 =======
 >>>>>>> recover
   m_SavedProperties:
@@ -126,7 +162,9 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
 <<<<<<< HEAD
+<<<<<<< HEAD
     - _AlphaClip: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -138,7 +176,12 @@ Material:
     - _AlphaToMask: 0
 >>>>>>> origin/main
 >>>>>>> main
+=======
+    - _AlphaToMask: 0
+>>>>>>> test
     - _Blend: 0
+=======
+>>>>>>> recover
 =======
 >>>>>>> recover
     - _BlendOp: 0
@@ -154,6 +197,14 @@ Material:
     - _DistortionEnabled: 0
     - _DistortionStrength: 1
     - _DistortionStrengthScaled: 0
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    - _DstBlend: 0
+=======
+>>>>>>> fix3
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -171,11 +222,22 @@ Material:
 =======
 >>>>>>> origin/main
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> recover
 =======
 >>>>>>> main
 >>>>>>> fix3
+=======
+    - _DstBlend: 10
+>>>>>>> recover
+=======
+>>>>>>> main
+>>>>>>> fix3
+=======
+    - _DstBlend: 10
+    - _DstBlendAlpha: 10
+>>>>>>> test
     - _EmissionEnabled: 0
     - _FlipbookMode: 0
     - _GlossMapScale: 1
@@ -191,6 +253,14 @@ Material:
     - _SoftParticlesFarFadeDistance: 1
     - _SoftParticlesNearFadeDistance: 0
     - _SpecularHighlights: 1
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    - _SrcBlend: 1
+=======
+>>>>>>> fix3
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -208,8 +278,15 @@ Material:
 =======
 >>>>>>> origin/main
 >>>>>>> main
+=======
+    - _SrcBlend: 5
+    - _SrcBlendAlpha: 1
+>>>>>>> test
     - _Surface: 1
 =======
+>>>>>>> recover
+=======
+    - _SrcBlend: 5
 >>>>>>> recover
     - _UVSec: 0
     - _ZWrite: 0

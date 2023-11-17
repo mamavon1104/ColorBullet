@@ -1,4 +1,5 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD:Assets/AssetPacks/Greeble_Materials/Demo_Scene.meta
 guid: 33bf774a83c9d91429a28668c5e84f9f
 =======
@@ -9,6 +10,10 @@ folderAsset: yes
 ========
 guid: 1b8d251f9af63b746bf2f7ffe00ebb9b
 >>>>>>>> main:Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf.meta
+=======
+guid: 33bf774a83c9d91429a28668c5e84f9f
+folderAsset: yes
+>>>>>>> recover
 DefaultImporter:
   externalObjects: {}
   userData: 

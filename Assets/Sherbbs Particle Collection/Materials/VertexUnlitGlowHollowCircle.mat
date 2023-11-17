@@ -13,6 +13,13 @@ Material:
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> fix3
+<<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 =======
@@ -26,12 +33,16 @@ Material:
 =======
 >>>>>>> origin/main
 >>>>>>> main
+=======
+  - _ALPHATEST_ON
+>>>>>>> test
   - _EMISSION
   m_InvalidKeywords:
   - _FLIPBOOKBLENDING_OFF
   m_LightmapFlags: 0
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 1
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_CustomRenderQueue: -1
 =======
@@ -44,6 +55,7 @@ Material:
   m_CustomRenderQueue: -1
 >>>>>>> testBranch
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
   m_InvalidKeywords: []
   m_LightmapFlags: 0
@@ -54,6 +66,20 @@ Material:
 =======
 >>>>>>> main
 >>>>>>> fix3
+=======
+  - _ALPHATEST_ON
+  m_InvalidKeywords: []
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 2450
+>>>>>>> recover
+=======
+>>>>>>> main
+>>>>>>> fix3
+=======
+  m_CustomRenderQueue: 2450
+>>>>>>> test
   stringTagMap:
     RenderType: TransparentCutout
   disabledShaderPasses:
@@ -101,7 +127,9 @@ Material:
     m_Ints: []
     m_Floats:
 <<<<<<< HEAD
+<<<<<<< HEAD
     - _AlphaClip: 1
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -113,7 +141,12 @@ Material:
     - _AlphaToMask: 1
 >>>>>>> origin/main
 >>>>>>> main
+=======
+    - _AlphaToMask: 1
+>>>>>>> test
     - _Blend: 0
+=======
+>>>>>>> recover
 =======
 >>>>>>> recover
     - _BlendOp: 0
@@ -130,6 +163,7 @@ Material:
     - _DistortionStrength: 1
     - _DistortionStrengthScaled: 0
     - _DstBlend: 0
+    - _DstBlendAlpha: 0
     - _EmissionEnabled: 0
     - _FlipbookMode: 0
     - _GlossMapScale: 1
@@ -147,8 +181,14 @@ Material:
     - _SpecularHighlights: 1
     - _SrcBlend: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
+=======
+=======
+>>>>>>> fix3
 <<<<<<< HEAD
 <<<<<<< HEAD
     - _SrcBlendAlpha: 1
@@ -158,7 +198,12 @@ Material:
     - _SrcBlendAlpha: 1
 >>>>>>> origin/main
 >>>>>>> main
+=======
+    - _SrcBlendAlpha: 1
+>>>>>>> test
     - _Surface: 0
+=======
+>>>>>>> recover
 =======
 >>>>>>> recover
     - _UVSec: 0
@@ -166,9 +211,16 @@ Material:
     m_Colors:
     - _CameraFadeParams: {r: 0, g: Infinity, b: 0, a: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
     - _Color: {r: 1, g: 1, b: 1, a: 1}
 =======
 <<<<<<< HEAD
+=======
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+=======
+>>>>>>> fix3
 <<<<<<< HEAD
 <<<<<<< HEAD
     - _Color: {r: 8.474192, g: 8.474192, b: 8.474192, a: 1}
@@ -179,16 +231,27 @@ Material:
     - _Color: {r: 8.474192, g: 8.474192, b: 8.474192, a: 1}
 >>>>>>> origin/main
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
     - _Color: {r: 8.47419, g: 8.47419, b: 8.47419, a: 1}
 >>>>>>> recover
 =======
 >>>>>>> main
 >>>>>>> fix3
+=======
+    - _Color: {r: 8.47419, g: 8.47419, b: 8.47419, a: 1}
+>>>>>>> recover
+=======
+>>>>>>> main
+>>>>>>> fix3
+=======
+    - _Color: {r: 8.474192, g: 8.474192, b: 8.474192, a: 1}
+>>>>>>> test
     - _ColorAddSubDiff: {r: 0, g: 0, b: 0, a: 0}
     - _EmissionColor: {r: 0.6675392, g: 0.6675392, b: 0.6675392, a: 1}
     - _SoftParticleFadeParams: {r: 0, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
+<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!114 &8499099971015833145
 MonoBehaviour:
@@ -203,6 +266,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
+<<<<<<< HEAD
   version: 6
 =======
 <<<<<<< HEAD
@@ -215,8 +279,17 @@ MonoBehaviour:
   version: 7
 >>>>>>> origin/main
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> recover
 =======
 >>>>>>> main
 >>>>>>> fix3
+=======
+>>>>>>> recover
+=======
+>>>>>>> main
+>>>>>>> fix3
+=======
+  version: 7
+>>>>>>> test

@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/SciFi Assets/Animations.meta
 guid: 01ac5810d9628754ea922ff1266646a1
+========
+guid: 0ad930b0ee115e6429eac246e270de4a
+>>>>>>>> recover:Assets/AssetPacks/Greeble_Materials.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}

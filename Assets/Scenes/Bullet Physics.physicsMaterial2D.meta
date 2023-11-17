@@ -2,6 +2,7 @@ fileFormatVersion: 2
 guid: 369ad2ac321440841af9f5d74d9cab13
 NativeFormatImporter:
   externalObjects: {}
+<<<<<<< HEAD
 <<<<<<< HEAD:Assets/Scenes/Player/Player1/Bullet.mat.meta
 <<<<<<< HEAD
   mainObjectFileID: 2100000
@@ -22,6 +23,9 @@ NativeFormatImporter:
 =======
 >>>>>>> main
 >>>>>>> fix3:Assets/Scenes/Player/Player2/Bullet.mat.meta
+=======
+  mainObjectFileID: 6200000
+>>>>>>> recover
   userData: 
   assetBundleName: 
   assetBundleVariant: 

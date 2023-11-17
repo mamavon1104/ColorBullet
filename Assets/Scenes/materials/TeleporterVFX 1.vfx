@@ -21,6 +21,7 @@ VisualEffectResource:
     m_PreWarmStepCount: 0
     m_InitialEventName: OnPlay
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -33,6 +34,10 @@ VisualEffectResource:
     m_InstancingCapacity: 64
 >>>>>>> origin/main
 >>>>>>> main
+=======
+    m_InstancingMode: -1
+    m_InstancingCapacity: 64
+>>>>>>> test
 --- !u!114 &8926484042661615756
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -55,6 +60,7 @@ MonoBehaviour:
   m_ParameterInfo: []
   m_ImportDependencies: []
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GraphVersion: 9
 =======
 <<<<<<< HEAD
@@ -67,6 +73,9 @@ MonoBehaviour:
   m_GraphVersion: 12
 >>>>>>> origin/main
 >>>>>>> main
+=======
+  m_GraphVersion: 12
+>>>>>>> test
   m_ResourceVersion: 1
   m_SubgraphDependencies: []
   m_CategoryPath: 

@@ -1,6 +1,7 @@
 {
   "dependencies": {
 <<<<<<< HEAD
+<<<<<<< HEAD
     "com.unity.2d.sprite": "1.0.0",
 <<<<<<< HEAD
 =======
@@ -24,6 +25,12 @@
 =======
 >>>>>>> origin/main
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> recover
+=======
+>>>>>>> main
+>>>>>>> fix3
 =======
 >>>>>>> recover
 =======
@@ -38,8 +45,13 @@
     "com.unity.timeline": "1.7.1",
     "com.unity.ugui": "1.0.0",
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
+=======
+=======
+>>>>>>> fix3
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -55,6 +67,8 @@
 >>>>>>> origin/main
 >>>>>>> main
     "com.unity.visualeffectgraph": "13.1.8",
+=======
+>>>>>>> recover
 =======
 >>>>>>> recover
     "com.unity.visualscripting": "1.7.8",

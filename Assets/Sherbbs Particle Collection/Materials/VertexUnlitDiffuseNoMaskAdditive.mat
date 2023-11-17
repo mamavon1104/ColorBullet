@@ -22,6 +22,8 @@ Material:
     RenderType: Transparent
   disabledShaderPasses:
   - GRABPASS
+  - DepthOnly
+  - SHADOWCASTER
   m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
@@ -65,7 +67,9 @@ Material:
     m_Ints: []
     m_Floats:
 <<<<<<< HEAD
+<<<<<<< HEAD
     - _AlphaClip: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -77,7 +81,12 @@ Material:
     - _AlphaToMask: 0
 >>>>>>> origin/main
 >>>>>>> main
+=======
+    - _AlphaToMask: 0
+>>>>>>> test
     - _Blend: 2
+=======
+>>>>>>> recover
 =======
 >>>>>>> recover
     - _BlendOp: 0
@@ -93,6 +102,14 @@ Material:
     - _DistortionEnabled: 0
     - _DistortionStrength: 1
     - _DistortionStrengthScaled: 0
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    - _DstBlend: 0
+=======
+>>>>>>> fix3
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -110,11 +127,22 @@ Material:
 =======
 >>>>>>> origin/main
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> recover
 =======
 >>>>>>> main
 >>>>>>> fix3
+=======
+    - _DstBlend: 1
+>>>>>>> recover
+=======
+>>>>>>> main
+>>>>>>> fix3
+=======
+    - _DstBlend: 1
+    - _DstBlendAlpha: 1
+>>>>>>> test
     - _EmissionEnabled: 0
     - _FlipbookMode: 0
     - _GlossMapScale: 1
@@ -130,6 +158,14 @@ Material:
     - _SoftParticlesFarFadeDistance: 1
     - _SoftParticlesNearFadeDistance: 0
     - _SpecularHighlights: 1
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    - _SrcBlend: 1
+=======
+>>>>>>> fix3
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -147,8 +183,15 @@ Material:
 =======
 >>>>>>> origin/main
 >>>>>>> main
+=======
+    - _SrcBlend: 5
+    - _SrcBlendAlpha: 1
+>>>>>>> test
     - _Surface: 1
 =======
+>>>>>>> recover
+=======
+    - _SrcBlend: 5
 >>>>>>> recover
     - _UVSec: 0
     - _ZWrite: 0
@@ -159,6 +202,7 @@ Material:
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SoftParticleFadeParams: {r: 0, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
+<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!114 &8967721771492174113
 MonoBehaviour:
@@ -173,6 +217,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
+<<<<<<< HEAD
   version: 6
 =======
 <<<<<<< HEAD
@@ -185,8 +230,17 @@ MonoBehaviour:
   version: 7
 >>>>>>> origin/main
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> recover
 =======
 >>>>>>> main
 >>>>>>> fix3
+=======
+>>>>>>> recover
+=======
+>>>>>>> main
+>>>>>>> fix3
+=======
+  version: 7
+>>>>>>> test

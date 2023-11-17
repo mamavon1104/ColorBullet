@@ -1,6 +1,15 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: e4deb6d508bf57e4186b82e46cf5376d
 folderAsset: yes
+=======
+<<<<<<<< HEAD:Assets/Scenes/Player/Player4.meta
+guid: a4330d00a0bb9a744bb620541a9e75d0
+folderAsset: yes
+========
+guid: 1b8d251f9af63b746bf2f7ffe00ebb9b
+>>>>>>>> main:Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf.meta
+>>>>>>> fix3
 DefaultImporter:
   externalObjects: {}
   userData: 

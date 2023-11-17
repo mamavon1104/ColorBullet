@@ -1,4 +1,5 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD:Assets/Scenes/cannon.prefab.meta
 guid: 47dd4d4e01350384e98fe5ed4fb71281
 PrefabImporter:
@@ -11,6 +12,14 @@ guid: 2724853d887ec3b498ed8df97779ba7d
 folderAsset: yes
 DefaultImporter:
 >>>>>>> fix3:Assets/Scenes/Player/Player2.meta
+=======
+<<<<<<<< HEAD:Assets/Scenes/Player/Player1/Bullet1.prefab.meta
+guid: 5fcea5928aeaa174c81a4c294be51c6d
+========
+guid: 47dd4d4e01350384e98fe5ed4fb71281
+>>>>>>>> recover:Assets/Scenes/cannon.prefab.meta
+PrefabImporter:
+>>>>>>> recover
   externalObjects: {}
   userData: 
   assetBundleName: 

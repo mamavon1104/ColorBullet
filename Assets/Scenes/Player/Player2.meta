@@ -1,5 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 8bd95d994c848954580c120697eb6ec0
+=======
+<<<<<<<< HEAD:Assets/Scenes/Player/Player2.meta
+guid: fe4541c2357d72e409bf6624574ee6ab
+========
+guid: 2724853d887ec3b498ed8df97779ba7d
+>>>>>>>> main:Assets/Scenes/Player/Player3.meta
+>>>>>>> fix3
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}

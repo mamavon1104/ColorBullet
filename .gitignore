@@ -51,9 +51,12 @@ Thumbs.db
 *.pyc
 Assets/Scenes/textProFolder/NotoSansJP-Black SDF.asset
 <<<<<<< HEAD
+<<<<<<< HEAD
 Assets/Scenes/togalite/Togalite-Medium SDF.asset
 >>>>>>> main
 Assets/NotoSansJP-Black SDF.asset
 Assets/Scenes/GameResult/LightingData.asset.meta
+=======
+>>>>>>> recover
 =======
 >>>>>>> recover

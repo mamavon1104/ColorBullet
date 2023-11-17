@@ -1,6 +1,7 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!114 &-4639942050810574622
 MonoBehaviour:
   m_ObjectHideFlags: 11
@@ -14,6 +15,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
+<<<<<<< HEAD
   version: 6
 =======
 <<<<<<< HEAD
@@ -26,11 +28,20 @@ MonoBehaviour:
   version: 7
 >>>>>>> origin/main
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> recover
 =======
 >>>>>>> main
 >>>>>>> fix3
+=======
+>>>>>>> recover
+=======
+>>>>>>> main
+>>>>>>> fix3
+=======
+  version: 7
+>>>>>>> test
 --- !u!21 &2100000
 Material:
   serializedVersion: 8
@@ -96,7 +107,9 @@ Material:
     m_Ints: []
     m_Floats:
 <<<<<<< HEAD
+<<<<<<< HEAD
     - _AlphaClip: 1
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -108,7 +121,12 @@ Material:
     - _AlphaToMask: 1
 >>>>>>> origin/main
 >>>>>>> main
+=======
+    - _AlphaToMask: 1
+>>>>>>> test
     - _Blend: 0
+=======
+>>>>>>> recover
 =======
 >>>>>>> recover
     - _BlendOp: 0
@@ -125,6 +143,7 @@ Material:
     - _DistortionStrength: 1
     - _DistortionStrengthScaled: 0
     - _DstBlend: 0
+    - _DstBlendAlpha: 0
     - _EmissionEnabled: 0
     - _FlipbookMode: 0
     - _GlossMapScale: 1
@@ -142,8 +161,14 @@ Material:
     - _SpecularHighlights: 1
     - _SrcBlend: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
+=======
+=======
+>>>>>>> fix3
 <<<<<<< HEAD
 <<<<<<< HEAD
     - _SrcBlendAlpha: 1
@@ -153,7 +178,12 @@ Material:
     - _SrcBlendAlpha: 1
 >>>>>>> origin/main
 >>>>>>> main
+=======
+    - _SrcBlendAlpha: 1
+>>>>>>> test
     - _Surface: 0
+=======
+>>>>>>> recover
 =======
 >>>>>>> recover
     - _UVSec: 0
