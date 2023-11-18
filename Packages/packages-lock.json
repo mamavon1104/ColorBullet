@@ -347,6 +347,7 @@
       "version": "4.9.2",
 =======
     "com.unity.nuget.newtonsoft-json": {
+<<<<<<< HEAD
       "version": "3.0.2",
 >>>>>>> recover
 =======
@@ -354,18 +355,22 @@
     "com.unity.nuget.newtonsoft-json": {
       "version": "3.0.2",
 >>>>>>> recover
+=======
+      "version": "3.2.1",
+>>>>>>> test
       "depth": 2,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
     "com.unity.render-pipelines.core": {
-      "version": "13.1.8",
+      "version": "14.0.9",
       "depth": 1,
       "source": "builtin",
       "dependencies": {
         "com.unity.ugui": "1.0.0",
         "com.unity.modules.physics": "1.0.0",
+        "com.unity.modules.terrain": "1.0.0",
         "com.unity.modules.jsonserialize": "1.0.0"
       }
     },
@@ -375,9 +380,9 @@
       "source": "builtin",
       "dependencies": {
         "com.unity.mathematics": "1.2.1",
-        "com.unity.burst": "1.5.0",
-        "com.unity.render-pipelines.core": "13.1.8",
-        "com.unity.shadergraph": "13.1.8"
+        "com.unity.burst": "1.8.4",
+        "com.unity.render-pipelines.core": "14.0.9",
+        "com.unity.shadergraph": "14.0.9"
       }
     },
     "com.unity.searcher": {
@@ -393,6 +398,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.services.core": {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -420,6 +426,9 @@
     },
     "com.unity.services.analytics": {
       "version": "5.0.0",
+=======
+      "version": "1.11.0",
+>>>>>>> test
 =======
       "version": "1.11.0",
 >>>>>>> test
@@ -498,11 +507,11 @@
 <<<<<<< HEAD
     },
     "com.unity.shadergraph": {
-      "version": "13.1.8",
+      "version": "14.0.9",
       "depth": 1,
       "source": "builtin",
       "dependencies": {
-        "com.unity.render-pipelines.core": "13.1.8",
+        "com.unity.render-pipelines.core": "14.0.9",
         "com.unity.searcher": "4.9.2"
       }
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
@@ -629,6 +638,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
         "com.unity.shadergraph": "13.1.8",
@@ -655,6 +665,10 @@
 >>>>>>> test
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+        "com.unity.shadergraph": "14.0.9",
+        "com.unity.render-pipelines.core": "14.0.9"
+>>>>>>> test
       }
     },
 =======
@@ -823,6 +837,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "com.unity.modules.jsonserialize": "1.0.0",
         "com.unity.modules.uielementsnative": "1.0.0"
       }
@@ -840,6 +855,8 @@
 >>>>>>> test
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+>>>>>>> test
         "com.unity.modules.jsonserialize": "1.0.0"
       }
     },

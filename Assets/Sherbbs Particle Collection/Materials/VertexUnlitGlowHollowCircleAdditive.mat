@@ -22,6 +22,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
   version: 6
@@ -58,6 +59,9 @@ MonoBehaviour:
 >>>>>>> test
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+  version: 7
+>>>>>>> test
 --- !u!21 &2100000
 Material:
   serializedVersion: 6
@@ -78,6 +82,7 @@ Material:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
   m_DoubleSidedGI: 1
 <<<<<<< HEAD
@@ -122,10 +127,14 @@ Material:
 >>>>>>> test
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+  m_CustomRenderQueue: 3000
+>>>>>>> test
   stringTagMap:
     RenderType: Transparent
   disabledShaderPasses:
   - ALWAYS
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -162,6 +171,10 @@ Material:
 >>>>>>> test
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+  - DepthOnly
+  - SHADOWCASTER
+>>>>>>> test
   m_LockedProperties: 
 =======
 >>>>>>> recover
@@ -220,6 +233,7 @@ Material:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
     - _AlphaClip: 0
 <<<<<<< HEAD
@@ -244,6 +258,9 @@ Material:
 >>>>>>> test
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+    - _AlphaToMask: 0
+>>>>>>> test
     - _Blend: 0
 =======
 >>>>>>> recover
@@ -272,6 +289,7 @@ Material:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
 =======
@@ -323,6 +341,10 @@ Material:
 >>>>>>> test
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+    - _DstBlend: 10
+    - _DstBlendAlpha: 10
+>>>>>>> test
     - _EmissionEnabled: 0
     - _FlipbookMode: 0
     - _GlossMapScale: 1
@@ -343,6 +365,7 @@ Material:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
 =======
@@ -379,6 +402,10 @@ Material:
 >>>>>>> test
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+    - _SrcBlend: 5
+    - _SrcBlendAlpha: 1
+>>>>>>> test
     - _Surface: 1
 =======
 >>>>>>> recover

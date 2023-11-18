@@ -24,6 +24,7 @@ VisualEffectResource:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
 =======
@@ -49,6 +50,10 @@ VisualEffectResource:
 >>>>>>> test
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+    m_InstancingMode: -1
+    m_InstancingCapacity: 64
+>>>>>>> test
 --- !u!114 &8926484042661615756
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -74,6 +79,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
   m_GraphVersion: 9
@@ -97,6 +103,9 @@ MonoBehaviour:
 >>>>>>> test
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+  m_GraphVersion: 12
+>>>>>>> test
   m_ResourceVersion: 1
   m_SubgraphDependencies: []
   m_CategoryPath: 

@@ -74,6 +74,7 @@ Material:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
     - _AlphaClip: 0
 <<<<<<< HEAD
@@ -98,6 +99,9 @@ Material:
 >>>>>>> test
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+    - _AlphaToMask: 0
+>>>>>>> test
     - _Blend: 2
 =======
 >>>>>>> recover
@@ -126,6 +130,7 @@ Material:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
 =======
@@ -177,6 +182,10 @@ Material:
 >>>>>>> test
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+    - _DstBlend: 1
+    - _DstBlendAlpha: 1
+>>>>>>> test
     - _EmissionEnabled: 0
     - _FlipbookMode: 0
     - _GlossMapScale: 1
@@ -197,6 +206,7 @@ Material:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
 =======
@@ -233,6 +243,10 @@ Material:
 >>>>>>> test
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+    - _SrcBlend: 5
+    - _SrcBlendAlpha: 1
+>>>>>>> test
     - _Surface: 1
 =======
 >>>>>>> recover
@@ -276,6 +290,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
   version: 6
@@ -312,3 +327,6 @@ MonoBehaviour:
 >>>>>>> test
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+  version: 7
+>>>>>>> test

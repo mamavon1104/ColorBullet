@@ -118,6 +118,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
     height: 722.8
@@ -142,6 +143,13 @@ MonoBehaviour:
 >>>>>>> test
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+    height: 750
+  m_MinSize: {x: 300, y: 100}
+  m_MaxSize: {x: 24288, y: 16192}
+  vertical: 0
+  controlID: 39
+>>>>>>> test
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -162,6 +170,7 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 1205.6
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -189,6 +198,13 @@ MonoBehaviour:
 >>>>>>> test
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+    height: 750
+  m_MinSize: {x: 200, y: 100}
+  m_MaxSize: {x: 16192, y: 16192}
+  vertical: 1
+  controlID: 40
+>>>>>>> test
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -209,6 +225,7 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 1205.6
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -236,6 +253,13 @@ MonoBehaviour:
 >>>>>>> test
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+    height: 484.8
+  m_MinSize: {x: 200, y: 50}
+  m_MaxSize: {x: 16192, y: 8096}
+  vertical: 0
+  controlID: 41
+>>>>>>> test
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -287,6 +311,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
   m_ActualView: {fileID: 19}
@@ -299,10 +324,14 @@ MonoBehaviour:
 >>>>>>> test
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+  m_ActualView: {fileID: 15}
+>>>>>>> test
   m_Panes:
   - {fileID: 15}
   - {fileID: 17}
   - {fileID: 12}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -311,6 +340,9 @@ MonoBehaviour:
 >>>>>>> test
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+  - {fileID: 16}
+>>>>>>> test
 =======
   - {fileID: 16}
 >>>>>>> test
@@ -381,6 +413,7 @@ MonoBehaviour:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -4389,6 +4422,8 @@ MonoBehaviour:
 >>>>>>> test
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+>>>>>>> test
   m_EditorHideFlags: 1
   m_Script: {fileID: 12015, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: 
@@ -4519,6 +4554,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
       m_SelectedIDs: b00c0100
@@ -4537,6 +4573,11 @@ MonoBehaviour:
 >>>>>>> test
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: cc41ffff
+>>>>>>> test
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -4841,6 +4882,7 @@ MonoBehaviour:
       index: 3
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> test
 =======
 =======
@@ -4910,6 +4952,11 @@ MonoBehaviour:
       index: 4
       layout: 4
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+      layout: 4
+      size: {x: 0, y: 0}
+      sizeOverriden: 0
+>>>>>>> test
     - dockPosition: 1
       containerId: overlay-container--right
       floating: 0
@@ -4920,7 +4967,11 @@ MonoBehaviour:
       snapCorner: 0
       id: Scene View/Physics Debugger
 <<<<<<< HEAD
+<<<<<<< HEAD
       index: 6
+=======
+      index: 4
+>>>>>>> test
 =======
       index: 4
 >>>>>>> test
@@ -4937,7 +4988,11 @@ MonoBehaviour:
       snapCorner: 0
       id: Scene View/Scene Visibility
 <<<<<<< HEAD
+<<<<<<< HEAD
       index: 8
+=======
+      index: 5
+>>>>>>> test
 =======
       index: 5
 >>>>>>> test
@@ -5062,12 +5117,17 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
       size: {x: 0, y: 0}
       sizeOverriden: 0
 >>>>>>> test
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+      size: {x: 0, y: 0}
+      sizeOverriden: 0
+>>>>>>> test
 =======
       size: {x: 0, y: 0}
       sizeOverriden: 0
@@ -5086,12 +5146,17 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
       size: {x: 0, y: 0}
       sizeOverriden: 0
 >>>>>>> test
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+      size: {x: 0, y: 0}
+      sizeOverriden: 0
+>>>>>>> test
 =======
       size: {x: 0, y: 0}
       sizeOverriden: 0
@@ -5108,6 +5173,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       index: 8
       layout: 4
 =======
@@ -5118,16 +5184,21 @@ MonoBehaviour:
       layout: 4
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+>>>>>>> test
       index: 9
       layout: 4
       size: {x: 0, y: 0}
       sizeOverriden: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> test
 =======
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+>>>>>>> test
+=======
 >>>>>>> test
     - dockPosition: 1
       containerId: overlay-container--right
@@ -5141,6 +5212,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       index: 9
       layout: 4
 =======
@@ -5151,6 +5223,8 @@ MonoBehaviour:
       layout: 4
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+>>>>>>> test
       index: 8
       layout: 4
       size: {x: 0, y: 0}
@@ -5171,10 +5245,13 @@ MonoBehaviour:
     m_OverlaysVisible: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> test
 =======
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+>>>>>>> test
+=======
 >>>>>>> test
   m_WindowGUID: cc27987af1a868c49b0894db9c0f5429
   m_Gizmos: 0
@@ -5186,6 +5263,7 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -5207,6 +5285,11 @@ MonoBehaviour:
 >>>>>>> test
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+    m_Target: {x: 0, y: 0, z: 0}
+    speed: 2
+    m_Value: {x: 0, y: 0, z: 0}
+>>>>>>> test
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -5257,6 +5340,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
     m_Value: {x: -0.000000006657127, y: 0.00000006869945, z: -0.000000016071727, w: -0.99999994}
@@ -5281,6 +5365,13 @@ MonoBehaviour:
 >>>>>>> test
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+    m_Value: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
+  m_Size:
+    m_Target: 12.943647
+    speed: 2
+    m_Value: 12.943647
+>>>>>>> test
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -5472,6 +5563,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
     scrollPos: {x: 0, y: 83}
@@ -5484,16 +5576,21 @@ MonoBehaviour:
 >>>>>>> test
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+>>>>>>> test
     scrollPos: {x: 0, y: 102.20001}
     m_SelectedIDs: 169c0000
     m_LastClickedID: 39958
     m_ExpandedIDs: 00000000307c0000327c0000ea7c000000ca9a3bffffff7f
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> test
 =======
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+>>>>>>> test
+=======
 >>>>>>> test
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -5525,6 +5622,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
     m_ExpandedIDs: 0000000082f10000
@@ -5537,6 +5635,9 @@ MonoBehaviour:
 >>>>>>> test
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+    m_ExpandedIDs: 00000000307c0000327c0000
+>>>>>>> test
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -5669,6 +5770,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
   m_LastInspectedObjectInstanceID: 29284
@@ -5681,6 +5783,9 @@ MonoBehaviour:
 >>>>>>> test
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+  m_LastInspectedObjectInstanceID: -1
+>>>>>>> test
   m_LastVerticalScrollValue: 0
   m_GlobalObjectId: 
   m_InspectorMode: 0

@@ -25,6 +25,7 @@ Material:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
 =======
@@ -54,6 +55,10 @@ Material:
 >>>>>>> test
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+  - DepthOnly
+  - SHADOWCASTER
+>>>>>>> test
   m_LockedProperties: 
 =======
 >>>>>>> recover
@@ -112,6 +117,7 @@ Material:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
     - _AlphaClip: 0
 <<<<<<< HEAD
@@ -136,6 +142,9 @@ Material:
 >>>>>>> test
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+    - _AlphaToMask: 0
+>>>>>>> test
     - _Blend: 2
 =======
 >>>>>>> recover
@@ -164,6 +173,7 @@ Material:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
 =======
@@ -215,6 +225,10 @@ Material:
 >>>>>>> test
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+    - _DstBlend: 1
+    - _DstBlendAlpha: 1
+>>>>>>> test
     - _EmissionEnabled: 0
     - _FlipbookMode: 0
     - _GlossMapScale: 1
@@ -235,6 +249,7 @@ Material:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
 =======
@@ -271,6 +286,10 @@ Material:
 >>>>>>> test
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+    - _SrcBlend: 5
+    - _SrcBlendAlpha: 1
+>>>>>>> test
     - _Surface: 1
 =======
 >>>>>>> recover
@@ -294,6 +313,7 @@ Material:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
     - _Color: {r: 1, g: 1, b: 1, a: 1}
@@ -322,6 +342,9 @@ Material:
 >>>>>>> test
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+    - _Color: {r: 4, g: 4, b: 4, a: 1}
+>>>>>>> test
     - _ColorAddSubDiff: {r: 1, g: 0, b: 0, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SoftParticleFadeParams: {r: 0, g: 0, b: 0, a: 0}
@@ -342,6 +365,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
   version: 6
@@ -390,3 +414,6 @@ MonoBehaviour:
 >>>>>>> test
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+  version: 7
+>>>>>>> test

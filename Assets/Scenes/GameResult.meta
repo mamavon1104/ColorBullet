@@ -3,6 +3,7 @@ fileFormatVersion: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
 <<<<<<<< HEAD:Assets/Scenes/GameResult.meta
@@ -27,14 +28,19 @@ NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 0
 ========
+=======
+>>>>>>> test
 guid: d8ced84c0f0830440b24706b68a97fe8
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
+<<<<<<< HEAD
 >>>>>>>> test:Assets/Scenes/GameResult.meta
 >>>>>>> test
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+>>>>>>> test
   userData: 
   assetBundleName: 
   assetBundleVariant: 
