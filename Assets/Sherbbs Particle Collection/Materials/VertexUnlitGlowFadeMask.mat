@@ -14,9 +14,17 @@ Material:
   m_EnableInstancingVariants: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
   m_DoubleSidedGI: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+  m_DoubleSidedGI: 1
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
   m_CustomRenderQueue: -1
 =======
 <<<<<<< HEAD
@@ -46,6 +54,16 @@ Material:
 =======
   m_CustomRenderQueue: 3000
 >>>>>>> test
+<<<<<<< HEAD
+=======
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3000
+>>>>>>> recover
+=======
+  m_CustomRenderQueue: 3000
+>>>>>>> test
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
   stringTagMap:
     RenderType: Transparent
   disabledShaderPasses:
@@ -54,6 +72,11 @@ Material:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
 =======
 <<<<<<< HEAD
 =======
@@ -74,11 +97,23 @@ Material:
   - DepthOnly
   - SHADOWCASTER
 >>>>>>> test
+<<<<<<< HEAD
+=======
+  - DepthOnly
+  - SHADOWCASTER
+>>>>>>> test
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
   m_LockedProperties: 
 =======
 >>>>>>> recover
 =======
 >>>>>>> recover
+<<<<<<< HEAD
+=======
+>>>>>>> recover
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
@@ -121,9 +156,17 @@ Material:
     m_Floats:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
     - _AlphaClip: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+    - _AlphaClip: 0
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -137,11 +180,22 @@ Material:
 =======
     - _AlphaToMask: 0
 >>>>>>> test
+<<<<<<< HEAD
+=======
+    - _AlphaToMask: 0
+>>>>>>> test
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
     - _Blend: 2
 =======
 >>>>>>> recover
 =======
 >>>>>>> recover
+<<<<<<< HEAD
+=======
+>>>>>>> recover
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
     - _BlendOp: 0
     - _BumpScale: 1
     - _CameraFadingEnabled: 0
@@ -157,6 +211,11 @@ Material:
     - _DistortionStrengthScaled: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
 =======
 <<<<<<< HEAD
     - _DstBlend: 0
@@ -196,6 +255,16 @@ Material:
     - _DstBlend: 1
     - _DstBlendAlpha: 1
 >>>>>>> test
+<<<<<<< HEAD
+=======
+    - _DstBlend: 1
+>>>>>>> recover
+=======
+    - _DstBlend: 1
+    - _DstBlendAlpha: 1
+>>>>>>> test
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
     - _EmissionEnabled: 0
     - _FlipbookMode: 0
     - _GlossMapScale: 1
@@ -213,6 +282,11 @@ Material:
     - _SpecularHighlights: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
 =======
 <<<<<<< HEAD
     - _SrcBlend: 1
@@ -240,12 +314,25 @@ Material:
     - _SrcBlend: 5
     - _SrcBlendAlpha: 1
 >>>>>>> test
+<<<<<<< HEAD
+=======
+    - _SrcBlend: 5
+    - _SrcBlendAlpha: 1
+>>>>>>> test
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
     - _Surface: 1
 =======
 >>>>>>> recover
 =======
     - _SrcBlend: 5
 >>>>>>> recover
+<<<<<<< HEAD
+=======
+    - _SrcBlend: 5
+>>>>>>> recover
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
     - _UVSec: 0
     - _ZWrite: 0
     m_Colors:
@@ -254,6 +341,11 @@ Material:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
     - _Color: {r: 1, g: 1, b: 1, a: 1}
 =======
 <<<<<<< HEAD
@@ -274,6 +366,12 @@ Material:
 =======
     - _Color: {r: 8.474192, g: 8.474192, b: 8.474192, a: 1}
 >>>>>>> test
+<<<<<<< HEAD
+=======
+    - _Color: {r: 8.474192, g: 8.474192, b: 8.474192, a: 1}
+>>>>>>> test
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
     - _ColorAddSubDiff: {r: 0, g: 0, b: 0, a: 0}
     - _EmissionColor: {r: 0.6675392, g: 0.6675392, b: 0.6675392, a: 1}
     - _SoftParticleFadeParams: {r: 0, g: 0, b: 0, a: 0}
@@ -292,6 +390,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
   version: 6
 =======
 <<<<<<< HEAD
@@ -326,3 +428,15 @@ MonoBehaviour:
 =======
   version: 7
 >>>>>>> test
+<<<<<<< HEAD
+=======
+    - _Color: {r: 8.47419, g: 8.47419, b: 8.47419, a: 1}
+    - _ColorAddSubDiff: {r: 0, g: 0, b: 0, a: 0}
+    - _EmissionColor: {r: 0.6675392, g: 0.6675392, b: 0.6675392, a: 1}
+    - _SoftParticleFadeParams: {r: 0, g: 0, b: 0, a: 0}
+>>>>>>> recover
+=======
+  version: 7
+>>>>>>> test
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a

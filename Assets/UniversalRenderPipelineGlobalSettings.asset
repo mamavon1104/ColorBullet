@@ -15,6 +15,11 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
   k_AssetVersion: 3
 =======
   k_AssetVersion: 2
@@ -23,6 +28,11 @@ MonoBehaviour:
   k_AssetVersion: 2
 >>>>>>> recover
 =======
+<<<<<<< HEAD
+=======
+>>>>>>> test
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
   k_AssetVersion: 3
   m_RenderingLayerNames:
   - Light Layer default
@@ -34,6 +44,15 @@ MonoBehaviour:
   - Light Layer 6
   - Light Layer 7
   m_ValidRenderingLayers: 255
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> test
+=======
+  k_AssetVersion: 2
+>>>>>>> recover
+=======
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
 >>>>>>> test
   lightLayerName0: Light Layer default
   lightLayerName1: Light Layer 1

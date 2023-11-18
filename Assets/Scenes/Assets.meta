@@ -1,5 +1,9 @@
 fileFormatVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
 <<<<<<< HEAD:Assets/Samples/Shader Graph/13.1.8.meta
 <<<<<<<< HEAD:Assets/Samples/Shader Graph/13.1.8.meta
 guid: c7a3ae157d2a3b74b9ddecd9ed3ebb9c
@@ -16,6 +20,12 @@ guid: d6fba984fc0c85e40878b9fe8128e309
 guid: 4ec17da14378b564d935f9f723f97bdf
 >>>>>>>> recover:Assets/Scenes/Assets.meta
 >>>>>>> recover
+<<<<<<< HEAD
+=======
+guid: 4ec17da14378b564d935f9f723f97bdf
+>>>>>>> recover
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}

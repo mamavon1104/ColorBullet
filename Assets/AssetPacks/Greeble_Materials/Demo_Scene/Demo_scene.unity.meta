@@ -1,5 +1,9 @@
 fileFormatVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
 <<<<<<< HEAD:Assets/AssetPacks/Greeble_Materials/Demo_Scene/Demo_scene.unity.meta
 guid: 98cf7a4bdb2031b4a8bafaef3888656b
 =======
@@ -20,6 +24,13 @@ guid: 98cf7a4bdb2031b4a8bafaef3888656b
 DefaultImporter:
 >>>>>>>> recover:Assets/AssetPacks/Greeble_Materials/Demo_Scene/Demo_scene.unity.meta
 >>>>>>> recover
+<<<<<<< HEAD
+=======
+guid: 98cf7a4bdb2031b4a8bafaef3888656b
+DefaultImporter:
+>>>>>>> recover
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
   externalObjects: {}
   userData: 
   assetBundleName: 

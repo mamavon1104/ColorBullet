@@ -2,6 +2,10 @@
 %TAG !u! tag:unity3d.com,2011:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
 --- !u!114 &-4416180199202114116
 MonoBehaviour:
   m_ObjectHideFlags: 11
@@ -16,6 +20,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
   version: 6
 =======
 <<<<<<< HEAD
@@ -42,6 +50,14 @@ MonoBehaviour:
 =======
   version: 7
 >>>>>>> test
+<<<<<<< HEAD
+=======
+>>>>>>> recover
+=======
+  version: 7
+>>>>>>> test
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
 --- !u!21 &2100000
 Material:
   serializedVersion: 8
@@ -56,6 +72,11 @@ Material:
   m_ValidKeywords:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
 =======
 <<<<<<< HEAD
 =======
@@ -78,6 +99,12 @@ Material:
 =======
   - _ALPHATEST_ON
 >>>>>>> test
+<<<<<<< HEAD
+=======
+  - _ALPHATEST_ON
+>>>>>>> test
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
   - _EMISSION
   m_InvalidKeywords:
   - _FLIPBOOKBLENDING_OFF
@@ -86,6 +113,10 @@ Material:
   m_DoubleSidedGI: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
   m_CustomRenderQueue: -1
 =======
 <<<<<<< HEAD
@@ -122,6 +153,20 @@ Material:
 =======
   m_CustomRenderQueue: 2450
 >>>>>>> test
+<<<<<<< HEAD
+=======
+  - _ALPHATEST_ON
+  m_InvalidKeywords: []
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 2450
+>>>>>>> recover
+=======
+  m_CustomRenderQueue: 2450
+>>>>>>> test
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
   stringTagMap:
     RenderType: TransparentCutout
   disabledShaderPasses:
@@ -170,9 +215,17 @@ Material:
     m_Floats:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
     - _AlphaClip: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+    - _AlphaClip: 1
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -186,11 +239,22 @@ Material:
 =======
     - _AlphaToMask: 1
 >>>>>>> test
+<<<<<<< HEAD
+=======
+    - _AlphaToMask: 1
+>>>>>>> test
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
     - _Blend: 0
 =======
 >>>>>>> recover
 =======
 >>>>>>> recover
+<<<<<<< HEAD
+=======
+>>>>>>> recover
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
     - _BlendOp: 0
     - _BumpScale: 1
     - _CameraFadingEnabled: 0
@@ -226,6 +290,11 @@ Material:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
 =======
 <<<<<<< HEAD
 =======
@@ -243,11 +312,22 @@ Material:
 =======
     - _SrcBlendAlpha: 1
 >>>>>>> test
+<<<<<<< HEAD
+=======
+    - _SrcBlendAlpha: 1
+>>>>>>> test
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
     - _Surface: 0
 =======
 >>>>>>> recover
 =======
 >>>>>>> recover
+<<<<<<< HEAD
+=======
+>>>>>>> recover
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
@@ -256,6 +336,11 @@ Material:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
     - _Color: {r: 1, g: 1, b: 1, a: 1}
 =======
 <<<<<<< HEAD
@@ -289,6 +374,15 @@ Material:
 =======
     - _Color: {r: 8.474192, g: 8.474192, b: 8.474192, a: 1}
 >>>>>>> test
+<<<<<<< HEAD
+=======
+    - _Color: {r: 8.47419, g: 8.47419, b: 8.47419, a: 1}
+>>>>>>> recover
+=======
+    - _Color: {r: 8.474192, g: 8.474192, b: 8.474192, a: 1}
+>>>>>>> test
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
     - _ColorAddSubDiff: {r: 0, g: 0, b: 0, a: 0}
     - _EmissionColor: {r: 0.6675392, g: 0.6675392, b: 0.6675392, a: 1}
     - _SoftParticleFadeParams: {r: 0, g: 0, b: 0, a: 0}

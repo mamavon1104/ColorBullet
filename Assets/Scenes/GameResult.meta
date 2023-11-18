@@ -1,6 +1,10 @@
 fileFormatVersion: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
 <<<<<<<< HEAD:Assets/Scenes/GameResult.meta
 guid: d8ced84c0f0830440b24706b68a97fe8
 ========
@@ -15,6 +19,22 @@ guid: d8ced84c0f0830440b24706b68a97fe8
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
+<<<<<<< HEAD
+=======
+<<<<<<<< HEAD:Assets/Scenes/GameResult/LightingData.asset.meta
+guid: bc690f513c821e54ca07bebcd2df422d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+========
+guid: d8ced84c0f0830440b24706b68a97fe8
+folderAsset: yes
+DefaultImporter:
+  externalObjects: {}
+>>>>>>>> test:Assets/Scenes/GameResult.meta
+>>>>>>> test
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
   userData: 
   assetBundleName: 
   assetBundleVariant: 

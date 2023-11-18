@@ -14,6 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
   version: 6
 =======
 <<<<<<< HEAD
@@ -29,6 +33,12 @@ MonoBehaviour:
 =======
   version: 7
 >>>>>>> test
+<<<<<<< HEAD
+=======
+  version: 7
+>>>>>>> test
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
 --- !u!21 &2100000
 Material:
   serializedVersion: 8

@@ -1,5 +1,9 @@
 fileFormatVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
 <<<<<<< HEAD:Assets/Samples/Shader Graph.meta
 <<<<<<<< HEAD:Assets/Samples/Shader Graph.meta
 guid: 7b85e44a9c040844b85073f091dcf60f
@@ -12,6 +16,12 @@ guid: a168713ba095ed141baec66e677dec5a
 =======
 guid: a168713ba095ed141baec66e677dec5a
 >>>>>>> recover
+<<<<<<< HEAD
+=======
+guid: a168713ba095ed141baec66e677dec5a
+>>>>>>> recover
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}

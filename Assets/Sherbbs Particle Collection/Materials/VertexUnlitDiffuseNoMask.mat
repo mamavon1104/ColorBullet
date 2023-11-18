@@ -2,6 +2,10 @@
 %TAG !u! tag:unity3d.com,2011:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
 --- !u!114 &-3684553942934056106
 MonoBehaviour:
   m_ObjectHideFlags: 11
@@ -16,6 +20,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
   version: 6
 =======
 <<<<<<< HEAD
@@ -42,6 +50,14 @@ MonoBehaviour:
 =======
   version: 7
 >>>>>>> test
+<<<<<<< HEAD
+=======
+>>>>>>> recover
+=======
+  version: 7
+>>>>>>> test
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
 --- !u!21 &2100000
 Material:
   serializedVersion: 8
@@ -106,12 +122,21 @@ Material:
     m_Floats:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
     - _AlphaClip: 0
     - _Blend: 0
 =======
 >>>>>>> recover
 =======
 >>>>>>> recover
+<<<<<<< HEAD
+=======
+>>>>>>> recover
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
     - _BlendOp: 0
     - _BumpScale: 1
     - _CameraFadingEnabled: 0
@@ -144,11 +169,20 @@ Material:
     - _SrcBlend: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
     - _Surface: 0
 =======
 >>>>>>> recover
 =======
 >>>>>>> recover
+<<<<<<< HEAD
+=======
+>>>>>>> recover
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:

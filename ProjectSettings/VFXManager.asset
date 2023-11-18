@@ -12,6 +12,11 @@ VFXManager:
   m_MaxDeltaTime: 0.05
   m_MaxScrubTime: 30
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
   m_CompiledVersion: 0
   m_RuntimeVersion: 0
   m_RuntimeResources: {fileID: 0}
@@ -20,4 +25,17 @@ VFXManager:
   m_RuntimeVersion: 35
   m_RuntimeResources: {fileID: 11400000, guid: bc10b42afe3813544bffd38ae2cd893d, type: 2}
 >>>>>>> test
+<<<<<<< HEAD
+=======
+  m_CompiledVersion: 0
+  m_RuntimeVersion: 0
+  m_RuntimeResources: {fileID: 0}
+>>>>>>> fix
+=======
+  m_CompiledVersion: 7
+  m_RuntimeVersion: 35
+  m_RuntimeResources: {fileID: 11400000, guid: bc10b42afe3813544bffd38ae2cd893d, type: 2}
+>>>>>>> test
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
   m_BatchEmptyLifetime: 300

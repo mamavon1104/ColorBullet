@@ -68,9 +68,17 @@ Material:
     m_Floats:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
     - _AlphaClip: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+    - _AlphaClip: 0
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -84,11 +92,22 @@ Material:
 =======
     - _AlphaToMask: 0
 >>>>>>> test
+<<<<<<< HEAD
+=======
+    - _AlphaToMask: 0
+>>>>>>> test
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
     - _Blend: 2
 =======
 >>>>>>> recover
 =======
 >>>>>>> recover
+<<<<<<< HEAD
+=======
+>>>>>>> recover
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
     - _BlendOp: 0
     - _BumpScale: 1
     - _CameraFadingEnabled: 0
@@ -104,6 +123,11 @@ Material:
     - _DistortionStrengthScaled: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
 =======
 <<<<<<< HEAD
     - _DstBlend: 0
@@ -143,6 +167,16 @@ Material:
     - _DstBlend: 1
     - _DstBlendAlpha: 1
 >>>>>>> test
+<<<<<<< HEAD
+=======
+    - _DstBlend: 1
+>>>>>>> recover
+=======
+    - _DstBlend: 1
+    - _DstBlendAlpha: 1
+>>>>>>> test
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
     - _EmissionEnabled: 0
     - _FlipbookMode: 0
     - _GlossMapScale: 1
@@ -160,6 +194,11 @@ Material:
     - _SpecularHighlights: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
 =======
 <<<<<<< HEAD
     - _SrcBlend: 1
@@ -187,12 +226,25 @@ Material:
     - _SrcBlend: 5
     - _SrcBlendAlpha: 1
 >>>>>>> test
+<<<<<<< HEAD
+=======
+    - _SrcBlend: 5
+    - _SrcBlendAlpha: 1
+>>>>>>> test
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
     - _Surface: 1
 =======
 >>>>>>> recover
 =======
     - _SrcBlend: 5
 >>>>>>> recover
+<<<<<<< HEAD
+=======
+    - _SrcBlend: 5
+>>>>>>> recover
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
     - _UVSec: 0
     - _ZWrite: 0
     m_Colors:
@@ -204,6 +256,10 @@ Material:
   m_BuildTextureStacks: []
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
 --- !u!114 &8967721771492174113
 MonoBehaviour:
   m_ObjectHideFlags: 11
@@ -218,6 +274,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
   version: 6
 =======
 <<<<<<< HEAD
@@ -244,3 +304,11 @@ MonoBehaviour:
 =======
   version: 7
 >>>>>>> test
+<<<<<<< HEAD
+=======
+>>>>>>> recover
+=======
+  version: 7
+>>>>>>> test
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a

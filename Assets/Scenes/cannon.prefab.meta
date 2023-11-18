@@ -1,5 +1,9 @@
 fileFormatVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
 <<<<<<< HEAD:Assets/Scenes/cannon.prefab.meta
 guid: 47dd4d4e01350384e98fe5ed4fb71281
 PrefabImporter:
@@ -20,6 +24,13 @@ guid: 47dd4d4e01350384e98fe5ed4fb71281
 >>>>>>>> recover:Assets/Scenes/cannon.prefab.meta
 PrefabImporter:
 >>>>>>> recover
+<<<<<<< HEAD
+=======
+guid: 47dd4d4e01350384e98fe5ed4fb71281
+PrefabImporter:
+>>>>>>> recover
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
   externalObjects: {}
   userData: 
   assetBundleName: 
