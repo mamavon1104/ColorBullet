@@ -4,6 +4,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
 --- !u!114 &-3684553942934056106
@@ -62,6 +63,8 @@ MonoBehaviour:
 =======
   version: 7
 >>>>>>> test
+=======
+>>>>>>> recover
 --- !u!21 &2100000
 Material:
   serializedVersion: 8
@@ -128,6 +131,7 @@ Material:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
     - _AlphaClip: 0
@@ -141,6 +145,8 @@ Material:
 >>>>>>> recover
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+>>>>>>> recover
     - _BlendOp: 0
     - _BumpScale: 1
     - _CameraFadingEnabled: 0
@@ -175,6 +181,7 @@ Material:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
     - _Surface: 0
@@ -187,6 +194,8 @@ Material:
 >>>>>>> recover
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+>>>>>>> recover
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:

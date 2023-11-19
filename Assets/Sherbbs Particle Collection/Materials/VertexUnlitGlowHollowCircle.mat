@@ -18,6 +18,7 @@ Material:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
 =======
@@ -117,6 +118,14 @@ Material:
 =======
   m_CustomRenderQueue: 2450
 >>>>>>> test
+=======
+  - _ALPHATEST_ON
+  m_InvalidKeywords: []
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 2450
+>>>>>>> recover
   stringTagMap:
     RenderType: TransparentCutout
   disabledShaderPasses:
@@ -167,6 +176,7 @@ Material:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     - _AlphaClip: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -209,6 +219,8 @@ Material:
 >>>>>>> recover
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+>>>>>>> recover
     - _BlendOp: 0
     - _BumpScale: 1
     - _CameraFadingEnabled: 0
@@ -223,7 +235,6 @@ Material:
     - _DistortionStrength: 1
     - _DistortionStrengthScaled: 0
     - _DstBlend: 0
-    - _DstBlendAlpha: 0
     - _EmissionEnabled: 0
     - _FlipbookMode: 0
     - _GlossMapScale: 1
@@ -240,6 +251,7 @@ Material:
     - _SoftParticlesNearFadeDistance: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -286,10 +298,13 @@ Material:
 >>>>>>> recover
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+>>>>>>> recover
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
     - _CameraFadeParams: {r: 0, g: Infinity, b: 0, a: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -345,10 +360,14 @@ Material:
 =======
     - _Color: {r: 8.474192, g: 8.474192, b: 8.474192, a: 1}
 >>>>>>> test
+=======
+    - _Color: {r: 8.47419, g: 8.47419, b: 8.47419, a: 1}
+>>>>>>> recover
     - _ColorAddSubDiff: {r: 0, g: 0, b: 0, a: 0}
     - _EmissionColor: {r: 0.6675392, g: 0.6675392, b: 0.6675392, a: 1}
     - _SoftParticleFadeParams: {r: 0, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -411,3 +430,5 @@ MonoBehaviour:
 =======
   version: 7
 >>>>>>> test
+=======
+>>>>>>> recover

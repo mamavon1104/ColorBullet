@@ -5,6 +5,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
     "com.unity.2d.sprite": "1.0.0",
@@ -60,6 +61,8 @@
 >>>>>>> recover
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+>>>>>>> recover
     "com.unity.collab-proxy": "1.17.1",
     "com.unity.ide.rider": "3.0.15",
     "com.unity.ide.visualstudio": "2.0.16",
@@ -68,6 +71,7 @@
     "com.unity.textmeshpro": "3.0.6",
     "com.unity.timeline": "1.7.1",
     "com.unity.ugui": "1.0.0",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -113,6 +117,9 @@
     "com.unity.ugui": "1.0.0",
     "com.unity.xr.legacyinputhelpers": "2.1.10",
 >>>>>>> fix
+=======
+    "com.unity.visualscripting": "1.7.8",
+>>>>>>> recover
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
     "com.unity.modules.animation": "1.0.0",

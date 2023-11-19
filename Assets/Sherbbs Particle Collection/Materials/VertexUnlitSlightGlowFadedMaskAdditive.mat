@@ -4,6 +4,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
 --- !u!114 &-5391039344924284697
@@ -62,6 +63,8 @@ MonoBehaviour:
 =======
   version: 7
 >>>>>>> test
+=======
+>>>>>>> recover
 --- !u!21 &2100000
 Material:
   serializedVersion: 8
@@ -78,6 +81,7 @@ Material:
   m_InvalidKeywords: []
   m_LightmapFlags: 0
   m_EnableInstancingVariants: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -134,12 +138,14 @@ Material:
 =======
   m_CustomRenderQueue: 3000
 >>>>>>> test
+=======
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3000
+>>>>>>> recover
   stringTagMap:
     RenderType: Transparent
   disabledShaderPasses:
   - GRABPASS
-  - DepthOnly
-  - SHADOWCASTER
   m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
@@ -186,6 +192,7 @@ Material:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     - _AlphaClip: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -228,6 +235,8 @@ Material:
 >>>>>>> recover
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+>>>>>>> recover
     - _BlendOp: 0
     - _BumpScale: 1
     - _CameraFadingEnabled: 0
@@ -241,6 +250,7 @@ Material:
     - _DistortionEnabled: 0
     - _DistortionStrength: 1
     - _DistortionStrengthScaled: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -302,6 +312,9 @@ Material:
     - _DstBlend: 1
     - _DstBlendAlpha: 1
 >>>>>>> test
+=======
+    - _DstBlend: 1
+>>>>>>> recover
     - _EmissionEnabled: 0
     - _FlipbookMode: 0
     - _GlossMapScale: 1
@@ -317,6 +330,7 @@ Material:
     - _SoftParticlesFarFadeDistance: 1
     - _SoftParticlesNearFadeDistance: 0
     - _SpecularHighlights: 1
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -375,6 +389,9 @@ Material:
 >>>>>>> recover
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+    - _SrcBlend: 5
+>>>>>>> recover
     - _UVSec: 0
     - _ZWrite: 0
     m_Colors:

@@ -2,6 +2,7 @@ fileFormatVersion: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
 <<<<<<< HEAD:Assets/Samples.meta
@@ -30,6 +31,9 @@ guid: 82bcffd2e48e9c345a4de95657856730
 >>>>>>> recover
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+guid: 82bcffd2e48e9c345a4de95657856730
+>>>>>>> recover
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}

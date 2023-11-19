@@ -2,6 +2,7 @@ fileFormatVersion: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
 <<<<<<< HEAD:Assets/Samples/Shader Graph.meta
@@ -22,6 +23,9 @@ guid: a168713ba095ed141baec66e677dec5a
 >>>>>>> recover
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+guid: a168713ba095ed141baec66e677dec5a
+>>>>>>> recover
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}

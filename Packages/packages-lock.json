@@ -5,6 +5,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> fix
 =======
@@ -83,13 +84,18 @@
     },
     "com.unity.ai.navigation": {
       "version": "1.1.5",
+=======
+    "com.unity.collab-proxy": {
+      "version": "1.17.1",
+>>>>>>> recover
       "depth": 0,
       "source": "registry",
       "dependencies": {
-        "com.unity.modules.ai": "1.0.0"
+        "com.unity.services.core": "1.0.1"
       },
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
     "com.unity.analytics": {
       "version": "3.8.1",
       "depth": 0,
@@ -108,6 +114,8 @@
       "url": "https://packages.unity.com"
     },
 >>>>>>> fix
+=======
+>>>>>>> recover
     "com.unity.ext.nunit": {
       "version": "1.0.6",
       "depth": 1,
@@ -117,10 +125,14 @@
     },
     "com.unity.ide.rider": {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "version": "3.0.15",
 =======
       "version": "3.0.25",
 >>>>>>> fix
+=======
+      "version": "3.0.15",
+>>>>>>> recover
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -130,10 +142,14 @@
     },
     "com.unity.ide.visualstudio": {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "version": "2.0.16",
 =======
       "version": "2.0.21",
 >>>>>>> fix
+=======
+      "version": "2.0.16",
+>>>>>>> recover
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -148,6 +164,7 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -230,9 +247,12 @@
 <<<<<<< HEAD
 =======
 >>>>>>> recover
+=======
+>>>>>>> recover
     "com.unity.nuget.newtonsoft-json": {
 <<<<<<< HEAD
       "version": "3.0.2",
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
     "com.unity.nuget.newtonsoft-json": {
@@ -392,6 +412,8 @@
       "version": "3.0.2",
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
 >>>>>>> recover
+=======
+>>>>>>> recover
       "depth": 2,
       "source": "registry",
       "dependencies": {},
@@ -482,6 +504,7 @@
 <<<<<<< HEAD
 =======
       "version": "1.4.2",
+<<<<<<< HEAD
 >>>>>>> recover
       "depth": 1,
       "source": "registry",
@@ -496,9 +519,12 @@
       "version": "14.0.9",
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+>>>>>>> recover
       "depth": 1,
-      "source": "builtin",
+      "source": "registry",
       "dependencies": {
+<<<<<<< HEAD
         "com.unity.render-pipelines.core": "14.0.9",
         "com.unity.searcher": "4.9.2"
       }
@@ -525,11 +551,14 @@
 >>>>>>> recover
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+>>>>>>> recover
         "com.unity.modules.unitywebrequest": "1.0.0",
         "com.unity.nuget.newtonsoft-json": "3.0.2",
         "com.unity.modules.androidjni": "1.0.0"
       },
       "url": "https://packages.unity.com"
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -560,6 +589,11 @@
     "com.unity.test-framework": {
       "version": "1.1.33",
 >>>>>>> fix
+=======
+    },
+    "com.unity.test-framework": {
+      "version": "1.1.31",
+>>>>>>> recover
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -580,10 +614,14 @@
     },
     "com.unity.timeline": {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "version": "1.7.1",
 =======
       "version": "1.7.5",
 >>>>>>> fix
+=======
+      "version": "1.7.1",
+>>>>>>> recover
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -603,6 +641,7 @@
         "com.unity.modules.imgui": "1.0.0"
       }
     },
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -680,6 +719,8 @@
 >>>>>>> recover
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+>>>>>>> recover
     "com.unity.visualscripting": {
       "version": "1.7.8",
       "depth": 0,
@@ -838,6 +879,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> recover
         "com.unity.modules.jsonserialize": "1.0.0",
         "com.unity.modules.uielementsnative": "1.0.0"
       }
@@ -849,6 +893,7 @@
       "dependencies": {
         "com.unity.modules.ui": "1.0.0",
         "com.unity.modules.imgui": "1.0.0",
+<<<<<<< HEAD
 =======
 >>>>>>> fix
 =======
@@ -857,6 +902,8 @@
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
 =======
 >>>>>>> test
+=======
+>>>>>>> recover
         "com.unity.modules.jsonserialize": "1.0.0"
       }
     },

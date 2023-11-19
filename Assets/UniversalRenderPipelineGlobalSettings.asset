@@ -19,6 +19,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
   k_AssetVersion: 3
@@ -60,6 +61,9 @@ MonoBehaviour:
 >>>>>>> test
 =======
 >>>>>>> test
+=======
+  k_AssetVersion: 2
+>>>>>>> recover
   lightLayerName0: Light Layer default
   lightLayerName1: Light Layer 1
   lightLayerName2: Light Layer 2
@@ -71,8 +75,4 @@ MonoBehaviour:
   m_StripDebugVariants: 1
   m_StripUnusedPostProcessingVariants: 0
   m_StripUnusedVariants: 1
-  m_StripUnusedLODCrossFadeVariants: 1
-  m_StripScreenCoordOverrideVariants: 1
   supportRuntimeDebugDisplay: 0
-  m_ShaderVariantLogLevel: 0
-  m_ExportShaderVariants: 1
