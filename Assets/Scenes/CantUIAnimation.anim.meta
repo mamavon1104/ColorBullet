@@ -2,7 +2,44 @@ fileFormatVersion: 2
 guid: a8919a55ff089c148b73afcac07d7507
 NativeFormatImporter:
   externalObjects: {}
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+<<<<<<< HEAD:Assets/Scenes/Player/Player1/New Material.mat.meta
+<<<<<<< HEAD
+  mainObjectFileID: 2100000
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+  mainObjectFileID: 0
+=======
+  mainObjectFileID: 2100000
+>>>>>>> testBranch
+=======
+  mainObjectFileID: 0
+>>>>>>> origin/main
+<<<<<<< HEAD:Assets/Scenes/CantUIAnimation.anim.meta
+=======
   mainObjectFileID: 7400000
+>>>>>>> recover:Assets/Scenes/CantUIAnimation.anim.meta
+=======
+>>>>>>> main
+>>>>>>> fix3:Assets/Scenes/Player/Player1/Bullet.mat.meta
+=======
+  mainObjectFileID: 7400000
+>>>>>>> recover
+<<<<<<< HEAD
+=======
+  mainObjectFileID: 7400000
+>>>>>>> recover
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+  mainObjectFileID: 7400000
+>>>>>>> recover
   userData: 
   assetBundleName: 
   assetBundleVariant: 

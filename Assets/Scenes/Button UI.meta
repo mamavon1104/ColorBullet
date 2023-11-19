@@ -1,5 +1,31 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+<<<<<<< HEAD:Assets/Samples/Shader Graph/13.1.8/Procedural Patterns.meta
+<<<<<<<< HEAD:Assets/Samples/Shader Graph/13.1.8/Procedural Patterns.meta
+guid: 08383dfe2c0350d4888f9c93d40a9635
+========
+guid: c7a3ae157d2a3b74b9ddecd9ed3ebb9c
+>>>>>>>> origin/main:Assets/Samples/Shader Graph/13.1.8.meta
+=======
 guid: 931c65d4517ecd444960dde29041c25e
+>>>>>>> recover:Assets/Scenes/Button UI.meta
+=======
+guid: 931c65d4517ecd444960dde29041c25e
+>>>>>>> recover
+<<<<<<< HEAD
+=======
+guid: 931c65d4517ecd444960dde29041c25e
+>>>>>>> recover
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+guid: 931c65d4517ecd444960dde29041c25e
+>>>>>>> recover
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
