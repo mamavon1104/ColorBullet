@@ -192,6 +192,10 @@
       "url": "https://packages.unity.com"
     },
 <<<<<<< HEAD
+    "com.unity.inputsystem": {
+      "version": "1.7.0",
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -220,6 +224,7 @@
 =======
 >>>>>>> origin/main
 >>>>>>> main
+>>>>>>> main
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -227,6 +232,10 @@
       },
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
+    "com.unity.nuget.newtonsoft-json": {
+      "version": "3.2.1",
+=======
     "com.unity.mathematics": {
       "version": "1.2.6",
       "depth": 1,
@@ -442,12 +451,16 @@
 >>>>>>> recover
 =======
 >>>>>>> recover
+>>>>>>> main
       "depth": 2,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
     "com.unity.services.core": {
+<<<<<<< HEAD
+      "version": "1.11.0",
+=======
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -487,6 +500,7 @@
 >>>>>>> test
 =======
 >>>>>>> fix
+>>>>>>> main
       "depth": 1,
       "source": "registry",
       "dependencies": {
@@ -594,7 +608,7 @@
 =======
 >>>>>>> recover
         "com.unity.modules.unitywebrequest": "1.0.0",
-        "com.unity.nuget.newtonsoft-json": "3.0.2",
+        "com.unity.nuget.newtonsoft-json": "3.2.1",
         "com.unity.modules.androidjni": "1.0.0"
       },
       "url": "https://packages.unity.com"
@@ -931,6 +945,8 @@
         "com.unity.modules.ui": "1.0.0",
         "com.unity.modules.imgui": "1.0.0",
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -962,6 +978,7 @@
 >>>>>>> recover
 =======
 >>>>>>> fix
+>>>>>>> main
         "com.unity.modules.jsonserialize": "1.0.0"
       }
     },
