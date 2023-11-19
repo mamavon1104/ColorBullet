@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+<<<<<<< HEAD
+<<<<<<<< HEAD:Assets/Scenes/materials/TeleporterVFX.vfx.meta
+guid: d90472e6c2f70ab4ea3278c4c7ea4fa1
+=======
+guid: c28a2baf9e89208469bdea83989a2dfe
+>>>>>>> fix3
+VisualEffectImporter:
+========
+guid: 98cf7a4bdb2031b4a8bafaef3888656b
+DefaultImporter:
+>>>>>>>> recover:Assets/AssetPacks/Greeble_Materials/Demo_Scene/Demo_scene.unity.meta
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
