@@ -6,16 +6,20 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> fix
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+>>>>>>> fix
     "com.unity.2d.sprite": {
       "version": "1.0.0",
       "depth": 0,
       "source": "builtin",
       "dependencies": {}
     },
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -64,6 +68,8 @@
       "url": "https://packages.unity.com"
     },
 =======
+=======
+>>>>>>> fix
     "com.unity.2d.tilemap": {
       "version": "1.0.0",
       "depth": 0,
@@ -84,6 +90,7 @@
     },
     "com.unity.ai.navigation": {
       "version": "1.1.5",
+<<<<<<< HEAD
 =======
     "com.unity.collab-proxy": {
       "version": "1.17.1",
@@ -96,6 +103,15 @@
       "url": "https://packages.unity.com"
     },
 <<<<<<< HEAD
+=======
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.modules.ai": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
+>>>>>>> fix
     "com.unity.analytics": {
       "version": "3.8.1",
       "depth": 0,
@@ -113,9 +129,12 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
 >>>>>>> fix
 =======
 >>>>>>> recover
+=======
+>>>>>>> fix
     "com.unity.ext.nunit": {
       "version": "1.0.6",
       "depth": 1,
@@ -126,6 +145,7 @@
     "com.unity.ide.rider": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       "version": "3.0.15",
 =======
       "version": "3.0.25",
@@ -133,6 +153,9 @@
 =======
       "version": "3.0.15",
 >>>>>>> recover
+=======
+      "version": "3.0.25",
+>>>>>>> fix
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -143,6 +166,7 @@
     "com.unity.ide.visualstudio": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       "version": "2.0.16",
 =======
       "version": "2.0.21",
@@ -150,6 +174,9 @@
 =======
       "version": "2.0.16",
 >>>>>>> recover
+=======
+      "version": "2.0.21",
+>>>>>>> fix
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -164,6 +191,7 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -425,6 +453,8 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
+=======
+>>>>>>> fix
     "com.unity.nuget.newtonsoft-json": {
       "version": "3.2.1",
       "depth": 2,
@@ -448,12 +478,15 @@
     },
     "com.unity.services.analytics": {
       "version": "5.0.0",
+<<<<<<< HEAD
 =======
       "version": "1.11.0",
 >>>>>>> test
 =======
       "version": "1.11.0",
 >>>>>>> test
+=======
+>>>>>>> fix
       "depth": 1,
       "source": "registry",
       "dependencies": {
@@ -464,11 +497,15 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.services.core": {
+<<<<<<< HEAD
+>>>>>>> fix
+=======
 >>>>>>> fix
       "version": "1.11.0",
       "depth": 1,
       "source": "registry",
       "dependencies": {
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
       "version": "1.11.0",
@@ -488,11 +525,14 @@
 >>>>>>> fix
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+>>>>>>> fix
         "com.unity.modules.unitywebrequest": "1.0.0",
         "com.unity.nuget.newtonsoft-json": "3.2.1",
         "com.unity.modules.androidjni": "1.0.0"
       },
       "url": "https://packages.unity.com"
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -594,6 +634,11 @@
     "com.unity.test-framework": {
       "version": "1.1.31",
 >>>>>>> recover
+=======
+    },
+    "com.unity.test-framework": {
+      "version": "1.1.33",
+>>>>>>> fix
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -615,6 +660,7 @@
     "com.unity.timeline": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       "version": "1.7.1",
 =======
       "version": "1.7.5",
@@ -622,6 +668,9 @@
 =======
       "version": "1.7.1",
 >>>>>>> recover
+=======
+      "version": "1.7.5",
+>>>>>>> fix
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -641,6 +690,7 @@
         "com.unity.modules.imgui": "1.0.0"
       }
     },
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -729,6 +779,8 @@
         "com.unity.ugui": "1.0.0",
         "com.unity.modules.jsonserialize": "1.0.0"
 =======
+=======
+>>>>>>> fix
     "com.unity.xr.legacyinputhelpers": {
       "version": "2.1.10",
       "depth": 0,
@@ -736,6 +788,9 @@
       "dependencies": {
         "com.unity.modules.vr": "1.0.0",
         "com.unity.modules.xr": "1.0.0"
+<<<<<<< HEAD
+>>>>>>> fix
+=======
 >>>>>>> fix
       },
       "url": "https://packages.unity.com"
@@ -880,6 +935,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> recover
         "com.unity.modules.jsonserialize": "1.0.0",
@@ -904,6 +960,8 @@
 >>>>>>> test
 =======
 >>>>>>> recover
+=======
+>>>>>>> fix
         "com.unity.modules.jsonserialize": "1.0.0"
       }
     },

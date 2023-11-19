@@ -1,6 +1,7 @@
 fileFormatVersion: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
 <<<<<<<< HEAD:Assets/Samples/Universal RP/13.1.8/URP Package Samples/CameraStacking/3D Skybox/Prefabs.meta
@@ -14,6 +15,9 @@ guid: 67646ed06bcecfc4f9e69878690ed890
 >>>>>>> fix
 =======
 >>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+guid: 67646ed06bcecfc4f9e69878690ed890
+>>>>>>> fix
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
