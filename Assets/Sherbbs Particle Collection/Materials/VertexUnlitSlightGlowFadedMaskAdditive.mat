@@ -1,6 +1,12 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
 --- !u!114 &-5391039344924284697
 MonoBehaviour:
   m_ObjectHideFlags: 11
@@ -15,6 +21,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+  version: 6
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
   version: 7
 =======
   version: 6
@@ -22,6 +37,32 @@ MonoBehaviour:
 =======
   version: 7
 >>>>>>> origin/main
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> recover
+=======
+>>>>>>> main
+>>>>>>> fix3
+=======
+>>>>>>> recover
+=======
+>>>>>>> main
+>>>>>>> fix3
+=======
+  version: 7
+>>>>>>> test
+<<<<<<< HEAD
+=======
+>>>>>>> recover
+=======
+  version: 7
+>>>>>>> test
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+  version: 7
+>>>>>>> test
 =======
 >>>>>>> recover
 --- !u!21 &2100000
@@ -41,7 +82,22 @@ Material:
   m_LightmapFlags: 0
   m_EnableInstancingVariants: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
   m_DoubleSidedGI: 1
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+  m_DoubleSidedGI: 1
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+  m_CustomRenderQueue: -1
+=======
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -50,6 +106,38 @@ Material:
 =======
   m_CustomRenderQueue: -1
 >>>>>>> testBranch
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3000
+>>>>>>> recover
+=======
+>>>>>>> main
+>>>>>>> fix3
+=======
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3000
+>>>>>>> recover
+=======
+>>>>>>> main
+>>>>>>> fix3
+=======
+  m_CustomRenderQueue: 3000
+>>>>>>> test
+<<<<<<< HEAD
+=======
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3000
+>>>>>>> recover
+=======
+  m_CustomRenderQueue: 3000
+>>>>>>> test
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+  m_CustomRenderQueue: 3000
+>>>>>>> test
 =======
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: 3000
@@ -101,7 +189,21 @@ Material:
     m_Ints: []
     m_Floats:
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
     - _AlphaClip: 0
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+    - _AlphaClip: 0
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
 <<<<<<< HEAD
 <<<<<<< HEAD
     - _AlphaToMask: 0
@@ -110,7 +212,29 @@ Material:
 =======
     - _AlphaToMask: 0
 >>>>>>> origin/main
+>>>>>>> main
+=======
+    - _AlphaToMask: 0
+>>>>>>> test
+<<<<<<< HEAD
+=======
+    - _AlphaToMask: 0
+>>>>>>> test
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+    - _AlphaToMask: 0
+>>>>>>> test
     - _Blend: 2
+=======
+>>>>>>> recover
+=======
+>>>>>>> recover
+<<<<<<< HEAD
+=======
+>>>>>>> recover
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
 =======
 >>>>>>> recover
     - _BlendOp: 0
@@ -126,6 +250,28 @@ Material:
     - _DistortionEnabled: 0
     - _DistortionStrength: 1
     - _DistortionStrengthScaled: 0
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+<<<<<<< HEAD
+    - _DstBlend: 0
+=======
+>>>>>>> fix3
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    - _DstBlend: 0
+=======
+<<<<<<< HEAD
+>>>>>>> fix3
     - _DstBlend: 1
 <<<<<<< HEAD
     - _DstBlendAlpha: 1
@@ -135,7 +281,39 @@ Material:
 >>>>>>> testBranch
 =======
 >>>>>>> origin/main
+<<<<<<< HEAD
+<<<<<<< HEAD
 =======
+>>>>>>> recover
+=======
+>>>>>>> main
+>>>>>>> fix3
+=======
+    - _DstBlend: 1
+>>>>>>> recover
+=======
+>>>>>>> main
+>>>>>>> fix3
+=======
+    - _DstBlend: 1
+    - _DstBlendAlpha: 1
+>>>>>>> test
+<<<<<<< HEAD
+=======
+    - _DstBlend: 1
+>>>>>>> recover
+=======
+    - _DstBlend: 1
+    - _DstBlendAlpha: 1
+>>>>>>> test
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+    - _DstBlend: 1
+    - _DstBlendAlpha: 1
+>>>>>>> test
+=======
+    - _DstBlend: 1
 >>>>>>> recover
     - _EmissionEnabled: 0
     - _FlipbookMode: 0
@@ -152,6 +330,28 @@ Material:
     - _SoftParticlesFarFadeDistance: 1
     - _SoftParticlesNearFadeDistance: 0
     - _SpecularHighlights: 1
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+<<<<<<< HEAD
+    - _SrcBlend: 1
+=======
+>>>>>>> fix3
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    - _SrcBlend: 1
+=======
+<<<<<<< HEAD
+>>>>>>> fix3
     - _SrcBlend: 5
 <<<<<<< HEAD
     - _SrcBlendAlpha: 1
@@ -161,8 +361,36 @@ Material:
 >>>>>>> testBranch
 =======
 >>>>>>> origin/main
+>>>>>>> main
+=======
+    - _SrcBlend: 5
+    - _SrcBlendAlpha: 1
+>>>>>>> test
+<<<<<<< HEAD
+=======
+    - _SrcBlend: 5
+    - _SrcBlendAlpha: 1
+>>>>>>> test
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+    - _SrcBlend: 5
+    - _SrcBlendAlpha: 1
+>>>>>>> test
     - _Surface: 1
 =======
+>>>>>>> recover
+=======
+    - _SrcBlend: 5
+>>>>>>> recover
+<<<<<<< HEAD
+=======
+    - _SrcBlend: 5
+>>>>>>> recover
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+    - _SrcBlend: 5
 >>>>>>> recover
     - _UVSec: 0
     - _ZWrite: 0

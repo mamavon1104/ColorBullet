@@ -22,6 +22,14 @@ VisualEffectResource:
     m_InitialEventName: OnPlay
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
     m_InstancingMode: -1
     m_InstancingCapacity: 64
 =======
@@ -30,6 +38,22 @@ VisualEffectResource:
     m_InstancingMode: -1
     m_InstancingCapacity: 64
 >>>>>>> origin/main
+>>>>>>> main
+=======
+    m_InstancingMode: -1
+    m_InstancingCapacity: 64
+>>>>>>> test
+<<<<<<< HEAD
+=======
+    m_InstancingMode: -1
+    m_InstancingCapacity: 64
+>>>>>>> test
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+    m_InstancingMode: -1
+    m_InstancingCapacity: 64
+>>>>>>> test
 --- !u!114 &8926484042661615022
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -53,6 +77,15 @@ MonoBehaviour:
   m_ImportDependencies: []
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+  m_GraphVersion: 9
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
   m_GraphVersion: 12
 =======
   m_GraphVersion: 9
@@ -60,6 +93,19 @@ MonoBehaviour:
 =======
   m_GraphVersion: 12
 >>>>>>> origin/main
+>>>>>>> main
+=======
+  m_GraphVersion: 12
+>>>>>>> test
+<<<<<<< HEAD
+=======
+  m_GraphVersion: 12
+>>>>>>> test
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+  m_GraphVersion: 12
+>>>>>>> test
   m_ResourceVersion: 1
   m_SubgraphDependencies: []
   m_CategoryPath: 

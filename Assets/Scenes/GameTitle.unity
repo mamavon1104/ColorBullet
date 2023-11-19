@@ -1997,18 +1997,45 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
   m_fontAsset: {fileID: 11400000, guid: cf43e397a472f2a418c5df69c9b98ce1, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: cf43e397a472f2a418c5df69c9b98ce1, type: 2}
 =======
   m_fontAsset: {fileID: 11400000, guid: d4de57f8c87d4404c910fb422bcf735e, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: d4de57f8c87d4404c910fb422bcf735e, type: 2}
+<<<<<<< HEAD
+=======
 >>>>>>> testBranch
 =======
   m_fontAsset: {fileID: 11400000, guid: cf43e397a472f2a418c5df69c9b98ce1, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: cf43e397a472f2a418c5df69c9b98ce1, type: 2}
 >>>>>>> origin/main
+>>>>>>> main
   m_fontSharedMaterials:
   - {fileID: 2180264, guid: d4de57f8c87d4404c910fb422bcf735e, type: 2}
+=======
+  m_fontAsset: {fileID: 11400000, guid: d4de57f8c87d4404c910fb422bcf735e, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: d4de57f8c87d4404c910fb422bcf735e, type: 2}
+  m_fontSharedMaterials: []
+>>>>>>> recover
+=======
+  m_fontAsset: {fileID: 11400000, guid: d4de57f8c87d4404c910fb422bcf735e, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: d4de57f8c87d4404c910fb422bcf735e, type: 2}
+  m_fontSharedMaterials: []
+>>>>>>> recover
+<<<<<<< HEAD
+=======
+  m_fontAsset: {fileID: 11400000, guid: d4de57f8c87d4404c910fb422bcf735e, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: d4de57f8c87d4404c910fb422bcf735e, type: 2}
+  m_fontSharedMaterials: []
+>>>>>>> recover
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
 =======
   m_fontAsset: {fileID: 11400000, guid: d4de57f8c87d4404c910fb422bcf735e, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: d4de57f8c87d4404c910fb422bcf735e, type: 2}

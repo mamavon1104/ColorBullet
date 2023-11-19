@@ -12,6 +12,26 @@ Material:
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> fix3
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> fix3
   - _ALPHATEST_ON
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -19,6 +39,19 @@ Material:
 >>>>>>> testBranch
 =======
 >>>>>>> origin/main
+>>>>>>> main
+=======
+  - _ALPHATEST_ON
+>>>>>>> test
+<<<<<<< HEAD
+=======
+  - _ALPHATEST_ON
+>>>>>>> test
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+  - _ALPHATEST_ON
+>>>>>>> test
   - _EMISSION
   m_InvalidKeywords:
   - _FLIPBOOKBLENDING_OFF
@@ -27,13 +60,66 @@ Material:
   m_DoubleSidedGI: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+  m_CustomRenderQueue: -1
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> origin/main
   m_CustomRenderQueue: 2450
 =======
   m_CustomRenderQueue: -1
 >>>>>>> testBranch
+<<<<<<< HEAD
+<<<<<<< HEAD
 =======
+  m_InvalidKeywords: []
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 2450
+>>>>>>> recover
+=======
+>>>>>>> main
+>>>>>>> fix3
+=======
+  - _ALPHATEST_ON
+  m_InvalidKeywords: []
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 2450
+>>>>>>> recover
+=======
+>>>>>>> main
+>>>>>>> fix3
+=======
+  m_CustomRenderQueue: 2450
+>>>>>>> test
+<<<<<<< HEAD
+=======
+  - _ALPHATEST_ON
+  m_InvalidKeywords: []
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 2450
+>>>>>>> recover
+=======
+  m_CustomRenderQueue: 2450
+>>>>>>> test
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+  m_CustomRenderQueue: 2450
+>>>>>>> test
+=======
+  - _ALPHATEST_ON
   m_InvalidKeywords: []
   m_LightmapFlags: 0
   m_EnableInstancingVariants: 0
@@ -87,7 +173,21 @@ Material:
     m_Ints: []
     m_Floats:
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
     - _AlphaClip: 1
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+    - _AlphaClip: 1
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
 <<<<<<< HEAD
 <<<<<<< HEAD
     - _AlphaToMask: 1
@@ -96,7 +196,29 @@ Material:
 =======
     - _AlphaToMask: 1
 >>>>>>> origin/main
+>>>>>>> main
+=======
+    - _AlphaToMask: 1
+>>>>>>> test
+<<<<<<< HEAD
+=======
+    - _AlphaToMask: 1
+>>>>>>> test
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+    - _AlphaToMask: 1
+>>>>>>> test
     - _Blend: 0
+=======
+>>>>>>> recover
+=======
+>>>>>>> recover
+<<<<<<< HEAD
+=======
+>>>>>>> recover
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
 =======
 >>>>>>> recover
     - _BlendOp: 0
@@ -132,13 +254,50 @@ Material:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> fix3
+<<<<<<< HEAD
+<<<<<<< HEAD
     - _SrcBlendAlpha: 1
 =======
 >>>>>>> testBranch
 =======
     - _SrcBlendAlpha: 1
 >>>>>>> origin/main
+>>>>>>> main
+=======
+    - _SrcBlendAlpha: 1
+>>>>>>> test
+<<<<<<< HEAD
+=======
+    - _SrcBlendAlpha: 1
+>>>>>>> test
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+    - _SrcBlendAlpha: 1
+>>>>>>> test
     - _Surface: 0
+=======
+>>>>>>> recover
+=======
+>>>>>>> recover
+<<<<<<< HEAD
+=======
+>>>>>>> recover
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
 =======
 >>>>>>> recover
     - _UVSec: 0
@@ -148,6 +307,23 @@ Material:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+=======
+<<<<<<< HEAD
+=======
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+=======
+>>>>>>> fix3
+<<<<<<< HEAD
+<<<<<<< HEAD
     - _Color: {r: 8.474192, g: 8.474192, b: 8.474192, a: 1}
 =======
     - _Color: {r: 1, g: 1, b: 1, a: 1}
@@ -155,6 +331,35 @@ Material:
 =======
     - _Color: {r: 8.474192, g: 8.474192, b: 8.474192, a: 1}
 >>>>>>> origin/main
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+    - _Color: {r: 8.47419, g: 8.47419, b: 8.47419, a: 1}
+>>>>>>> recover
+=======
+>>>>>>> main
+>>>>>>> fix3
+=======
+    - _Color: {r: 8.47419, g: 8.47419, b: 8.47419, a: 1}
+>>>>>>> recover
+=======
+>>>>>>> main
+>>>>>>> fix3
+=======
+    - _Color: {r: 8.474192, g: 8.474192, b: 8.474192, a: 1}
+>>>>>>> test
+<<<<<<< HEAD
+=======
+    - _Color: {r: 8.47419, g: 8.47419, b: 8.47419, a: 1}
+>>>>>>> recover
+=======
+    - _Color: {r: 8.474192, g: 8.474192, b: 8.474192, a: 1}
+>>>>>>> test
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+    - _Color: {r: 8.474192, g: 8.474192, b: 8.474192, a: 1}
+>>>>>>> test
 =======
     - _Color: {r: 8.47419, g: 8.47419, b: 8.47419, a: 1}
 >>>>>>> recover
@@ -163,6 +368,12 @@ Material:
     - _SoftParticleFadeParams: {r: 0, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
 --- !u!114 &8499099971015833145
 MonoBehaviour:
   m_ObjectHideFlags: 11
@@ -177,6 +388,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+  version: 6
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
   version: 7
 =======
   version: 6
@@ -184,5 +404,31 @@ MonoBehaviour:
 =======
   version: 7
 >>>>>>> origin/main
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> recover
+=======
+>>>>>>> main
+>>>>>>> fix3
+=======
+>>>>>>> recover
+=======
+>>>>>>> main
+>>>>>>> fix3
+=======
+  version: 7
+>>>>>>> test
+<<<<<<< HEAD
+=======
+>>>>>>> recover
+=======
+  version: 7
+>>>>>>> test
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+  version: 7
+>>>>>>> test
 =======
 >>>>>>> recover

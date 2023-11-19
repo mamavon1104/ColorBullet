@@ -1,6 +1,12 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
 --- !u!114 &-5975762786740934243
 MonoBehaviour:
   m_ObjectHideFlags: 11
@@ -15,6 +21,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+  version: 6
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
   version: 7
 =======
   version: 6
@@ -22,6 +37,32 @@ MonoBehaviour:
 =======
   version: 7
 >>>>>>> origin/main
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> recover
+=======
+>>>>>>> main
+>>>>>>> fix3
+=======
+>>>>>>> recover
+=======
+>>>>>>> main
+>>>>>>> fix3
+=======
+  version: 7
+>>>>>>> test
+<<<<<<< HEAD
+=======
+>>>>>>> recover
+=======
+  version: 7
+>>>>>>> test
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+  version: 7
+>>>>>>> test
 =======
 >>>>>>> recover
 --- !u!21 &2100000
@@ -45,6 +86,21 @@ Material:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> fix3
+<<<<<<< HEAD
+<<<<<<< HEAD
   - DepthOnly
   - SHADOWCASTER
 =======
@@ -53,7 +109,32 @@ Material:
   - DepthOnly
   - SHADOWCASTER
 >>>>>>> origin/main
+>>>>>>> main
+=======
+  - DepthOnly
+  - SHADOWCASTER
+>>>>>>> test
+<<<<<<< HEAD
+=======
+  - DepthOnly
+  - SHADOWCASTER
+>>>>>>> test
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+  - DepthOnly
+  - SHADOWCASTER
+>>>>>>> test
   m_LockedProperties: 
+=======
+>>>>>>> recover
+=======
+>>>>>>> recover
+<<<<<<< HEAD
+=======
+>>>>>>> recover
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
 =======
 >>>>>>> recover
   m_SavedProperties:
@@ -97,7 +178,21 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
     - _AlphaClip: 0
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+    - _AlphaClip: 0
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
 <<<<<<< HEAD
 <<<<<<< HEAD
     - _AlphaToMask: 0
@@ -106,7 +201,29 @@ Material:
 =======
     - _AlphaToMask: 0
 >>>>>>> origin/main
+>>>>>>> main
+=======
+    - _AlphaToMask: 0
+>>>>>>> test
+<<<<<<< HEAD
+=======
+    - _AlphaToMask: 0
+>>>>>>> test
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+    - _AlphaToMask: 0
+>>>>>>> test
     - _Blend: 1
+=======
+>>>>>>> recover
+=======
+>>>>>>> recover
+<<<<<<< HEAD
+=======
+>>>>>>> recover
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
 =======
 >>>>>>> recover
     - _BlendOp: 0
@@ -122,6 +239,28 @@ Material:
     - _DistortionEnabled: 0
     - _DistortionStrength: 1
     - _DistortionStrengthScaled: 0
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+<<<<<<< HEAD
+    - _DstBlend: 0
+=======
+>>>>>>> fix3
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    - _DstBlend: 0
+=======
+<<<<<<< HEAD
+>>>>>>> fix3
     - _DstBlend: 10
 <<<<<<< HEAD
     - _DstBlendAlpha: 10
@@ -131,7 +270,39 @@ Material:
 >>>>>>> testBranch
 =======
 >>>>>>> origin/main
+<<<<<<< HEAD
+<<<<<<< HEAD
 =======
+>>>>>>> recover
+=======
+>>>>>>> main
+>>>>>>> fix3
+=======
+    - _DstBlend: 10
+>>>>>>> recover
+=======
+>>>>>>> main
+>>>>>>> fix3
+=======
+    - _DstBlend: 10
+    - _DstBlendAlpha: 10
+>>>>>>> test
+<<<<<<< HEAD
+=======
+    - _DstBlend: 10
+>>>>>>> recover
+=======
+    - _DstBlend: 10
+    - _DstBlendAlpha: 10
+>>>>>>> test
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+    - _DstBlend: 10
+    - _DstBlendAlpha: 10
+>>>>>>> test
+=======
+    - _DstBlend: 10
 >>>>>>> recover
     - _EmissionEnabled: 0
     - _FlipbookMode: 0
@@ -152,13 +323,50 @@ Material:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> fix3
+<<<<<<< HEAD
+<<<<<<< HEAD
     - _SrcBlendAlpha: 1
 =======
 >>>>>>> testBranch
 =======
     - _SrcBlendAlpha: 1
 >>>>>>> origin/main
+>>>>>>> main
+=======
+    - _SrcBlendAlpha: 1
+>>>>>>> test
+<<<<<<< HEAD
+=======
+    - _SrcBlendAlpha: 1
+>>>>>>> test
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+    - _SrcBlendAlpha: 1
+>>>>>>> test
     - _Surface: 1
+=======
+>>>>>>> recover
+=======
+>>>>>>> recover
+<<<<<<< HEAD
+=======
+>>>>>>> recover
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
 =======
 >>>>>>> recover
     - _UVSec: 0
@@ -168,6 +376,23 @@ Material:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+=======
+<<<<<<< HEAD
+=======
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+=======
+>>>>>>> fix3
+<<<<<<< HEAD
+<<<<<<< HEAD
     - _Color: {r: 8.474192, g: 8.474192, b: 8.474192, a: 1}
 =======
     - _Color: {r: 1, g: 1, b: 1, a: 1}
@@ -175,6 +400,35 @@ Material:
 =======
     - _Color: {r: 8.474192, g: 8.474192, b: 8.474192, a: 1}
 >>>>>>> origin/main
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+    - _Color: {r: 8.47419, g: 8.47419, b: 8.47419, a: 1}
+>>>>>>> recover
+=======
+>>>>>>> main
+>>>>>>> fix3
+=======
+    - _Color: {r: 8.47419, g: 8.47419, b: 8.47419, a: 1}
+>>>>>>> recover
+=======
+>>>>>>> main
+>>>>>>> fix3
+=======
+    - _Color: {r: 8.474192, g: 8.474192, b: 8.474192, a: 1}
+>>>>>>> test
+<<<<<<< HEAD
+=======
+    - _Color: {r: 8.47419, g: 8.47419, b: 8.47419, a: 1}
+>>>>>>> recover
+=======
+    - _Color: {r: 8.474192, g: 8.474192, b: 8.474192, a: 1}
+>>>>>>> test
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+    - _Color: {r: 8.474192, g: 8.474192, b: 8.474192, a: 1}
+>>>>>>> test
 =======
     - _Color: {r: 8.47419, g: 8.47419, b: 8.47419, a: 1}
 >>>>>>> recover

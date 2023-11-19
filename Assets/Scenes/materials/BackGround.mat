@@ -9,6 +9,9 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: BackGround
 <<<<<<< HEAD
+  m_Shader: {fileID: -6465566751694194690, guid: 34dd378450ea8ef49919f5481b1ce7f8, type: 3}
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_Shader: {fileID: -6465566751694194690, guid: 7dc650e76eceaca4a86e21167341d4ac, type: 3}
 =======
@@ -17,6 +20,7 @@ Material:
 =======
   m_Shader: {fileID: -6465566751694194690, guid: 7dc650e76eceaca4a86e21167341d4ac, type: 3}
 >>>>>>> origin/main
+>>>>>>> main
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -85,6 +89,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+  version: 6
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
   version: 7
 =======
   version: 6
@@ -92,3 +105,16 @@ MonoBehaviour:
 =======
   version: 7
 >>>>>>> origin/main
+>>>>>>> main
+=======
+  version: 7
+>>>>>>> test
+<<<<<<< HEAD
+=======
+  version: 7
+>>>>>>> test
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+  version: 7
+>>>>>>> test

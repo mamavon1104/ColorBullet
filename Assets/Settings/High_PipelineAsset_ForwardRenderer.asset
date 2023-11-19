@@ -14,7 +14,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   debugShaders:
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
     debugReplacementPS: {fileID: 0}
+<<<<<<< HEAD
+=======
 <<<<<<< HEAD
 <<<<<<< HEAD
     hdrDebugViewPS: {fileID: 0}
@@ -23,6 +31,26 @@ MonoBehaviour:
 =======
     hdrDebugViewPS: {fileID: 0}
 >>>>>>> origin/main
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+    debugReplacementPS: {fileID: 4800000, guid: cf852408f2e174538bcd9b7fda1c5ae7, type: 3}
+>>>>>>> recover
+=======
+>>>>>>> main
+>>>>>>> fix3
+=======
+    debugReplacementPS: {fileID: 4800000, guid: cf852408f2e174538bcd9b7fda1c5ae7, type: 3}
+>>>>>>> recover
+=======
+>>>>>>> main
+>>>>>>> fix3
+<<<<<<< HEAD
+=======
+    debugReplacementPS: {fileID: 4800000, guid: cf852408f2e174538bcd9b7fda1c5ae7, type: 3}
+>>>>>>> recover
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
 =======
     debugReplacementPS: {fileID: 4800000, guid: cf852408f2e174538bcd9b7fda1c5ae7, type: 3}
 >>>>>>> recover
@@ -36,9 +64,17 @@ MonoBehaviour:
     copyDepthPS: {fileID: 4800000, guid: d6dae50ee9e1bfa4db75f19f99355220, type: 3}
     screenSpaceShadowPS: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
     samplingPS: {fileID: 0}
     stencilDeferredPS: {fileID: 0}
     fallbackErrorPS: {fileID: 0}
+<<<<<<< HEAD
+=======
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -53,15 +89,29 @@ MonoBehaviour:
     dataDrivenLensFlare: {fileID: 0}
 <<<<<<< HEAD
 =======
+>>>>>>> main
     materialErrorPS: {fileID: 0}
     coreBlitPS: {fileID: 0}
     coreBlitColorAndDepthPS: {fileID: 0}
     cameraMotionVector: {fileID: 0}
     objectMotionVector: {fileID: 0}
+<<<<<<< HEAD
+=======
 >>>>>>> testBranch
 =======
 >>>>>>> origin/main
+<<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> recover
+<<<<<<< HEAD
+=======
+>>>>>>> recover
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+>>>>>>> recover
     samplingPS: {fileID: 4800000, guid: 04c410c9937594faa893a11dceb85f7e, type: 3}
     stencilDeferredPS: {fileID: 4800000, guid: e9155b26e1bc55942a41e518703fe304, type: 3}
     fallbackErrorPS: {fileID: 4800000, guid: e6e9a19c3678ded42a3bc431ebef7dbd, type: 3}
@@ -70,6 +120,27 @@ MonoBehaviour:
     coreBlitColorAndDepthPS: {fileID: 4800000, guid: d104b2fc1ca6445babb8e90b0758136b, type: 3}
     cameraMotionVector: {fileID: 4800000, guid: c56b7e0d4c7cb484e959caeeedae9bbf, type: 3}
     objectMotionVector: {fileID: 4800000, guid: 7b3ede40266cd49a395def176e1bc486, type: 3}
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+>>>>>>> recover
+=======
+>>>>>>> main
+>>>>>>> fix3
+=======
+>>>>>>> recover
+=======
+>>>>>>> main
+>>>>>>> fix3
+<<<<<<< HEAD
+=======
+>>>>>>> recover
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
 >>>>>>> recover
   m_AssetVersion: 2
   m_OpaqueLayerMask:
