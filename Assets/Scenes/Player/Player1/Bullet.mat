@@ -8,7 +8,19 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Bullet
+<<<<<<< HEAD
   m_Shader: {fileID: -6465566751694194690, guid: 76ffc8b5f6c747841b111119f3fb7796, type: 3}
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+  m_Shader: {fileID: -6465566751694194690, guid: 445e1445d2b459744aad01a51ec01a67, type: 3}
+=======
+  m_Shader: {fileID: -6465566751694194690, guid: 76ffc8b5f6c747841b111119f3fb7796, type: 3}
+>>>>>>> testBranch
+=======
+  m_Shader: {fileID: -6465566751694194690, guid: 445e1445d2b459744aad01a51ec01a67, type: 3}
+>>>>>>> origin/main
+>>>>>>> main
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -68,7 +80,19 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _pixil_frame_0_43:
+<<<<<<< HEAD
         m_Texture: {fileID: 0}
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+        m_Texture: {fileID: 2800000, guid: 94deca54aaeba7f4f9bc40bc28403120, type: 3}
+=======
+        m_Texture: {fileID: 0}
+>>>>>>> testBranch
+=======
+        m_Texture: {fileID: 2800000, guid: 94deca54aaeba7f4f9bc40bc28403120, type: 3}
+>>>>>>> origin/main
+>>>>>>> main
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
@@ -114,7 +138,19 @@ Material:
     - _ZWrite: 1
     - _power: 0.62
     m_Colors:
+<<<<<<< HEAD
     - _Color: {r: 0, g: 0.63529414, b: 1.4980392, a: 1}
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+    - _Color: {r: 6.964404, g: 6.964404, b: 0.964094, a: 1}
+=======
+    - _Color: {r: 0, g: 0.63529414, b: 1.4980392, a: 1}
+>>>>>>> testBranch
+=======
+    - _Color: {r: 6.964404, g: 6.964404, b: 0.964094, a: 1}
+>>>>>>> origin/main
+>>>>>>> main
     - _Color_1: {r: 1.5908885, g: 0.2867696, b: 0, a: 1}
     - _EmissionColor: {r: 0.30588236, g: 0.5372549, b: 0.8039216, a: 1}
     - _Emmision: {r: 0, g: 3.9999995, b: 0.40780923, a: 0}
@@ -134,4 +170,34 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
   version: 6
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+  version: 7
+=======
+  version: 6
+>>>>>>> testBranch
+=======
+  version: 7
+>>>>>>> origin/main
+>>>>>>> main
+=======
+  version: 7
+>>>>>>> test
+<<<<<<< HEAD
+=======
+  version: 7
+>>>>>>> test
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+  version: 7
+>>>>>>> test

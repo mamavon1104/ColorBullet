@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  version: 6
+  version: 7
 --- !u!21 &2100000
 Material:
   serializedVersion: 8
@@ -150,7 +150,7 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
-    - Color_1313CB5F: {r: 51.984146, g: 51.984146, b: 51.984146, a: 1}
+    - Color_1313CB5F: {r: 42.224255, g: 42.224255, b: 42.224255, a: 1}
     - Color_1dfb0a33e5314a98a054db225a533281: {r: 0, g: 0, b: 0, a: 0.2509804}
     - Color_2d523c9e87ea411c87ba7d7b977b62e7: {r: 0.004391442, g: 0.25415218, b: 0.45078585, a: 0}
     - Color_3b380d5fcef743cca18450d9ec1195b1: {r: 1, g: 1, b: 1, a: 1}

@@ -8,7 +8,19 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Player pouple
+<<<<<<< HEAD
   m_Shader: {fileID: -6465566751694194690, guid: d0cc351a101eab14abe751e7c9ff5e70, type: 3}
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+  m_Shader: {fileID: -6465566751694194690, guid: 445e1445d2b459744aad01a51ec01a67, type: 3}
+=======
+  m_Shader: {fileID: -6465566751694194690, guid: d0cc351a101eab14abe751e7c9ff5e70, type: 3}
+>>>>>>> testBranch
+=======
+  m_Shader: {fileID: -6465566751694194690, guid: 445e1445d2b459744aad01a51ec01a67, type: 3}
+>>>>>>> origin/main
+>>>>>>> main
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -108,7 +120,19 @@ Material:
     - _power: 0.62
     m_Colors:
     - _Color: {r: 1, g: 0, b: 0, a: 1}
+<<<<<<< HEAD
     - _Color_1: {r: 1, g: 0, b: 0.50681686, a: 1}
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+    - _Color_1: {r: 45.254833, g: 0, b: 22.935913, a: 1}
+=======
+    - _Color_1: {r: 1, g: 0, b: 0.50681686, a: 1}
+>>>>>>> testBranch
+=======
+    - _Color_1: {r: 45.254833, g: 0, b: 22.935913, a: 1}
+>>>>>>> origin/main
+>>>>>>> main
     - _EmissionColor: {r: 0.49416864, g: 0, b: 0, a: 1}
     - _Emmision: {r: 1, g: 0.4162698, b: 0, a: 0}
   m_BuildTextureStacks: []
@@ -124,4 +148,34 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
   version: 6
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+  version: 7
+=======
+  version: 6
+>>>>>>> testBranch
+=======
+  version: 7
+>>>>>>> origin/main
+>>>>>>> main
+=======
+  version: 7
+>>>>>>> test
+<<<<<<< HEAD
+=======
+  version: 7
+>>>>>>> test
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+  version: 7
+>>>>>>> test

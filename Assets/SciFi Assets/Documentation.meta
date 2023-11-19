@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/SciFi Assets/Documentation.meta
 guid: d6fba984fc0c85e40878b9fe8128e309
+========
+guid: 4ec17da14378b564d935f9f723f97bdf
+>>>>>>>> recover:Assets/Scenes/Assets.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}

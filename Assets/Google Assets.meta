@@ -1,8 +1,12 @@
 fileFormatVersion: 2
-guid: ef5f5e7c8c1c5ea4785feae4af837b88
+guid: 58fb63690afdf364d9eb2c2e17d1f40b
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
+<<<<<<<< HEAD:Assets/Google Assets.meta
+========
+  mainObjectFileID: 0
+>>>>>>>> main:Assets/Scenes/textProFolder/NotoSansJP-Black SDF.asset.meta
   userData: 
   assetBundleName: 
   assetBundleVariant: 

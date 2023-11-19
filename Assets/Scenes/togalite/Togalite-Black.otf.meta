@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 72dcb6962569ef343bd4b47a18a3b6e4
+guid: e5a6b162ef839604fa0654d86da0229a
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -10,9 +10,7 @@ TrueTypeFontImporter:
   includeFontData: 1
   fontNames:
   - Togalite
-  fallbackFontReferences:
-  - {fileID: 12800000, guid: 609d61aeb31cd9d40ac51e806e64fbcf, type: 3}
-  - {fileID: 12800000, guid: b07f8ae8b527a244e9ab5ad6d805a7be, type: 3}
+  fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0
   ascentCalculationMode: 1

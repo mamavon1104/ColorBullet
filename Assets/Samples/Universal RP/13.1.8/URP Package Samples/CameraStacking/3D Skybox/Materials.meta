@@ -1,5 +1,9 @@
 fileFormatVersion: 2
-guid: 8bba87808bb4c407cbb9aebc3322a6cc
+<<<<<<<< HEAD:Assets/Samples/Universal RP/13.1.8/URP Package Samples/CameraStacking/3D Skybox/Materials.meta
+guid: f4128bb1a9248314c92cf4131a853baf
+========
+guid: b8a918b043bfbfa4ba66440296b82d64
+>>>>>>>> main:Assets/HDRPDefaultResources.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
