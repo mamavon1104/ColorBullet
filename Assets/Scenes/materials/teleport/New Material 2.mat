@@ -7,25 +7,13 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: New Material 1
+  m_Name: New Material 2
   m_Shader: {fileID: -6465566751694194690, guid: 602b0f2649b1168429a400948f32a651, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
   m_InvalidKeywords: []
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
   m_LightmapFlags: 4
-=======
-  m_LightmapFlags: 2
->>>>>>> ace05485301a1d3d6e15693c8eac439818cf9b76
-=======
-  m_LightmapFlags: 2
->>>>>>> ace05485301a1d3d6e15693c8eac439818cf9b76
-=======
-  m_LightmapFlags: 2
->>>>>>> ace05485301a1d3d6e15693c8eac439818cf9b76
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
@@ -35,19 +23,10 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
     - _BaseMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-=======
->>>>>>> ace05485301a1d3d6e15693c8eac439818cf9b76
-=======
->>>>>>> ace05485301a1d3d6e15693c8eac439818cf9b76
-=======
->>>>>>> ace05485301a1d3d6e15693c8eac439818cf9b76
     - _BumpMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -84,19 +63,10 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
     - _SpecGlossMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-=======
->>>>>>> ace05485301a1d3d6e15693c8eac439818cf9b76
-=======
->>>>>>> ace05485301a1d3d6e15693c8eac439818cf9b76
-=======
->>>>>>> ace05485301a1d3d6e15693c8eac439818cf9b76
     - unity_Lightmaps:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -111,9 +81,6 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
     - _AlphaClip: 0
     - _AlphaToMask: 0
     - _Blend: 0
@@ -153,50 +120,10 @@ Material:
     - _Base_Color: {r: 0, g: 0.6158095, b: 0.8301887, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _EmmisionLinesColor: {r: 0, g: 1.624981, b: 4.2870936, a: 0}
+    - _EmmisionLinesColor: {r: 33.896755, g: 0, b: 29.547646, a: 0}
     - _SpecColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
   m_BuildTextureStacks: []
 --- !u!114 &1267058818607758384
-=======
-=======
->>>>>>> ace05485301a1d3d6e15693c8eac439818cf9b76
-=======
->>>>>>> ace05485301a1d3d6e15693c8eac439818cf9b76
-    - _BumpScale: 1
-    - _ButtomLines: 0.79
-    - _Cutoff: 0.5
-    - _DetailNormalMapScale: 1
-    - _DstBlend: 0
-    - _GlossMapScale: 1
-    - _Glossiness: 0.628
-    - _GlossyReflections: 1
-    - _Metallic: 0.562
-    - _Mode: 0
-    - _OcclusionStrength: 1
-    - _Parallax: 0.02
-    - _QueueControl: 0
-    - _QueueOffset: 0
-    - _SmoothnessTextureChannel: 0
-    - _SpecularHighlights: 1
-    - _SrcBlend: 1
-    - _TopLines: 5.18
-    - _UVSec: 0
-    - _ZWrite: 1
-    - _speed: 0
-    m_Colors:
-    - _Base_Color: {r: 0.16637807, g: 0.97053874, b: 0.12201058, a: 0}
-    - _Color: {r: 0.9959557, g: 1, b: 0, a: 1}
-    - _EmissionColor: {r: 0.32987696, g: 0.09055446, b: 0, a: 1}
-    - _EmmisionLinesColor: {r: 1.0936935, g: 5.3258114, b: 0.427967, a: 0}
-  m_BuildTextureStacks: []
---- !u!114 &2622372366304165762
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> ace05485301a1d3d6e15693c8eac439818cf9b76
-=======
->>>>>>> ace05485301a1d3d6e15693c8eac439818cf9b76
-=======
->>>>>>> ace05485301a1d3d6e15693c8eac439818cf9b76
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
@@ -208,50 +135,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
   version: 7
-=======
-<<<<<<< HEAD
-=======
->>>>>>> ace05485301a1d3d6e15693c8eac439818cf9b76
-<<<<<<< HEAD
-=======
->>>>>>> ace05485301a1d3d6e15693c8eac439818cf9b76
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
-  version: 6
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-  version: 7
-=======
-  version: 6
->>>>>>> testBranch
-=======
-  version: 7
->>>>>>> origin/main
->>>>>>> main
-=======
-  version: 7
->>>>>>> test
-<<<<<<< HEAD
-=======
-  version: 7
->>>>>>> test
-=======
->>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
-=======
-  version: 7
->>>>>>> test
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> ace05485301a1d3d6e15693c8eac439818cf9b76
-=======
->>>>>>> ace05485301a1d3d6e15693c8eac439818cf9b76
-=======
->>>>>>> ace05485301a1d3d6e15693c8eac439818cf9b76
