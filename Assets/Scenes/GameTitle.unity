@@ -1994,53 +1994,9 @@ MonoBehaviour:
       m_Calls: []
   m_text: Color Bullet
   m_isRightToLeft: 0
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
-  m_fontAsset: {fileID: 11400000, guid: cf43e397a472f2a418c5df69c9b98ce1, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: cf43e397a472f2a418c5df69c9b98ce1, type: 2}
-=======
-  m_fontAsset: {fileID: 11400000, guid: d4de57f8c87d4404c910fb422bcf735e, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: d4de57f8c87d4404c910fb422bcf735e, type: 2}
-<<<<<<< HEAD
-=======
->>>>>>> testBranch
-=======
-  m_fontAsset: {fileID: 11400000, guid: cf43e397a472f2a418c5df69c9b98ce1, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: cf43e397a472f2a418c5df69c9b98ce1, type: 2}
->>>>>>> origin/main
->>>>>>> main
-  m_fontSharedMaterials:
-  - {fileID: 2180264, guid: d4de57f8c87d4404c910fb422bcf735e, type: 2}
-=======
   m_fontAsset: {fileID: 11400000, guid: d4de57f8c87d4404c910fb422bcf735e, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: d4de57f8c87d4404c910fb422bcf735e, type: 2}
   m_fontSharedMaterials: []
->>>>>>> recover
-=======
-  m_fontAsset: {fileID: 11400000, guid: d4de57f8c87d4404c910fb422bcf735e, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: d4de57f8c87d4404c910fb422bcf735e, type: 2}
-  m_fontSharedMaterials: []
->>>>>>> recover
-<<<<<<< HEAD
-=======
-  m_fontAsset: {fileID: 11400000, guid: d4de57f8c87d4404c910fb422bcf735e, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: d4de57f8c87d4404c910fb422bcf735e, type: 2}
-  m_fontSharedMaterials: []
->>>>>>> recover
-=======
->>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
-=======
-  m_fontAsset: {fileID: 11400000, guid: d4de57f8c87d4404c910fb422bcf735e, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: d4de57f8c87d4404c910fb422bcf735e, type: 2}
-  m_fontSharedMaterials: []
->>>>>>> recover
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
@@ -4519,7 +4475,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1204550190
 Transform:
   m_ObjectHideFlags: 0
