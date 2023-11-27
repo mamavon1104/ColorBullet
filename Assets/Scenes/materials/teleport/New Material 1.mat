@@ -13,19 +13,7 @@ Material:
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
   m_InvalidKeywords: []
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-  m_LightmapFlags: 4
-=======
   m_LightmapFlags: 2
->>>>>>> ace05485301a1d3d6e15693c8eac439818cf9b76
-=======
-  m_LightmapFlags: 2
->>>>>>> ace05485301a1d3d6e15693c8eac439818cf9b76
-=======
-  m_LightmapFlags: 2
->>>>>>> ace05485301a1d3d6e15693c8eac439818cf9b76
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
@@ -35,19 +23,6 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-    - _BaseMap:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-=======
->>>>>>> ace05485301a1d3d6e15693c8eac439818cf9b76
-=======
->>>>>>> ace05485301a1d3d6e15693c8eac439818cf9b76
-=======
->>>>>>> ace05485301a1d3d6e15693c8eac439818cf9b76
     - _BumpMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -84,19 +59,6 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-    - _SpecGlossMap:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-=======
->>>>>>> ace05485301a1d3d6e15693c8eac439818cf9b76
-=======
->>>>>>> ace05485301a1d3d6e15693c8eac439818cf9b76
-=======
->>>>>>> ace05485301a1d3d6e15693c8eac439818cf9b76
     - unity_Lightmaps:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -111,57 +73,6 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-    - _AlphaClip: 0
-    - _AlphaToMask: 0
-    - _Blend: 0
-    - _BlendModePreserveSpecular: 1
-    - _BumpScale: 1
-    - _ButtomLines: 1.1
-    - _ClearCoatMask: 0
-    - _ClearCoatSmoothness: 0
-    - _Cull: 2
-    - _Cutoff: 0.5
-    - _DetailAlbedoMapScale: 1
-    - _DetailNormalMapScale: 1
-    - _DstBlend: 0
-    - _DstBlendAlpha: 0
-    - _EnvironmentReflections: 1
-    - _GlossMapScale: 0
-    - _Glossiness: 0
-    - _GlossyReflections: 0
-    - _Metallic: 0
-    - _OcclusionStrength: 1
-    - _Parallax: 0.005
-    - _QueueControl: 0
-    - _QueueOffset: 0
-    - _ReceiveShadows: 1
-    - _Smoothness: 0.5
-    - _SmoothnessTextureChannel: 0
-    - _SpecularHighlights: 1
-    - _SrcBlend: 1
-    - _SrcBlendAlpha: 1
-    - _Surface: 0
-    - _TopLines: 5.18
-    - _WorkflowMode: 1
-    - _ZWrite: 1
-    - _speed: 0
-    m_Colors:
-    - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
-    - _Base_Color: {r: 0, g: 0.6158095, b: 0.8301887, a: 0}
-    - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _EmmisionLinesColor: {r: 0, g: 1.624981, b: 4.2870936, a: 0}
-    - _SpecColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
-  m_BuildTextureStacks: []
---- !u!114 &1267058818607758384
-=======
-=======
->>>>>>> ace05485301a1d3d6e15693c8eac439818cf9b76
-=======
->>>>>>> ace05485301a1d3d6e15693c8eac439818cf9b76
     - _BumpScale: 1
     - _ButtomLines: 0.79
     - _Cutoff: 0.5
@@ -190,13 +101,6 @@ Material:
     - _EmmisionLinesColor: {r: 1.0936935, g: 5.3258114, b: 0.427967, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &2622372366304165762
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> ace05485301a1d3d6e15693c8eac439818cf9b76
-=======
->>>>>>> ace05485301a1d3d6e15693c8eac439818cf9b76
-=======
->>>>>>> ace05485301a1d3d6e15693c8eac439818cf9b76
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
@@ -210,15 +114,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
-  version: 7
-=======
-<<<<<<< HEAD
-=======
->>>>>>> ace05485301a1d3d6e15693c8eac439818cf9b76
-<<<<<<< HEAD
-=======
->>>>>>> ace05485301a1d3d6e15693c8eac439818cf9b76
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -248,10 +143,3 @@ MonoBehaviour:
 =======
   version: 7
 >>>>>>> test
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> ace05485301a1d3d6e15693c8eac439818cf9b76
-=======
->>>>>>> ace05485301a1d3d6e15693c8eac439818cf9b76
-=======
->>>>>>> ace05485301a1d3d6e15693c8eac439818cf9b76

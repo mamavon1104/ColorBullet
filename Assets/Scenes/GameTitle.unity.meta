@@ -1,20 +1,7 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
 guid: 5c3bdefee8fe33a47bfd1648962eb186
-=======
-<<<<<<< HEAD
-<<<<<<<< HEAD:Assets/Scenes/GameTitle.unity.meta
-guid: 5c3bdefee8fe33a47bfd1648962eb186
-========
-guid: 3c60173c8198feb4c98f34027c364fcb
-folderAsset: yes
->>>>>>>> testBranch:Assets/Scenes/Player/Player4.meta
-=======
-guid: 5c3bdefee8fe33a47bfd1648962eb186
->>>>>>> origin/main
 DefaultImporter:
   externalObjects: {}
   userData: 
   assetBundleName: 
   assetBundleVariant: 
->>>>>>> main

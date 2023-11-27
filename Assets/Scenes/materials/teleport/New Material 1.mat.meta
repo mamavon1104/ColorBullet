@@ -1,27 +1,20 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-guid: 3e596afc172d92c47be52f1da155f18b
+guid: 1b7ddb7c9b01e6743afb57a2aa9d68f8
 NativeFormatImporter:
   externalObjects: {}
+<<<<<<< HEAD
   mainObjectFileID: 2100000
 =======
-=======
->>>>>>> ace05485301a1d3d6e15693c8eac439818cf9b76
-=======
->>>>>>> ace05485301a1d3d6e15693c8eac439818cf9b76
-guid: 7ccd3b96d74d5024b92e644b9b3d1f7d
-NativeFormatImporter:
-  externalObjects: {}
+<<<<<<< HEAD
+<<<<<<< HEAD
   mainObjectFileID: 0
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> ace05485301a1d3d6e15693c8eac439818cf9b76
 =======
->>>>>>> ace05485301a1d3d6e15693c8eac439818cf9b76
+  mainObjectFileID: 2100000
+>>>>>>> testBranch
 =======
->>>>>>> ace05485301a1d3d6e15693c8eac439818cf9b76
+  mainObjectFileID: 0
+>>>>>>> origin/main
+>>>>>>> main
   userData: 
   assetBundleName: 
   assetBundleVariant: 
