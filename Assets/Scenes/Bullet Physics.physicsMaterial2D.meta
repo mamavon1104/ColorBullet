@@ -1,0 +1,45 @@
+fileFormatVersion: 2
+guid: 369ad2ac321440841af9f5d74d9cab13
+NativeFormatImporter:
+  externalObjects: {}
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+<<<<<<< HEAD:Assets/Scenes/Player/Player1/Bullet.mat.meta
+<<<<<<< HEAD
+  mainObjectFileID: 2100000
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+  mainObjectFileID: 0
+=======
+  mainObjectFileID: 2100000
+>>>>>>> testBranch
+=======
+  mainObjectFileID: 0
+>>>>>>> origin/main
+<<<<<<< HEAD:Assets/Scenes/Bullet Physics.physicsMaterial2D.meta
+=======
+  mainObjectFileID: 6200000
+>>>>>>> recover:Assets/Scenes/Bullet Physics.physicsMaterial2D.meta
+=======
+>>>>>>> main
+>>>>>>> fix3:Assets/Scenes/Player/Player2/Bullet.mat.meta
+=======
+  mainObjectFileID: 6200000
+>>>>>>> recover
+<<<<<<< HEAD
+=======
+  mainObjectFileID: 6200000
+>>>>>>> recover
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+  mainObjectFileID: 6200000
+>>>>>>> recover
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
