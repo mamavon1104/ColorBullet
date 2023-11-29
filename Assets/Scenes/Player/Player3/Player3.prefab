@@ -5,7 +5,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    serializedVersion: 2
+    serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 1415026118517502417, guid: 1e9a955f7dd584244b8e9a1dc2c8a7fb, type: 3}
@@ -32,6 +32,10 @@ PrefabInstance:
       propertyPath: m_Horizontal_Right
       value: joystick 3 Horizontal Stick-R
       objectReference: {fileID: 0}
+    - target: {fileID: 3087278251385348521, guid: 1e9a955f7dd584244b8e9a1dc2c8a7fb, type: 3}
+      propertyPath: m_DefaultControlScheme
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 3568073879875530785, guid: 1e9a955f7dd584244b8e9a1dc2c8a7fb, type: 3}
       propertyPath: m_FlipX
       value: 0
@@ -40,10 +44,6 @@ PrefabInstance:
       propertyPath: m_FlipY
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3568073879875530785, guid: 1e9a955f7dd584244b8e9a1dc2c8a7fb, type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 58609c6c9e6fe21408733af2154d7d81, type: 2}
     - target: {fileID: 3568073879875530794, guid: 1e9a955f7dd584244b8e9a1dc2c8a7fb, type: 3}
       propertyPath: m_Name
       value: player3
@@ -186,7 +186,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 3568073880880152046, guid: 1e9a955f7dd584244b8e9a1dc2c8a7fb, type: 3}
+    m_RemovedGameObjects: []
     m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 7686495370310971292, guid: 1e9a955f7dd584244b8e9a1dc2c8a7fb, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5647821710592386867}
   m_SourcePrefab: {fileID: 100100000, guid: 1e9a955f7dd584244b8e9a1dc2c8a7fb, type: 3}
 --- !u!1 &8412495653291285172 stripped
 GameObject:
@@ -203,6 +208,25 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
