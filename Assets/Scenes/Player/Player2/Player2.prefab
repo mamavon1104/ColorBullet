@@ -34,7 +34,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4834023360077064243, guid: 73e23e89cce432541b77dd390a51d6e1, type: 3}
       propertyPath: m_DefaultControlScheme
-      value: New control scheme1
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 6361767535278995340, guid: 73e23e89cce432541b77dd390a51d6e1, type: 3}
       propertyPath: m_Name
@@ -80,6 +80,22 @@ PrefabInstance:
       propertyPath: m_Horizontal_Right
       value: joystick 2 Horizontal Stick-R
       objectReference: {fileID: 0}
+    - target: {fileID: 6361767536213440955, guid: 73e23e89cce432541b77dd390a51d6e1, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6361767536213440955, guid: 73e23e89cce432541b77dd390a51d6e1, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6361767536213440955, guid: 73e23e89cce432541b77dd390a51d6e1, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6361767536213440955, guid: 73e23e89cce432541b77dd390a51d6e1, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f2866975f4685dc498c12a6ecb0da253, type: 2}
     - target: {fileID: 6361767536374320015, guid: 73e23e89cce432541b77dd390a51d6e1, type: 3}
       propertyPath: m_TagString
       value: Team2

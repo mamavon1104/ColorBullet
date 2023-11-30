@@ -44,6 +44,10 @@ PrefabInstance:
       propertyPath: m_FlipY
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3568073879875530785, guid: 1e9a955f7dd584244b8e9a1dc2c8a7fb, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 10d161ba49ce6714f956a96d548e4b56, type: 2}
     - target: {fileID: 3568073879875530794, guid: 1e9a955f7dd584244b8e9a1dc2c8a7fb, type: 3}
       propertyPath: m_Name
       value: player3

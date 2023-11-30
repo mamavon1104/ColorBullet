@@ -19,9 +19,9 @@ MonoBehaviour:
     width: 1536
     height: 772.8
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Game
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 875, y: 371}
+  m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
 --- !u!114 &2
@@ -46,7 +46,7 @@ MonoBehaviour:
     y: 0
     width: 1536
     height: 772.8
-  m_MinSize: {x: 875, y: 371}
+  m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_UseTopView: 1
   m_TopViewHeight: 30
@@ -118,7 +118,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 1
-  controlID: 57
+  controlID: 45
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -144,7 +144,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 58
+  controlID: 46
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -221,7 +221,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 100}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 59
+  controlID: 47
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -232,7 +232,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: PackageManagerWindow
+  m_Name: GameView
   m_EditorClassIdentifier: 
   m_Children: []
   m_Position:
@@ -241,9 +241,9 @@ MonoBehaviour:
     y: 0
     width: 900.8
     height: 475.2
-  m_MinSize: {x: 801, y: 271}
+  m_MinSize: {x: 201, y: 221}
   m_MaxSize: {x: 4001, y: 4021}
-  m_ActualView: {fileID: 18}
+  m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 17}
   - {fileID: 14}
@@ -251,8 +251,8 @@ MonoBehaviour:
   - {fileID: 19}
   - {fileID: 13}
   - {fileID: 12}
-  m_Selected: 2
-  m_LastSelected: 5
+  m_Selected: 1
+  m_LastSelected: 0
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -319,33 +319,6 @@ MonoBehaviour:
   converterWidgetMainAsset: {fileID: 9197481963319205126, guid: 9b40f22c604c94f438696f75a42873eb, type: 3}
   m_ConverterStates:
   - isEnabled: 1
-    isActive: 1
-    isLoading: 0
-    isInitialized: 1
-    items:
-    - isActive: 1
-      message: 
-      status: 3
-    - isActive: 1
-      message: 
-      status: 3
-    - isActive: 1
-      message: 
-      status: 3
-    - isActive: 1
-      message: 
-      status: 3
-    - isActive: 1
-      message: 
-      status: 3
-    - isActive: 1
-      message: 
-      status: 3
-    pending: 0
-    warnings: 0
-    errors: 0
-    success: 6
-  - isEnabled: 1
     isActive: 0
     isLoading: 0
     isInitialized: 0
@@ -355,103 +328,14 @@ MonoBehaviour:
     errors: 0
     success: 0
   - isEnabled: 1
-    isActive: 1
+    isActive: 0
     isLoading: 0
-    isInitialized: 1
-    items:
-    - isActive: 1
-      message: 
-      status: 3
-    - isActive: 1
-      message: BlobShadow_Mat material was not upgraded. There's no upgrader to convert
-        Hidden/InternalErrorShader shader to selected pipeline
-      status: 2
-    - isActive: 1
-      message: BlueSpotlight material was not upgraded. There's no upgrader to convert
-        Hidden/InternalErrorShader shader to selected pipeline
-      status: 2
-    - isActive: 1
-      message: Building material was not upgraded. There's no upgrader to convert
-        Hidden/InternalErrorShader shader to selected pipeline
-      status: 2
-    - isActive: 1
-      message: CheckerFloor material was not upgraded. There's no upgrader to convert
-        Hidden/InternalErrorShader shader to selected pipeline
-      status: 2
-    - isActive: 1
-      message: DarkSkybox material was not upgraded. There's no upgrader to convert
-        Skybox/Cubemap shader to selected pipeline
-      status: 2
-    - isActive: 1
-      message: DepthNormal material was not upgraded. There's no upgrader to convert
-        Hidden/InternalErrorShader shader to selected pipeline
-      status: 2
-    - isActive: 1
-      message: Dither_Material material was not upgraded. There's no upgrader to
-        convert Hidden/InternalErrorShader shader to selected pipeline
-      status: 2
-    - isActive: 1
-      message: Glitch_Material material was not upgraded. There's no upgrader to
-        convert Hidden/InternalErrorShader shader to selected pipeline
-      status: 2
-    - isActive: 1
-      message: HighBuilding material was not upgraded. There's no upgrader to convert
-        Hidden/InternalErrorShader shader to selected pipeline
-      status: 2
-    - isActive: 1
-      message: LiberationSans SDF - Drop Shadow material was not upgraded. There's
-        no upgrader to convert TextMeshPro/Mobile/Distance Field shader to selected
-        pipeline
-      status: 2
-    - isActive: 1
-      message: LiberationSans SDF - Outline material was not upgraded. There's no
-        upgrader to convert TextMeshPro/Mobile/Distance Field shader to selected
-        pipeline
-      status: 2
-    - isActive: 1
-      message: MatteCheckerFloor material was not upgraded. There's no upgrader to
-        convert Hidden/InternalErrorShader shader to selected pipeline
-      status: 2
-    - isActive: 1
-      message: PaintSplat_Mat material was not upgraded. There's no upgrader to convert
-        Hidden/InternalErrorShader shader to selected pipeline
-      status: 2
-    - isActive: 1
-      message: Planet 1 material was not upgraded. There's no upgrader to convert
-        Hidden/InternalErrorShader shader to selected pipeline
-      status: 2
-    - isActive: 1
-      message: Planet 2 material was not upgraded. There's no upgrader to convert
-        Hidden/InternalErrorShader shader to selected pipeline
-      status: 2
-    - isActive: 1
-      message: Sand material was not upgraded. There's no upgrader to convert Hidden/InternalErrorShader
-        shader to selected pipeline
-      status: 2
-    - isActive: 1
-      message: Spotlight material was not upgraded. There's no upgrader to convert
-        Hidden/InternalErrorShader shader to selected pipeline
-      status: 2
-    - isActive: 1
-      message: SwirlyFrame material was not upgraded. There's no upgrader to convert
-        Hidden/InternalErrorShader shader to selected pipeline
-      status: 2
-    - isActive: 1
-      message: TrailMapDisplay material was not upgraded. There's no upgrader to
-        convert Hidden/InternalErrorShader shader to selected pipeline
-      status: 2
-    - isActive: 1
-      message: UnlitBlack material was not upgraded. There's no upgrader to convert
-        Unlit/Color shader to selected pipeline
-      status: 2
-    - isActive: 1
-      message: Wall material was not upgraded. There's no upgrader to convert Hidden/InternalErrorShader
-        shader to selected pipeline
-      status: 2
+    isInitialized: 0
+    items: []
     pending: 0
     warnings: 0
-    errors: 21
-    success: 1
+    errors: 0
+    success: 0
   - isEnabled: 1
     isActive: 0
     isLoading: 0
@@ -471,9 +355,18 @@ MonoBehaviour:
     errors: 0
     success: 0
   - isEnabled: 1
-    isActive: 1
+    isActive: 0
     isLoading: 0
-    isInitialized: 1
+    isInitialized: 0
+    items: []
+    pending: 0
+    warnings: 0
+    errors: 0
+    success: 0
+  - isEnabled: 1
+    isActive: 0
+    isLoading: 0
+    isInitialized: 0
     items: []
     pending: 0
     warnings: 0
@@ -578,10 +471,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 990.4
-    y: 80.8
-    width: 543.80005
-    height: 448.6
+    x: 635.2
+    y: 73.6
+    width: 899.8
+    height: 454.2
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -623,7 +516,7 @@ MonoBehaviour:
     m_VAllowExceedBaseRangeMax: 1
     m_ScaleWithWindow: 0
     m_HSlider: 0
-    m_VSlider: 0
+    m_VSlider: 1
     m_IgnoreScrollWheelUntilClicked: 0
     m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
@@ -634,23 +527,23 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 21
-      width: 543.80005
-      height: 427.6
-    m_Scale: {x: 0.35403648, y: 0.35403648}
-    m_Translation: {x: 271.90002, y: 213.8}
+      width: 899.8
+      height: 433.2
+    m_Scale: {x: 0.5643176, y: 0.5643176}
+    m_Translation: {x: 449.9, y: 207.00348}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -768
-      y: -603.8926
-      width: 1536
-      height: 1207.7852
+      x: -797.2461
+      y: -366.8209
+      width: 1594.4922
+      height: 767.6529
     m_MinimalGUI: 1
-  m_defaultScale: 0.35403648
-  m_LastWindowPixelSize: {x: 679.75006, y: 560.75}
+  m_defaultScale: 0.5013889
+  m_LastWindowPixelSize: {x: 1124.75, y: 567.75}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000
@@ -693,9 +586,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: ec7d0000
       m_LastClickedID: 0
-      m_ExpandedIDs: e463ffff6abb0000
+      m_ExpandedIDs: 16fbffffd2740000487500008475000060770000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -786,9 +679,9 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 639.2
+    x: 635.2
     y: 73.6
-    width: 895.8
+    width: 899.8
     height: 454.2
   m_SerializedDataModeController:
     m_DataMode: 0
@@ -844,7 +737,7 @@ MonoBehaviour:
       collapsed: 0
       displayed: 0
       snapOffset: {x: 0, y: 0}
-      snapOffsetDelta: {x: 0, y: 0}
+      snapOffsetDelta: {x: 0, y: 24.8}
       snapCorner: 1
       id: unity-search-toolbar
       index: 1
@@ -896,7 +789,7 @@ MonoBehaviour:
       collapsed: 0
       displayed: 0
       snapOffset: {x: 0, y: 0}
-      snapOffsetDelta: {x: 0, y: 0}
+      snapOffsetDelta: {x: 0, y: 24.8}
       snapCorner: 0
       id: Scene View/Light Settings
       index: 1
@@ -922,7 +815,7 @@ MonoBehaviour:
       collapsed: 0
       displayed: 0
       snapOffset: {x: 0, y: 0}
-      snapOffsetDelta: {x: 0, y: 0}
+      snapOffsetDelta: {x: 0, y: 24.8}
       snapCorner: 0
       id: Scene View/Cloth Constraints
       index: 2
@@ -935,7 +828,7 @@ MonoBehaviour:
       collapsed: 0
       displayed: 0
       snapOffset: {x: 0, y: 0}
-      snapOffsetDelta: {x: 0, y: 0}
+      snapOffsetDelta: {x: 0, y: 24.8}
       snapCorner: 0
       id: Scene View/Cloth Collisions
       index: 4
@@ -987,7 +880,7 @@ MonoBehaviour:
       collapsed: 0
       displayed: 0
       snapOffset: {x: 0, y: 0}
-      snapOffsetDelta: {x: 0, y: 0}
+      snapOffsetDelta: {x: 0, y: 24.8}
       snapCorner: 0
       id: Scene View/Occlusion Culling
       index: 5
@@ -1000,7 +893,7 @@ MonoBehaviour:
       collapsed: 0
       displayed: 0
       snapOffset: {x: 0, y: 0}
-      snapOffsetDelta: {x: 0, y: 0}
+      snapOffsetDelta: {x: 0, y: 24.8}
       snapCorner: 0
       id: Scene View/Physics Debugger
       index: 6
@@ -1013,7 +906,7 @@ MonoBehaviour:
       collapsed: 0
       displayed: 0
       snapOffset: {x: 0, y: 0}
-      snapOffsetDelta: {x: 0, y: 0}
+      snapOffsetDelta: {x: 0, y: 24.8}
       snapCorner: 0
       id: Scene View/Scene Visibility
       index: 7
@@ -1026,7 +919,7 @@ MonoBehaviour:
       collapsed: 0
       displayed: 0
       snapOffset: {x: 0, y: 0}
-      snapOffsetDelta: {x: 0, y: 0}
+      snapOffsetDelta: {x: 0, y: 24.8}
       snapCorner: 0
       id: Scene View/Particles
       index: 8
@@ -1218,17 +1111,17 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_WindowGUID: cc27987af1a868c49b0894db9c0f5429
   m_Gizmos: 1
-  m_OverrideSceneCullingMask: 0
-  m_SceneIsLit: 0
+  m_OverrideSceneCullingMask: 6917529027641081856
+  m_SceneIsLit: 1
   m_SceneLighting: 1
   m_2DMode: 1
   m_isRotationLocked: 0
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -9.365289, y: -2.4759393, z: -0.4732457}
+    m_Target: {x: 4.4412665, y: -8.655054, z: 844.74}
     speed: 2
-    m_Value: {x: 5.425744, y: -3.635389, z: -7.1278243}
+    m_Value: {x: -10.605522, y: 1.5126373, z: 0.09310221}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1239,7 +1132,7 @@ MonoBehaviour:
   m_SceneViewState:
     m_AlwaysRefresh: 0
     showFog: 1
-    showSkybox: 0
+    showSkybox: 1
     showFlares: 1
     showImageEffects: 1
     showParticleSystems: 1
@@ -1278,9 +1171,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 15.412024
+    m_Target: 23.72768
     speed: 2
-    m_Value: 23.018559
+    m_Value: 2.223604
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -1445,7 +1338,10 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes/materials
+    - Assets/Scenes/Player/Player1
+    - Assets/Scenes/Player/Player2
+    - Assets/Scenes/Player/Player3
+    - Assets/Scenes/Player/Player4
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -1453,7 +1349,10 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 57
   m_LastFolders:
-  - Assets/Scenes/materials
+  - Assets/Scenes/Player/Player1
+  - Assets/Scenes/Player/Player2
+  - Assets/Scenes/Player/Player3
+  - Assets/Scenes/Player/Player4
   m_LastFoldersGridSize: 57
   m_LastProjectPath: "C:\\Users\\vanntann\\Desktop\\\u30B2\u30FC\u30E0\u30A8\u30F3\u30B8\u30F3\\unity
     project\\\u30DD\u30FC\u30C8\u30D5\u30A9\u30EA\u30AA\u306B\u4F7F\u3048\u305D\u3046\\shooting2D"
@@ -1461,23 +1360,23 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 255.80002}
-    m_SelectedIDs: ea6c0000
-    m_LastClickedID: 27882
-    m_ExpandedIDs: 00000000aa6c0000c86c0000ea6c0000ee6c000000ca9a3b
+    m_SelectedIDs: 667b00006a7b00006e7b0000727b0000
+    m_LastClickedID: 31590
+    m_ExpandedIDs: 00000000807a0000947a0000ac7a000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: materials
+      m_OriginalName: materials
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 31392
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 11}
     m_SearchString: 
@@ -1491,7 +1390,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000aa6c0000
+    m_ExpandedIDs: 00000000807a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1543,7 +1442,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 0}
+    m_ScrollPosition: {x: 0, y: 13.400024}
     m_GridSize: 57
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 219
