@@ -586,9 +586,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: ec7d0000
+      m_SelectedIDs: 92f9ffff
       m_LastClickedID: 0
-      m_ExpandedIDs: 16fbffffd2740000487500008475000060770000
+      m_ExpandedIDs: 16fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1119,9 +1119,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 4.4412665, y: -8.655054, z: 844.74}
+    m_Target: {x: 18.531115, y: 4.9914846, z: 426.23398}
     speed: 2
-    m_Value: {x: -10.605522, y: 1.5126373, z: 0.09310221}
+    m_Value: {x: 4.4412665, y: -8.655054, z: 844.74}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1171,9 +1171,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 23.72768
+    m_Target: 12.705202
     speed: 2
-    m_Value: 2.223604
+    m_Value: 23.72768
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -1338,10 +1338,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes/Player/Player1
-    - Assets/Scenes/Player/Player2
-    - Assets/Scenes/Player/Player3
-    - Assets/Scenes/Player/Player4
+    - Assets
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -1349,34 +1346,30 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 57
   m_LastFolders:
-  - Assets/Scenes/Player/Player1
-  - Assets/Scenes/Player/Player2
-  - Assets/Scenes/Player/Player3
-  - Assets/Scenes/Player/Player4
+  - Assets
   m_LastFoldersGridSize: 57
-  m_LastProjectPath: "C:\\Users\\vanntann\\Desktop\\\u30B2\u30FC\u30E0\u30A8\u30F3\u30B8\u30F3\\unity
-    project\\\u30DD\u30FC\u30C8\u30D5\u30A9\u30EA\u30AA\u306B\u4F7F\u3048\u305D\u3046\\shooting2D"
+  m_LastProjectPath: "C:\\Users\\vanntann\\Desktop\\GameEngine\\unity project\\\u30DD\u30FC\u30C8\u30D5\u30A9\u30EA\u30AA\u306B\u4F7F\u3048\u305D\u3046\\shooting2D"
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 255.80002}
-    m_SelectedIDs: 667b00006a7b00006e7b0000727b0000
-    m_LastClickedID: 31590
-    m_ExpandedIDs: 00000000807a0000947a0000ac7a000000ca9a3b
+    scrollPos: {x: 0, y: 111}
+    m_SelectedIDs: 9c7a0000
+    m_LastClickedID: 31388
+    m_ExpandedIDs: 000000009c7a000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: materials
-      m_OriginalName: materials
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 31392
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 11}
     m_SearchString: 
@@ -1390,7 +1383,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000807a0000
+    m_ExpandedIDs: 000000009c7a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1417,7 +1410,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c62300005a810000ec8e00000000000044020000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
