@@ -14,39 +14,27 @@ PrefabInstance:
       objectReference: {fileID: 4749233487846628997, guid: 5dbd1de854b05b542a2bbe1d0010df4b, type: 3}
     - target: {fileID: 36907564823456604, guid: 5fcea5928aeaa174c81a4c294be51c6d, type: 3}
       propertyPath: thisBulletEffectColor.b
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 36907564823456604, guid: 5fcea5928aeaa174c81a4c294be51c6d, type: 3}
       propertyPath: thisBulletEffectColor.g
-      value: 0.8235295
+      value: 0.76470596
       objectReference: {fileID: 0}
     - target: {fileID: 36907564823456604, guid: 5fcea5928aeaa174c81a4c294be51c6d, type: 3}
       propertyPath: thisBulletEffectColor.r
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3694469907999433535, guid: 5fcea5928aeaa174c81a4c294be51c6d, type: 3}
-      propertyPath: m_Size.x
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3694469907999433535, guid: 5fcea5928aeaa174c81a4c294be51c6d, type: 3}
-      propertyPath: m_Size.y
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3694469907999433535, guid: 5fcea5928aeaa174c81a4c294be51c6d, type: 3}
-      propertyPath: m_Sprite
-      value: 
-      objectReference: {fileID: -2413806693520163455, guid: f696ba832c232794bac6569ed1f9a539, type: 3}
-    - target: {fileID: 3694469907999433535, guid: 5fcea5928aeaa174c81a4c294be51c6d, type: 3}
-      propertyPath: m_WasSpriteAssigned
-      value: 1
+      value: 0.29803923
       objectReference: {fileID: 0}
     - target: {fileID: 3694469907999433535, guid: 5fcea5928aeaa174c81a4c294be51c6d, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: d476762028326d247ad4099a48d905b1, type: 2}
+      objectReference: {fileID: 2100000, guid: 387dda8cd7c4fc04f88e355e2fe98896, type: 2}
     - target: {fileID: 4487816008830321634, guid: 5fcea5928aeaa174c81a4c294be51c6d, type: 3}
       propertyPath: m_RootOrder
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4487816008830321634, guid: 5fcea5928aeaa174c81a4c294be51c6d, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.68
       objectReference: {fileID: 0}
     - target: {fileID: 4487816008830321634, guid: 5fcea5928aeaa174c81a4c294be51c6d, type: 3}
       propertyPath: m_LocalPosition.x
@@ -90,11 +78,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8486258476194281888, guid: 5fcea5928aeaa174c81a4c294be51c6d, type: 3}
       propertyPath: m_Name
-      value: Bullet2
+      value: Bullet3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8486258476194281888, guid: 5fcea5928aeaa174c81a4c294be51c6d, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8486258476194281888, guid: 5fcea5928aeaa174c81a4c294be51c6d, type: 3}
       propertyPath: m_TagString
-      value: Team2
+      value: Team3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
