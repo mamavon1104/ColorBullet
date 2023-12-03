@@ -15,8 +15,8 @@ public class TeleporterParent : MonoBehaviour
     float setTeleportTime;//セットする時間。
 
     bool areTeleporterOddNumBool = false; //テレポートって奇数？
-    [SerializeField] Material[] otherColor;//テレポーター専用マテリアルの箱
-    public Color[] childVFXColors;
+    [SerializeField] Material[] teleporterMat;//テレポーター専用マテリアルの箱
+    [SerializeField] Color[] childVFXColors;
     private void Awake()
     {
         setTeleportTime = GameMaster.setTeleportTimeMaster;
@@ -70,19 +70,19 @@ public class TeleporterParent : MonoBehaviour
             for (int i = 0; i < teleportGameObjectArray.Length; i++)
             {
                 teleportIDDicitonary.Add(teleportGameObjectArray[i], i / 2); // 0 0 1 1 2...という初期化
-                teleportGameObjectArray[i].GetComponent<Renderer>().material = otherColor[i / 2];
+                teleportGameObjectArray[i].GetComponent<Renderer>().material = teleporterMat[i / 2];
                 teleportChildDictionary[teleportGameObjectArray[i]].VFXColorSetting(childVFXColors[i / 2]);
             }
             areTeleporterOddNumBool = false;
         }
         else if ((GameMaster.doSetAllTeleportersSame == true) || (teleportGameObjectArray.Length % 2 != 0))//奇数だった場合、もしくは全部同じboolがついていた場合
         {
-            var thisGameColors = Random.Range(0, otherColor.Length);
+            var thisGameColors = Random.Range(0, teleporterMat.Length);
             for (int i = 0; i < teleportGameObjectArray.Length; i++)
             {
                 teleportIDDicitonary.Add(teleportGameObjectArray[i], 0);//番号0をすべてに入れる(全部共通のテレポート)
                 teleportChildDictionary[teleportGameObjectArray[i]].VFXColorSetting(childVFXColors[thisGameColors]);
-                teleportGameObjectArray[i].GetComponent<Renderer>().material = otherColor[thisGameColors];
+                teleportGameObjectArray[i].GetComponent<Renderer>().material = teleporterMat[thisGameColors];
             }
             areTeleporterOddNumBool = true;
         }
