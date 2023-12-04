@@ -66,9 +66,7 @@ public class ChangeScenefromFinishParent : MonoBehaviour
                 if (children[i] == true)
                     trueNum++;
                 else
-                {
                     break;
-                }
             }
         }
         else
@@ -78,9 +76,7 @@ public class ChangeScenefromFinishParent : MonoBehaviour
                 if (children[i] == true)
                     trueNum++;
                 else
-                {
                     break;
-                }
             }
         }
 
@@ -89,6 +85,7 @@ public class ChangeScenefromFinishParent : MonoBehaviour
 
         if (gamePadPlayerNum != null)
             gamePadPlayerNum.CanChange = false;
+    
         StartCoroutine(ChangeScene());
     }
     IEnumerator ChangeScene()

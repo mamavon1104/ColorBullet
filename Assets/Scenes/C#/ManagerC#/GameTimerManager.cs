@@ -35,9 +35,9 @@ public class GameTimerManager : MonoBehaviour
 
             GameMaster.canNotPlayersMove = true;
             isThisGameFinished = true;
-            StartCoroutine(textManager.WriteFinishText());
-            GameMaster.SetWhenFinishedScores(gameObject.GetComponent<ScoreManager>().playersPoint);
+            GetComponent<ScoreManager>().SetGameMasterScore();
             GameMaster.audioManagerMaster.FinishAudio();
+            StartCoroutine(textManager.WriteFinishText());
         }
     }
 }

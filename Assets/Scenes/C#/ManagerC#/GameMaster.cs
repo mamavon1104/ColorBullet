@@ -105,10 +105,6 @@ public static class GameMaster
             bulletOlderList.Remove(deletedGameObject); //銃弾Listからも存在を剥奪。
         gameObjectIDDictionary.Remove(deletedGameObject); //ゲームオブジェクトとしてのIDを剥奪
     }
-    public static void SetWhenFinishedScores(int[] playersScore)
-    {
-        thisGamePlayersScore = playersScore;
-    }
     public static void DeleteStaticMember()
     {
         //書記か

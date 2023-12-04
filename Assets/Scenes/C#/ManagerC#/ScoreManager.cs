@@ -11,8 +11,8 @@ public class ScoreManager : MonoBehaviour
     
     PlayerController[] playerControllers;//王冠のため
     private int bestScore = 0; //最大値
-    public int[] playersPoint; //現在の点数
     bool[] isThisPlayerNumber1;//trueなら一流、ちがければ愚民
+    int[] playersPoint; //現在の点数
 
     private int Number1PlayersNum;//1位が何人いますか？
     
@@ -109,5 +109,9 @@ public class ScoreManager : MonoBehaviour
             }
         }
         return playerController;
+    }
+    public void SetGameMasterScore()
+    {
+        GameMaster.thisGamePlayersScore = GetComponent<ScoreManager>().playersPoint;
     }
 }

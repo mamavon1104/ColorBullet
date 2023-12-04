@@ -40,10 +40,7 @@ public class playerNum : MonoBehaviour
             if (textMeshPro == null)
                 return;
 
-            //if (getNum <= 1)
-            //    changeSceneManager.CanGotoGame = false;
-            //else
-                changeSceneManager.CanGotoGame = true;
+            //C³
 
             textMeshPro.text = getNum.ToString();
             beforeNum = getNum;
