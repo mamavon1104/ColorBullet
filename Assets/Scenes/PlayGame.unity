@@ -1535,7 +1535,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58d077fef75067b48aea9eadb851597b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  CantGoUI: {fileID: 0}
 --- !u!82 &656240913
 AudioSource:
   m_ObjectHideFlags: 0
@@ -1657,7 +1656,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   playersMaster: {fileID: 941631299}
-  playersPoint: 
 --- !u!114 &656240916
 MonoBehaviour:
   m_ObjectHideFlags: 0
