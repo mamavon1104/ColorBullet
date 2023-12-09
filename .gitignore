@@ -22,8 +22,6 @@ ExportedObj/
 *.svd
 *.pdb
 *.opendb
-*.otf
-*.ttf
 
 # Unity3D generated meta files
 *.pidb.meta
@@ -51,9 +49,3 @@ Thumbs.db
 
 #python bytecode cache, for some plugins.
 *.pyc
-Assets/Scenes/Button UI/NotoSansJP-Black SDF.asset
-Assets/Scenes/hannari/HannariMincho-Regular SDF.asset
-Assets/Scenes/togalite/Togalite-Thin SDF.asset
-Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
-Assets/Scenes/textProFolder/NotoSansJP-Black SDF.asset
-Assets/Scenes/togalite/Togalite-Medium SDF.asset
