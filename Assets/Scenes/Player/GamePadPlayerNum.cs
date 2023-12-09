@@ -1,9 +1,6 @@
-<<<<<<< HEAD
-=======
 using System.Collections;
 using System.Collections.Generic;
 using System.Text;
->>>>>>> ccac406ed71418922bba8d2d913fdf76df8cdaaa
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -21,10 +18,7 @@ public class GamePadPlayerNum : MonoBehaviour
     int beforeNum = 0;
     InputAction Submit, Cancel;
     UIAudioManager audioManager;
-<<<<<<< HEAD
-=======
     ChangeSceneManager changeSceneManager;
->>>>>>> ccac406ed71418922bba8d2d913fdf76df8cdaaa
     [SerializeField] GameObject obj1;
     private void Awake()
     {
@@ -35,10 +29,7 @@ public class GamePadPlayerNum : MonoBehaviour
         var director = GameObject.FindGameObjectWithTag("GameDirector");
 
         audioManager = director.GetComponent<UIAudioManager>();
-<<<<<<< HEAD
-=======
         changeSceneManager  = director.GetComponent<ChangeSceneManager>();
->>>>>>> ccac406ed71418922bba8d2d913fdf76df8cdaaa
         Submit = director.GetComponent<PlayerInput>().actions["Submit"]; // ← "Move" Actionを利用する。
         Cancel = director.GetComponent<PlayerInput>().actions["Cancel"]; // ← "ButtonA" Actionを利用
     }
@@ -60,12 +51,9 @@ public class GamePadPlayerNum : MonoBehaviour
             GameMaster.setPlayersNumMaster = playerNum;
 
             //ここのセットかな　修正
-<<<<<<< HEAD
-=======
 
             changeSceneManager.CanGotoGame=  true;
             //changeSceneManager.CanGotoGame = false;
->>>>>>> ccac406ed71418922bba8d2d913fdf76df8cdaaa
         }
     }
     private void OnPushSubmitMotion(InputAction.CallbackContext context)

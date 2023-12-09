@@ -171,21 +171,6 @@ PrefabInstance:
       value: 
       objectReference: {fileID: -2413806693520163455, guid: f696ba832c232794bac6569ed1f9a539, type: 3}
     - target: {fileID: 8870040616109449768, guid: 47dd4d4e01350384e98fe5ed4fb71281, type: 3}
-<<<<<<< HEAD
-      propertyPath: m_Color.b
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8870040616109449768, guid: 47dd4d4e01350384e98fe5ed4fb71281, type: 3}
-      propertyPath: m_Color.g
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8870040616109449768, guid: 47dd4d4e01350384e98fe5ed4fb71281, type: 3}
-      propertyPath: m_Color.r
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8870040616109449768, guid: 47dd4d4e01350384e98fe5ed4fb71281, type: 3}
-=======
->>>>>>> ccac406ed71418922bba8d2d913fdf76df8cdaaa
       propertyPath: m_SortingOrder
       value: 0
       objectReference: {fileID: 0}
@@ -1469,8 +1454,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 635802142}
   m_CullTransparentMesh: 1
-<<<<<<< HEAD
-=======
 --- !u!1 &656240909
 GameObject:
   m_ObjectHideFlags: 0
@@ -1751,7 +1734,6 @@ MonoBehaviour:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
->>>>>>> ccac406ed71418922bba8d2d913fdf76df8cdaaa
 --- !u!1 &819129328
 GameObject:
   m_ObjectHideFlags: 0
@@ -2496,11 +2478,7 @@ PrefabInstance:
     - target: {fileID: 8870040616102247124, guid: 47dd4d4e01350384e98fe5ed4fb71281, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-<<<<<<< HEAD
-      objectReference: {fileID: 2100000, guid: 4b073605e5b7c004da42d9bcc7661a2f, type: 2}
-=======
       objectReference: {fileID: 2100000, guid: db24a2597a24b884187e5cb81ca0b56b, type: 2}
->>>>>>> ccac406ed71418922bba8d2d913fdf76df8cdaaa
     - target: {fileID: 8870040616109449768, guid: 47dd4d4e01350384e98fe5ed4fb71281, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -2516,11 +2494,7 @@ PrefabInstance:
     - target: {fileID: 8870040616109449768, guid: 47dd4d4e01350384e98fe5ed4fb71281, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-<<<<<<< HEAD
-      objectReference: {fileID: 2100000, guid: 4b073605e5b7c004da42d9bcc7661a2f, type: 2}
-=======
       objectReference: {fileID: 2100000, guid: db24a2597a24b884187e5cb81ca0b56b, type: 2}
->>>>>>> ccac406ed71418922bba8d2d913fdf76df8cdaaa
     - target: {fileID: 8870040616109449769, guid: 47dd4d4e01350384e98fe5ed4fb71281, type: 3}
       propertyPath: shotBulletType.Array.data[3]
       value: 
@@ -4146,11 +4120,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-<<<<<<< HEAD
-      - m_Target: {fileID: 0}
-=======
       - m_Target: {fileID: 656240912}
->>>>>>> ccac406ed71418922bba8d2d913fdf76df8cdaaa
         m_TargetAssemblyTypeName: ChangeSceneManager, Assembly-CSharp
         m_MethodName: ChangeScene
         m_Mode: 1
@@ -5245,11 +5215,7 @@ PrefabInstance:
     - target: {fileID: 8870040616102247124, guid: 47dd4d4e01350384e98fe5ed4fb71281, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-<<<<<<< HEAD
-      objectReference: {fileID: 2100000, guid: 4b073605e5b7c004da42d9bcc7661a2f, type: 2}
-=======
       objectReference: {fileID: 2100000, guid: db24a2597a24b884187e5cb81ca0b56b, type: 2}
->>>>>>> ccac406ed71418922bba8d2d913fdf76df8cdaaa
     - target: {fileID: 8870040616109449768, guid: 47dd4d4e01350384e98fe5ed4fb71281, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -5265,11 +5231,7 @@ PrefabInstance:
     - target: {fileID: 8870040616109449768, guid: 47dd4d4e01350384e98fe5ed4fb71281, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-<<<<<<< HEAD
-      objectReference: {fileID: 2100000, guid: 4b073605e5b7c004da42d9bcc7661a2f, type: 2}
-=======
       objectReference: {fileID: 2100000, guid: db24a2597a24b884187e5cb81ca0b56b, type: 2}
->>>>>>> ccac406ed71418922bba8d2d913fdf76df8cdaaa
     - target: {fileID: 8870040616109449769, guid: 47dd4d4e01350384e98fe5ed4fb71281, type: 3}
       propertyPath: shotBulletType.Array.data[3]
       value: 
@@ -6387,21 +6349,6 @@ PrefabInstance:
       value: 
       objectReference: {fileID: -2413806693520163455, guid: f696ba832c232794bac6569ed1f9a539, type: 3}
     - target: {fileID: 8870040616109449768, guid: 47dd4d4e01350384e98fe5ed4fb71281, type: 3}
-<<<<<<< HEAD
-      propertyPath: m_Color.b
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8870040616109449768, guid: 47dd4d4e01350384e98fe5ed4fb71281, type: 3}
-      propertyPath: m_Color.g
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8870040616109449768, guid: 47dd4d4e01350384e98fe5ed4fb71281, type: 3}
-      propertyPath: m_Color.r
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8870040616109449768, guid: 47dd4d4e01350384e98fe5ed4fb71281, type: 3}
-=======
->>>>>>> ccac406ed71418922bba8d2d913fdf76df8cdaaa
       propertyPath: m_SortingOrder
       value: 0
       objectReference: {fileID: 0}
@@ -6886,10 +6833,7 @@ SceneRoots:
   - {fileID: 1469448901}
   - {fileID: 950374432}
   - {fileID: 322749420}
-<<<<<<< HEAD
-=======
   - {fileID: 656240911}
->>>>>>> ccac406ed71418922bba8d2d913fdf76df8cdaaa
   - {fileID: 2103689797}
   - {fileID: 1346073687}
   - {fileID: 1685556281}
