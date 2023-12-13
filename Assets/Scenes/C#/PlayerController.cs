@@ -36,7 +36,7 @@ public class PlayerController : MonoBehaviour
     InputPlayerSetString myStrings;
 
     //mygamePad
-    Gamepad mypad;
+    InputDevice mypad;
     private void Awake()
     {
         myStrings = gameObject.GetComponent<InputPlayerSetString>();

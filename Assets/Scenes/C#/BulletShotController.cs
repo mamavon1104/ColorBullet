@@ -44,7 +44,7 @@ public class BulletShotController : MonoBehaviour
     InputAction shotAction;
 
     //mygamePad
-    Gamepad mypad;
+    InputDevice mypad;
 
     private void Awake()
     {
