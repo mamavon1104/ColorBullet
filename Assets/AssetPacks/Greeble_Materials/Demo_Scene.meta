@@ -1,35 +1,6 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
-<<<<<<< HEAD:Assets/AssetPacks/Greeble_Materials/Demo_Scene.meta
-guid: 33bf774a83c9d91429a28668c5e84f9f
-=======
-<<<<<<<< HEAD:Assets/Scenes/Player/Player4.meta
-guid: 3c60173c8198feb4c98f34027c364fcb
->>>>>>> fix3:Assets/Scenes/Player/Player4.meta
-folderAsset: yes
-========
-guid: 1b8d251f9af63b746bf2f7ffe00ebb9b
->>>>>>>> main:Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf.meta
-=======
 guid: 33bf774a83c9d91429a28668c5e84f9f
 folderAsset: yes
->>>>>>> recover
-<<<<<<< HEAD
-=======
-guid: 33bf774a83c9d91429a28668c5e84f9f
-folderAsset: yes
->>>>>>> recover
-=======
->>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
-=======
-guid: 33bf774a83c9d91429a28668c5e84f9f
-folderAsset: yes
->>>>>>> recover
 DefaultImporter:
   externalObjects: {}
   userData: 
