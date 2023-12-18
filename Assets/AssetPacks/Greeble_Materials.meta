@@ -1,5 +1,35 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+<<<<<<< HEAD:Assets/AssetPacks/Greeble_Materials.meta
 guid: 0ad930b0ee115e6429eac246e270de4a
+=======
+<<<<<<<< HEAD:Assets/Scenes/Player/Player3.meta
+guid: 2724853d887ec3b498ed8df97779ba7d
+========
+guid: 3c60173c8198feb4c98f34027c364fcb
+>>>>>>>> main:Assets/Scenes/Player/Player4.meta
+>>>>>>> fix3:Assets/Scenes/Player/Player3.meta
+=======
+<<<<<<<< HEAD:Assets/SciFi Assets/Animations.meta
+guid: 01ac5810d9628754ea922ff1266646a1
+========
+guid: 0ad930b0ee115e6429eac246e270de4a
+>>>>>>>> recover:Assets/AssetPacks/Greeble_Materials.meta
+>>>>>>> recover
+<<<<<<< HEAD
+=======
+guid: 0ad930b0ee115e6429eac246e270de4a
+>>>>>>> recover
+=======
+>>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
+=======
+guid: 0ad930b0ee115e6429eac246e270de4a
+>>>>>>> recover
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
