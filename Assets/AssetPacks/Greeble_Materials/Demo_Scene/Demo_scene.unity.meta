@@ -1,41 +1,6 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
-<<<<<<< HEAD:Assets/AssetPacks/Greeble_Materials/Demo_Scene/Demo_scene.unity.meta
-guid: 98cf7a4bdb2031b4a8bafaef3888656b
-=======
-<<<<<<<< HEAD:Assets/Scenes/Player/Player4.meta
-guid: 3c60173c8198feb4c98f34027c364fcb
-folderAsset: yes
-========
-guid: 1b8d251f9af63b746bf2f7ffe00ebb9b
->>>>>>>> main:Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf.meta
->>>>>>> fix3:Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf.meta
-DefaultImporter:
-=======
-<<<<<<<< HEAD:Assets/Scenes/materials/TeleporterVFX.vfx.meta
-guid: d90472e6c2f70ab4ea3278c4c7ea4fa1
-VisualEffectImporter:
-========
 guid: 98cf7a4bdb2031b4a8bafaef3888656b
 DefaultImporter:
->>>>>>>> recover:Assets/AssetPacks/Greeble_Materials/Demo_Scene/Demo_scene.unity.meta
->>>>>>> recover
-<<<<<<< HEAD
-=======
-guid: 98cf7a4bdb2031b4a8bafaef3888656b
-DefaultImporter:
->>>>>>> recover
-=======
->>>>>>> 8e735bd68a577488f02148d8309a70c3554db46a
-=======
-guid: 98cf7a4bdb2031b4a8bafaef3888656b
-DefaultImporter:
->>>>>>> recover
   externalObjects: {}
   userData: 
   assetBundleName: 
