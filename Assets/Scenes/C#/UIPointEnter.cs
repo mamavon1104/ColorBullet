@@ -66,6 +66,7 @@ public class UIPointEnter : MonoBehaviour
         if (transform.CompareTag("FinalUI"))
         {
             yield return new WaitForNextFrameUnit();
+            selected = false;
             SetFalseObjects();
             SetTrueObjects();
             yield break;
