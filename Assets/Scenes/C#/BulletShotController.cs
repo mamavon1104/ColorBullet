@@ -61,7 +61,11 @@ public class BulletShotController : MonoBehaviour
     }
     private void Start()
     {
-        mypad = GameMaster.gamepadMaster[GameMaster.GetTeamID(transform.tag)];
+        InvokeRepeating("SettingPad", 0f, 1f); //1•b‚Éˆê‰ñÀs
+    }
+    private void SettingPad()
+    {
+        mypad = GameMaster.inputDeviceMaster[GameMaster.GetTeamID(transform.tag)];
     }
     private void OnEnable()
     {

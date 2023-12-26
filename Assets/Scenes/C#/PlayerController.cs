@@ -47,11 +47,15 @@ public class PlayerController : MonoBehaviour
     }
     private void Start()
     {
-        mypad = GameMaster.gamepadMaster[GameMaster.GetTeamID(tag)];
+        InvokeRepeating("SettingPad", 0f, 1f); //1•b‚Éˆê‰ñÀs
         crown = transform.GetChild(0).gameObject;
         crownSpriteRenderer = crown.GetComponent<SpriteRenderer>();
         rb = transform.GetComponent<Rigidbody2D>();
         playerSpriteRenderer = GetComponent<SpriteRenderer>();
+    }
+    private void SettingPad()
+    {
+        mypad = GameMaster.inputDeviceMaster[GameMaster.GetTeamID(tag)];
     }
     private void Update()
     {
