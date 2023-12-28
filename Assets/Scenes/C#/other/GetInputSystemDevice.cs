@@ -4,24 +4,30 @@ using UnityEngine.InputSystem;
 
 public class GetInputSystemDevice : MonoBehaviour
 {
+    Transform playerParent;
     private void Start()
     {
-        InvokeRepeating("CheckDevice", 0f, 1f); //1•b‚Éˆê‰ñÀs
+        playerParent = GameObject.FindGameObjectWithTag("Animation").transform;
+        InvokeRepeating("CheckDevice", 0f, 1f); //1ï¿½bï¿½Éˆï¿½ï¿½ï¿½ï¿½s
     }
     void CheckDevice()
     {
-        var playerParent = GameObject.FindGameObjectWithTag("Animation").transform;
-        Dictionary<int, InputDevice> _inputDevices = new Dictionary<int, InputDevice>();
+        Dictionary<int, InputDevice> inputDevices = new Dictionary<int, InputDevice>(InputSystem.devices.Count);
 
         for (int i = 0; i < InputSystem.devices.Count; i++)
         {
             var device = InputSystem.devices[i];
 
-            if (!(device is Gamepad && device is Keyboard))
-                return;
+            if (!(device is Gamepad || device is Keyboard))
+            {
+                Debug.Log(device);    
+                continue;
+            }
 
-            _inputDevices.Add(GameMaster.GetTeamID(playerParent.GetChild(i).tag), Gamepad.all[i]);
+            Debug.Log(device);    
+            Debug.Log(playerParent.GetChild(inputDevices.Count).tag);
+            inputDevices.Add(GameMaster.GetTeamID(playerParent.GetChild(inputDevices.Count).tag), device);
         }
-        GameMaster.AddGamePad(_inputDevices);
+        GameMaster.ChangeGamePad(inputDevices);
     }
 }

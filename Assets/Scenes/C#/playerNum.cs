@@ -27,7 +27,7 @@ public class playerNum : MonoBehaviour
                 return;
         }
 
-        getNum = Gamepad.all.Count;
+        getNum = GameMaster.inputDeviceMaster.Count;
         
         if (beforeNum != getNum)
         {

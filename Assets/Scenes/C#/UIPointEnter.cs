@@ -3,6 +3,7 @@ using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.InputSystem;
+using UnityEngine.InputSystem.UI;
 
 public class UIPointEnter : MonoBehaviour
 {
@@ -11,7 +12,7 @@ public class UIPointEnter : MonoBehaviour
     [SerializeField] GameObject[] falseObj;
     [SerializeField] GameObject selectObj;
     public EventSystem m_eventSystem; // EventSystemÇ…ëŒÇµÇƒÇÃéQè∆
-    private bool selected = false;
+    [SerializeField] bool selected = false;
     OperationExplanationParent parentCS;
     UIAudioManager uIAudioManager;
     InputAction Submit, Cancel;
@@ -23,6 +24,14 @@ public class UIPointEnter : MonoBehaviour
         Cancel = director.GetComponent<PlayerInput>().actions["Cancel"]; // Å© "ButtonA" ActionÇóòóp
         uIAudioManager = director.GetComponent<UIAudioManager>();
         parentCS = transform.parent.GetComponent<OperationExplanationParent>();
+    }
+    private void OnDisable()
+    {
+        selectedÅ@= false;
+    }
+    private void OnEnable()
+    {
+        m_eventSystem.gameObject.SetActive(true);
     }
     private void Update()
     {
@@ -43,6 +52,7 @@ public class UIPointEnter : MonoBehaviour
                 }
                 if (transform.tag == "FinalUI")
                 {
+                    m_eventSystem.gameObject.SetActive(false);
                     ChangeSelectObj();
                 }
                 uIAudioManager.SelectAudio();
@@ -53,9 +63,9 @@ public class UIPointEnter : MonoBehaviour
         if (selected && hoverOver)
         {
             if (Submit.WasPressedThisFrame())
-                parentCS.ChangeSelectUI(gameObject, true);
+                parentCS?.ChangeSelectUI(gameObject, true);
             if (Cancel.WasPressedThisFrame())
-                parentCS.ChangeSelectUI(gameObject, false);
+                parentCS?.ChangeSelectUI(gameObject, false);
         }
     }
     IEnumerator SettingActive()
@@ -65,10 +75,9 @@ public class UIPointEnter : MonoBehaviour
 
         if (transform.CompareTag("FinalUI"))
         {
-            yield return new WaitForNextFrameUnit();
-            selected = false;
-            SetFalseObjects();
+            yield return new WaitForSeconds(0.1f);
             SetTrueObjects();
+            SetFalseObjects();
             yield break;
         }
 

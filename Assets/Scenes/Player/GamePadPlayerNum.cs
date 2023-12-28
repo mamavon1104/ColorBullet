@@ -44,22 +44,19 @@ public class GamePadPlayerNum : MonoBehaviour
         {
             beforeNum = playerNum;
             GameMaster.setPlayersNumMaster = playerNum;
-
-            //ここのセットかな　修正
         }
     }
     private void OnPushSubmitMotion(InputAction.CallbackContext context)
     {
-
         Debug.Log("a");
         if (!CanChange)
             return;
 
         Debug.Log("b");
-        for (int i = 0; i < GameMaster.gamepadMaster.Count; i++)
+        for (int i = 0; i < GameMaster.inputDeviceMaster.Count; i++)
         {
             Debug.Log("c");
-            if (context.control.device == GameMaster.gamepadMaster[i] && !nowTruebool[i])
+            if (context.control.device == GameMaster.inputDeviceMaster[i] && !nowTruebool[i])
             {
                 Debug.Log("d");
                 nowTruebool[i] = true;
@@ -79,19 +76,19 @@ public class GamePadPlayerNum : MonoBehaviour
                 break;
             }
         }
-        Debug.Log("e " + GameMaster.gamepadMaster.Count);
+        Debug.Log("e " + GameMaster.inputDeviceMaster.Count);
     }
     private void OnPushCancelMotion(InputAction.CallbackContext context)
     {
         if (!CanChange)
             return;
 
-        for (int i = 0; i < GameMaster.gamepadMaster.Count; i++)
+        for (int i = 0; i < GameMaster.inputDeviceMaster.Count; i++)
         {
             if (i > 3)
                 return;
 
-            if (context.control.device == GameMaster.gamepadMaster[i] && nowTruebool[i])
+            if (context.control.device == GameMaster.inputDeviceMaster[i] && nowTruebool[i])
             {
                 nowTruebool[i] = false;
                 playerNum--;
@@ -109,9 +106,9 @@ public class GamePadPlayerNum : MonoBehaviour
                 }
                 break;
             }
-            else if (context.control.device == GameMaster.gamepadMaster[i] && !nowTruebool[i])
+            else if (context.control.device == GameMaster.inputDeviceMaster[i] && !nowTruebool[i])
             {
-                for (int j = 0; j < GameMaster.gamepadMaster.Count; j++)
+                for (int j = 0; j < GameMaster.inputDeviceMaster.Count; j++)
                 {
                     if (nowTruebool[j] == false)
                         continue;

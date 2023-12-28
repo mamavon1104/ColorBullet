@@ -1,13 +1,12 @@
 using System.Collections;
 using System.Collections.Generic;
-using UnityEditor;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
 public static class GameMaster
 {
     //‚±‚¢‚Â‚ğC³‚µ‚È‚¢‚Æ
-    public static Dictionary<int, InputDevice> gamepadMaster = new Dictionary<int, InputDevice>();
+    public static Dictionary<int, InputDevice> inputDeviceMaster = new Dictionary<int, InputDevice>();
 
 
     public static int setCanShotBulletMaster;//‡‚ÅÅ‘å‰½˜A‘±‚Ü‚Å‘Å‚Ä‚é‚©
@@ -47,9 +46,9 @@ public static class GameMaster
     */
     static List<GameObject> bulletOlderList = new List<GameObject>(); //‚Ç‚Á‚¿‚Ì‚Ù‚¤‚ª‘¬‚­‘Å‚½‚ê‚½‚©‚ğ•Û‘¶AIndexOf“™‚Å‘¬‚³‚ğæ“¾
 
-    static public void AddGamePad(Dictionary<int,InputDevice> dic)
+    static public void ChangeGamePad(Dictionary<int,InputDevice> dic)
     {
-        gamepadMaster = dic;
+        inputDeviceMaster = dic;
     }
     static public void AddTeamID(string team)
     {
