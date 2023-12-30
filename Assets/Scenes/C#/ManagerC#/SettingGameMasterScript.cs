@@ -9,5 +9,7 @@ public class SettingGameMasterScript : MonoBehaviour
     {
         GameMaster.gameDirectorMaster = gameObject;
         GameMaster.scoreManagerMaster = gameObject.GetComponent<ScoreManager>();
-    }
+        GameMaster.audioManagerMaster = gameObject.GetComponent<AudioManager>();
+        GameMaster.SceneManagerMaster = gameObject.GetComponent<ChangeSceneManager>();
+}
 }

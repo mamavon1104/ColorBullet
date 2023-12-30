@@ -38,7 +38,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6361767535278995340, guid: 73e23e89cce432541b77dd390a51d6e1, type: 3}
       propertyPath: m_Name
-      value: Player2
+      value: Player3
       objectReference: {fileID: 0}
     - target: {fileID: 6361767535278995340, guid: 73e23e89cce432541b77dd390a51d6e1, type: 3}
       propertyPath: m_TagString
@@ -46,7 +46,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6361767536213440944, guid: 73e23e89cce432541b77dd390a51d6e1, type: 3}
       propertyPath: m_Name
-      value: player2
+      value: player3
       objectReference: {fileID: 0}
     - target: {fileID: 6361767536213440944, guid: 73e23e89cce432541b77dd390a51d6e1, type: 3}
       propertyPath: m_TagString
@@ -55,7 +55,7 @@ PrefabInstance:
     - target: {fileID: 6361767536213440948, guid: 73e23e89cce432541b77dd390a51d6e1, type: 3}
       propertyPath: _mbullet
       value: 
-      objectReference: {fileID: 5691233747081051162, guid: 94720a2e0102b484e9a44885a4f7baf8, type: 3}
+      objectReference: {fileID: 5691233747081051162, guid: a9debe03923dd5445b93c5277fed0b15, type: 3}
     - target: {fileID: 6361767536213440951, guid: 73e23e89cce432541b77dd390a51d6e1, type: 3}
       propertyPath: m_DashButton
       value: joystick 2 Fire_L2

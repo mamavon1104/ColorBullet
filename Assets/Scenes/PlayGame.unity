@@ -2134,8 +2134,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   players:
   - {fileID: 6361767535278995340, guid: 73e23e89cce432541b77dd390a51d6e1, type: 3}
-  - {fileID: 3568073880543378966, guid: 1e9a955f7dd584244b8e9a1dc2c8a7fb, type: 3}
-  - {fileID: 3427382953116896062, guid: e0cab80866c18274983dfa8c3de431fa, type: 3}
+  - {fileID: 6361767535278995340, guid: a3f229135c603cd4183f5972b4801dc3, type: 3}
+  - {fileID: 3568073880543378966, guid: e0cab80866c18274983dfa8c3de431fa, type: 3}
   - {fileID: 3568073880543378966, guid: d98c9658cdd69a845a06505a65a1eaf4, type: 3}
 --- !u!4 &941631301
 Transform:

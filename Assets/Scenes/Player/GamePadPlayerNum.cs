@@ -10,6 +10,7 @@ public class GamePadPlayerNum : MonoBehaviour
         set { this.canChannge = value; }
     }
 
+    [SerializeField]
     bool[] nowTruebool = new bool[4];
     public int playerNum = 0;
     int beforeNum = 0;

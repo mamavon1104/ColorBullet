@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.Animations;
 using UnityEngine.InputSystem;
 using UnityEngine.UIElements;
 
@@ -29,9 +30,8 @@ public class PlayerController : MonoBehaviour
     //ダッシュの時のタイマー
     private float dashTimer = 0.0f;
 
-    //動く時の方向とか、回転方向とかをFixedUpdateで呼び起こす為の関数。
-    InputAction dash;
-
+    InputAction dash, move,look;
+    Vector2 moveVec,lookVec;
     //自分の文字列InputManager
     InputPlayerSetString myStrings;
 
@@ -44,6 +44,8 @@ public class PlayerController : MonoBehaviour
         GameMaster.AddGameObjectID(gameObject, 0);
         var thisInput = gameObject.GetComponent<PlayerInput>().currentActionMap;
         dash = thisInput["Dash"];
+        move = thisInput["Move"];
+        look = thisInput["Look"];
     }
     private void Start()
     {
@@ -52,6 +54,9 @@ public class PlayerController : MonoBehaviour
         crownSpriteRenderer = crown.GetComponent<SpriteRenderer>();
         rb = transform.GetComponent<Rigidbody2D>();
         playerSpriteRenderer = GetComponent<SpriteRenderer>();
+        dash.performed += OnDashPlayer;
+        move.performed += OnMovePlayer;
+        look.performed += OnRotatePlayer;
     }
     private void SettingPad()
     {
@@ -63,45 +68,29 @@ public class PlayerController : MonoBehaviour
             dashTimer -= Time.deltaTime;
         Flip();
 
-        var a = CaluculatingMove();
-        var b = CaluculatingRotate();
-        Debug.Log(a);
-        Debug.Log(b);
-        OnMovePlayer();
-        OnRotatePlayer();
-    }
-    private Vector2 CaluculatingMove()
-    {
-        float ver = Input.GetAxis(myStrings.m_Vertical_Left);
-        float hor = Input.GetAxis(myStrings.m_Horizontal_Left);
-        return new Vector2(hor,ver);
-    }
-    private Vector2 CaluculatingRotate()
-    {
-        float ver = Input.GetAxis(myStrings.m_Vertical_Right);
-        float hor = Input.GetAxis(myStrings.m_Horizontal_Right);
-        return new Vector2(hor, ver);
-    }
-    public void OnMovePlayer()
-    {
-        if (GameMaster.canNotPlayersMove == true)
-            return;
-
-        rb.AddForce(CaluculatingMove() * moveSpeed * Time.deltaTime, ForceMode2D.Impulse);
-    }
-    public void OnRotatePlayer()
-    {
-        if (GameMaster.canNotPlayersMove == true)
-            return;
-
-        if (CaluculatingRotate().sqrMagnitude > 0)
+        rb.AddForce(moveVec * moveSpeed * Time.deltaTime, ForceMode2D.Impulse);
+        if (lookVec.sqrMagnitude > 0)
         {
             //倒した方向に向く
-            var rotateAngle = -Vector2.SignedAngle(CaluculatingRotate(), Vector2.right);
+            var rotateAngle = -Vector2.SignedAngle(lookVec, Vector2.right);
 
             //倒した方向に回転する。
             transform.eulerAngles = Vector3.forward * rotateAngle;
         }
+    }
+    public void OnMovePlayer(InputAction.CallbackContext context)
+    {
+        if (GameMaster.canNotPlayersMove == true)
+            return;
+
+        moveVec = context.ReadValue<Vector2>();
+    }
+    public void OnRotatePlayer(InputAction.CallbackContext context)
+    {
+        if (GameMaster.canNotPlayersMove == true)
+            return;
+
+        lookVec = context.ReadValue<Vector2>();
     }
     public void OnDashPlayer(InputAction.CallbackContext context)
     {
@@ -112,7 +101,7 @@ public class PlayerController : MonoBehaviour
         {
             dashTimer = setDashTime;
             GameMaster.audioManagerMaster.DashAudio();
-            rb.AddForce(CaluculatingMove() * dashSpeed, ForceMode2D.Impulse);
+            rb.AddForce(lookVec * dashSpeed, ForceMode2D.Impulse);
         }
     }
     public void Flip()

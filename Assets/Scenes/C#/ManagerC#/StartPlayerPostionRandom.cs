@@ -9,17 +9,18 @@ public class StartPlayerPostionRandom : MonoBehaviour
     Transform[] playerGameObjectArray; //プレイヤーがステージにどれくらいあるのか把握、番号の把握に使用。
 
     Transform[] playerSettingPos;
+    [SerializeField] GameObject[] playerPostionsObj;
+
     private void Awake()
     { 
         for (int i = 0; i < GameMaster.setPlayersNumMaster; i++)
         {
             var player = Instantiate(players[i]);
-            player.transform.parent = gameObject.transform;
         }
     }
     private void Start()
     {
-        var playerPostionsObj = GameObject.FindGameObjectsWithTag("SettingPos");
+        playerPostionsObj = GameObject.FindGameObjectsWithTag("SettingPos");
         playerSettingPos = new Transform[playerPostionsObj.Length];
 
         #region 普通にプレイヤーが開始した直後の移動にも使えそう、初期化プログラム

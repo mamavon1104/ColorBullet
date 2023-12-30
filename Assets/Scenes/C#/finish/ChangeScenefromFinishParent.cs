@@ -9,7 +9,7 @@ public class ChangeScenefromFinishParent : MonoBehaviour
     GamePadPlayerNum gamePadPlayerNum = null;
     private void Start()
     {
-        if (SceneManager.GetActiveScene().buildIndex == 0)
+        if (SceneManager.GetActiveScene().name == "GameTitle")
         {
             gamePadPlayerNum = GetComponent<GamePadPlayerNum>();
             children = new bool[transform.childCount];
@@ -96,8 +96,9 @@ public class ChangeScenefromFinishParent : MonoBehaviour
         yield return new WaitForSeconds(1);
         GameMaster.audioManagerMaster.CheckAllAudio();
         yield return new WaitForSeconds(1.5f);
-        if(SceneManager.GetActiveScene().buildIndex == 0)
+        if(SceneManager.GetActiveScene().name == "GameTitle")
         {
+            Debug.Log(GameMaster.SceneManagerMaster);
             GameMaster.SceneManagerMaster.GamePlay();
             if (gamePadPlayerNum != null)
                 gamePadPlayerNum.CanChange = true;

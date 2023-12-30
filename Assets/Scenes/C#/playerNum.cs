@@ -10,13 +10,11 @@ public class playerNum : MonoBehaviour
     int getNum = 0;
     [SerializeField] GameObject[] players;
     TextMeshProUGUI textMeshPro;
-    ChangeSceneManager changeSceneManager;
     GamePadPlayerNum gamePadPlayerNum;
     private void Start()
     {
         var director = GameObject.FindGameObjectWithTag("GameDirector");
         gamePadPlayerNum = gameObject.GetComponent<GamePadPlayerNum>();
-        changeSceneManager = director.GetComponent<ChangeSceneManager>();
         textMeshPro = gameObject.GetComponent<TextMeshProUGUI>();
     }
     void Update()
