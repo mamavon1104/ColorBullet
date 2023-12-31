@@ -10,14 +10,6 @@ public class StartPlayerPostionRandom : MonoBehaviour
 
     Transform[] playerSettingPos;
     [SerializeField] GameObject[] playerPostionsObj;
-
-    private void Awake()
-    { 
-        for (int i = 0; i < GameMaster.setPlayersNumMaster; i++)
-        {
-            var player = Instantiate(players[i]);
-        }
-    }
     private void Start()
     {
         playerPostionsObj = GameObject.FindGameObjectsWithTag("SettingPos");
@@ -55,6 +47,7 @@ public class StartPlayerPostionRandom : MonoBehaviour
         {
             if (j == GameMaster.setPlayersNumMaster) 
                 break;
+
             playerGameObjectArray[j].position = playerSettingPos[j].position;
         }
     }

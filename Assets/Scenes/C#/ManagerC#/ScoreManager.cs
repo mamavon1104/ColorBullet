@@ -22,9 +22,9 @@ public class ScoreManager : MonoBehaviour
         Number1PlayersNum = GameMaster.setPlayersNumMaster; //人数、点数が一番でかい人。
         textManager = gameObject.GetComponent<TextManager>();
         
-        playersPoint = new int[Number1PlayersNum];
-        isThisPlayerNumber1 = new bool[Number1PlayersNum];
-        playerControllers = new PlayerController[Number1PlayersNum];
+        playersPoint = new int[GameMaster.setPlayersNumMaster];
+        isThisPlayerNumber1 = new bool[GameMaster.setPlayersNumMaster];
+        playerControllers = new PlayerController[GameMaster.setPlayersNumMaster];
 
         for (int i = 0; i < isThisPlayerNumber1.Length; i++)
         {

@@ -56,6 +56,7 @@ public class PlayerController : MonoBehaviour
         playerSpriteRenderer = GetComponent<SpriteRenderer>();
         dash.performed += OnDashPlayer;
         move.performed += OnMovePlayer;
+        move.canceled += OnMovePlayer;
         look.performed += OnRotatePlayer;
     }
     private void SettingPad()

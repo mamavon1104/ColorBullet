@@ -1,6 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
-using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.SceneManagement;
@@ -95,8 +92,8 @@ public class BulletShotController : MonoBehaviour
                 restorationTimer -= Time.deltaTime; //タイマーをどんどん減らしていきます。
             else if (restorationTimer <= 0)  //打たずにタイマーを減らせたら！
             {
-                if(textManager != null)
-                   textManager.WritePlayerBullet(GameMaster.GetTeamID(gameObject.tag), canShot, true);
+                if (textManager != null)
+                    textManager.WritePlayerBullet(GameMaster.GetTeamID(gameObject.tag), canShot, true);
                 canShot++; //回数を増やします。
                 restorationTimer = setRestrationCoolTime;
                 doNotShot++;
@@ -121,57 +118,27 @@ public class BulletShotController : MonoBehaviour
         if (GameMaster.canNotPlayersMove)
             return;
 
-        //修正を入れに来た。
-        //多分GameScene以外ならと言うif文の分岐か？　ちょっとひどいコードすぎるけど絶対直す。
-        if (SceneManager.GetActiveScene().buildIndex != 1)
+        if (shotTimer <= 0 && canShot > 0)
         {
-            if (shotTimer <= 0 && canShot > 0)
-            {
-                RestorationShotTimes(true); //打ちましたのでtrueを送る
-                GameObject bullet = Instantiate(_mbullet, nozzle.transform.position, transform.rotation); //Objectを生成する。
-                bullet.name = _mbullet.name;
-                bullet.transform.parent = bulletEmptyParent;
-                BulletController bulletCtrl = bullet.GetComponent<BulletController>();
-                bulletCtrl.FirstAddForceFromOther(nozzle.gameObject); //AddForceを行う。
-                GameMaster.audioManagerMaster.ShotAudio();
+            RestorationShotTimes(true); //打ちましたのでtrueを送る
+            GameObject bullet = Instantiate(_mbullet, nozzle.transform.position, transform.rotation); //Objectを生成する。
+            bullet.name = _mbullet.name;
+            bullet.transform.parent = bulletEmptyParent;
+            BulletController bulletCtrl = bullet.GetComponent<BulletController>();
+            bulletCtrl.FirstAddForceFromOther(nozzle.gameObject); //AddForceを行う。
+            GameMaster.audioManagerMaster.ShotAudio();
 
-                playerRB.AddForce(-transform.right * recoil, ForceMode2D.Impulse); //打ったときに後ろ側に引く
+            playerRB.AddForce(-transform.right * recoil, ForceMode2D.Impulse); //打ったときに後ろ側に引く
 
-                if (SceneManager.GetActiveScene().buildIndex == 0)
-                    return;
+            if (SceneManager.GetActiveScene().buildIndex == 0)
+                return;
 
-                canShot--; //弾数減らす
-                if (textManager == null)
-                    return;
+            canShot--; //弾数減らす
+            if (textManager == null)
+                return;
 
-                textManager.WritePlayerBullet(GameMaster.GetTeamID(gameObject.tag), canShot, false);
-                shotTimer = setShotCoolTime; //クールタイムにする
-            }
-        }
-        else if (SceneManager.GetActiveScene().buildIndex == 1)
-        {
-            if (shotTimer <= 0 && canShot > 0)
-            {
-                RestorationShotTimes(true); //打ちましたのでtrueを送る
-                GameObject bullet = Instantiate(_mbullet, nozzle.transform.position, transform.rotation); //Objectを生成する。
-                bullet.name = _mbullet.name;
-                bullet.transform.parent = bulletEmptyParent;
-                BulletController bulletCtrl = bullet.GetComponent<BulletController>();
-                bulletCtrl.FirstAddForceFromOther(nozzle.gameObject); //AddForceを行う。
-                GameMaster.audioManagerMaster.ShotAudio();
-
-                playerRB.AddForce(-transform.right * recoil, ForceMode2D.Impulse); //打ったときに後ろ側に引く
-
-                if (SceneManager.GetActiveScene().buildIndex == 0)
-                    return;
-
-                canShot--; //弾数減らす
-                if (textManager == null)
-                    return;
-
-                textManager.WritePlayerBullet(GameMaster.GetTeamID(gameObject.tag), canShot, false);
-                shotTimer = setShotCoolTime; //クールタイムにする
-            }
+            textManager.WritePlayerBullet(GameMaster.GetTeamID(gameObject.tag), canShot, false);
+            shotTimer = setShotCoolTime; //クールタイムにする
         }
     }
 }

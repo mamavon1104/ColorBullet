@@ -54,6 +54,8 @@ public static class GameMaster
     {
         if (teamIDDictionary.ContainsKey(team))
             return;
+
+        Debug.Log($"<color=red>{ team }</color>");
         teamIDDictionary.Add(team,teamIDDictionary.Count); //Player‚ÌTag‚ÆID‚Å‚ÌŠÇ—‚Ì€”õB
     }
     static public int GetTeamID(string team)
