@@ -42,7 +42,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6361767535278995340, guid: 73e23e89cce432541b77dd390a51d6e1, type: 3}
       propertyPath: m_TagString
-      value: Team2
+      value: Team3
       objectReference: {fileID: 0}
     - target: {fileID: 6361767536213440944, guid: 73e23e89cce432541b77dd390a51d6e1, type: 3}
       propertyPath: m_Name
@@ -50,7 +50,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6361767536213440944, guid: 73e23e89cce432541b77dd390a51d6e1, type: 3}
       propertyPath: m_TagString
-      value: Team2
+      value: Team3
       objectReference: {fileID: 0}
     - target: {fileID: 6361767536213440948, guid: 73e23e89cce432541b77dd390a51d6e1, type: 3}
       propertyPath: _mbullet
@@ -150,7 +150,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6361767537360532598, guid: 73e23e89cce432541b77dd390a51d6e1, type: 3}
       propertyPath: m_TagString
-      value: Team2
+      value: Team3
       objectReference: {fileID: 0}
     - target: {fileID: 8822269463889655883, guid: 73e23e89cce432541b77dd390a51d6e1, type: 3}
       propertyPath: m_DashButton

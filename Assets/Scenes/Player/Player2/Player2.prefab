@@ -179,7 +179,7 @@ GameObject:
   - component: {fileID: 6361767537353315163}
   m_Layer: 0
   m_Name: Player2
-  m_TagString: Team1
+  m_TagString: Team2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -216,10 +216,9 @@ GameObject:
   - component: {fileID: 6361767536213440948}
   - component: {fileID: 5987711377855487093}
   - component: {fileID: 4834023360077064243}
-  - component: {fileID: 3449876283483696518}
   m_Layer: 0
   m_Name: player2
-  m_TagString: Team1
+  m_TagString: Team2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -486,24 +485,6 @@ MonoBehaviour:
   m_DefaultActionMap: Player
   m_SplitScreenIndex: -1
   m_Camera: {fileID: 0}
---- !u!114 &3449876283483696518
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6361767536213440944}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 94028c1eb2c6c044582cc07b13490c45, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Vertical_Left: joystick 1 Vertical Stick-L
-  m_Horizontal_Left: joystick 1 Horizontal Stick-L
-  m_Vertical_Right: joystick 1 Vertical Stick-R
-  m_Horizontal_Right: joystick 1 Horizontal Stick-R
-  m_DashButton: joystick 1 Fire_L2
-  m_ShotButton: joystick 1 Fire_R2
 --- !u!1 &6361767536374320015
 GameObject:
   m_ObjectHideFlags: 0
@@ -546,7 +527,7 @@ GameObject:
   - component: {fileID: 6361767537360532599}
   m_Layer: 0
   m_Name: nozzle
-  m_TagString: Team1
+  m_TagString: Team2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
