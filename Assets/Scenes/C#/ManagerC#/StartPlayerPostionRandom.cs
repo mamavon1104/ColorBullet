@@ -42,6 +42,7 @@ public class StartPlayerPostionRandom : MonoBehaviour
             i++;
         };
         #endregion
+        
 
         for (int j = 0; j < playerSettingPos.Length; j++)
         {

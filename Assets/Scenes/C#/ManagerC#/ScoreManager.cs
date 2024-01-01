@@ -26,7 +26,7 @@ public class ScoreManager : MonoBehaviour
         isThisPlayerNumber1 = new bool[GameMaster.setPlayersNumMaster];
         playerControllers = new PlayerController[GameMaster.setPlayersNumMaster];
 
-        for (int i = 0; i < isThisPlayerNumber1.Length; i++)
+        for (int i = 0; i < GameMaster.setPlayersNumMaster; i++)
         {
             playersPoint[i] = 0;
             isThisPlayerNumber1[i] = true;//Å‰‚Í‘Sˆõ‰¤Š¥‚Â‚¢‚Ä‚éB

@@ -16,12 +16,14 @@ public class UIPointEnter : MonoBehaviour
     OperationExplanationParent parentCS;
     UIAudioManager uIAudioManager;
     InputAction Submit, Cancel;
+    [SerializeField] PlayerInput playerinput;
 
     private void Start()
     {
+        Submit = playerinput.actions["Submit"]; // ← "Move" Actionを利用する。
+        Cancel = playerinput.actions["Cancel"]; // ← "ButtonA" Actionを利用
+        
         var director = GameObject.FindGameObjectWithTag("GameDirector");
-        Submit = director.GetComponent<PlayerInput>().actions["Submit"]; // ← "Move" Actionを利用する。
-        Cancel = director.GetComponent<PlayerInput>().actions["Cancel"]; // ← "ButtonA" Actionを利用
         uIAudioManager = director.GetComponent<UIAudioManager>();
         parentCS = transform.parent.GetComponent<OperationExplanationParent>();
     }
