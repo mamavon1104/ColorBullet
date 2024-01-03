@@ -1405,7 +1405,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58d077fef75067b48aea9eadb851597b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  CantGoUI: {fileID: 0}
 --- !u!82 &656240913
 AudioSource:
   m_ObjectHideFlags: 0
@@ -2050,8 +2049,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   playersPrafab:
   - {fileID: 6361767535278995340, guid: 73e23e89cce432541b77dd390a51d6e1, type: 3}
-  - {fileID: 3568073880543378966, guid: 1e9a955f7dd584244b8e9a1dc2c8a7fb, type: 3}
-  - {fileID: 3427382953116896062, guid: e0cab80866c18274983dfa8c3de431fa, type: 3}
+  - {fileID: 6361767535278995340, guid: a3f229135c603cd4183f5972b4801dc3, type: 3}
+  - {fileID: 3568073880543378966, guid: e0cab80866c18274983dfa8c3de431fa, type: 3}
   - {fileID: 3568073880543378966, guid: d98c9658cdd69a845a06505a65a1eaf4, type: 3}
   playerTrans:
   - {fileID: 1342646311}
@@ -2064,10 +2063,10 @@ MonoBehaviour:
   - {fileID: 1177107230}
   - {fileID: 150907462}
   playerMaterials:
-  - {fileID: 2100000, guid: 22b866cdb97559344999c75e911bfb83, type: 2}
-  - {fileID: 2100000, guid: 51c3d3ddb6c4c484698f3d799e2d1480, type: 2}
-  - {fileID: 2100000, guid: 58609c6c9e6fe21408733af2154d7d81, type: 2}
-  - {fileID: 2100000, guid: 1c632df663b763446be144bb183a34ef, type: 2}
+  - {fileID: 2100000, guid: e23304d50c443d7489e3a446316f005a, type: 2}
+  - {fileID: 2100000, guid: 10d161ba49ce6714f956a96d548e4b56, type: 2}
+  - {fileID: 2100000, guid: f2866975f4685dc498c12a6ecb0da253, type: 2}
+  - {fileID: 2100000, guid: 4e0f747aa92fb3343b3c9846f4d92764, type: 2}
   outLineColors:
   - {r: 1, g: 0, b: 0, a: 0}
   - {r: 0, g: 0.1117146, b: 1, a: 0}
@@ -2076,7 +2075,7 @@ MonoBehaviour:
   fontAssets:
   - {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   - {fileID: 11400000, guid: 830e45a90d3f90e4e930dcb325a341e7, type: 2}
-  - {fileID: 11400000, guid: 5346f4b81a186114ca84b3cd1861241c, type: 2}
+  - {fileID: 11400000, guid: 094a973e303b1c745a27b9ba8a0e3dc3, type: 2}
   - {fileID: 11400000, guid: b861dfbb53568e640ab793b23b8f19d3, type: 2}
 --- !u!1 &947771188
 GameObject:
