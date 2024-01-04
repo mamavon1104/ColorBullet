@@ -1,10 +1,5 @@
-using System.Collections;
-using System.Collections.Generic;
-using Unity.VisualScripting;
 using UnityEngine;
-using UnityEngine.Animations;
 using UnityEngine.InputSystem;
-using UnityEngine.UIElements;
 
 public class PlayerController : MonoBehaviour
 {
@@ -58,6 +53,7 @@ public class PlayerController : MonoBehaviour
         move.performed += OnMovePlayer;
         move.canceled += OnMovePlayer;
         look.performed += OnRotatePlayer;
+        look.canceled += OnRotatePlayer;
     }
     private void SettingPad()
     {
@@ -67,6 +63,7 @@ public class PlayerController : MonoBehaviour
     {
         if (dashTimer > 0)
             dashTimer -= Time.deltaTime;
+        
         Flip();
 
         rb.AddForce(moveVec * moveSpeed * Time.deltaTime, ForceMode2D.Impulse);
@@ -81,14 +78,14 @@ public class PlayerController : MonoBehaviour
     }
     public void OnMovePlayer(InputAction.CallbackContext context)
     {
-        if (GameMaster.canNotPlayersMove == true)
+        if (GameMaster.canNotPlayersMove == true || context.control.device != mypad)
             return;
 
         moveVec = context.ReadValue<Vector2>();
     }
     public void OnRotatePlayer(InputAction.CallbackContext context)
     {
-        if (GameMaster.canNotPlayersMove == true)
+        if (GameMaster.canNotPlayersMove == true || context.control.device != mypad)
             return;
 
         lookVec = context.ReadValue<Vector2>();

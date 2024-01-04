@@ -45,9 +45,8 @@ public class BulletShotController : MonoBehaviour
 
     private void Awake()
     {
-        playerRB = gameObject.GetComponent<Rigidbody2D>();
-        playerRB = gameObject.GetComponent<Rigidbody2D>();
         shotAction = gameObject.GetComponent<PlayerInput>().actions["Shot"];
+        playerRB = gameObject.GetComponent<Rigidbody2D>();
 
         if (SceneManager.GetActiveScene().buildIndex == 0)
             return;
@@ -113,8 +112,11 @@ public class BulletShotController : MonoBehaviour
             restorationTimer = setRestrationCoolTime;
         }
     }
-    public void OnPushShot(InputAction.CallbackContext context)
+    private void OnPushShot(InputAction.CallbackContext context)
     {
+        if (context.control.device != mypad)
+            return;
+
         if (GameMaster.canNotPlayersMove)
             return;
 

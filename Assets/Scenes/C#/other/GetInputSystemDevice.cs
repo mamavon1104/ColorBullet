@@ -16,6 +16,9 @@ public class GetInputSystemDevice : MonoBehaviour
 
         for (int i = 0; i < InputSystem.devices.Count; i++)
         {
+            if (inputDevices.Count > 4)
+                return;
+            
             var device = InputSystem.devices[i];
 
             if (!(device is Gamepad || device is Keyboard))
@@ -24,7 +27,7 @@ public class GetInputSystemDevice : MonoBehaviour
                 continue;
             }
 
-            Debug.Log(device);    
+            Debug.Log(inputDevices.Count);    
             Debug.Log(playerParent.GetChild(inputDevices.Count).tag);
             inputDevices.Add(GameMaster.GetTeamID(playerParent.GetChild(inputDevices.Count).tag), device);
         }

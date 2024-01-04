@@ -1,8 +1,5 @@
-using System.Collections;
-using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
-using UnityEngine.InputSystem;
 
 public class playerNum : MonoBehaviour
 {
@@ -38,7 +35,6 @@ public class playerNum : MonoBehaviour
             if (textMeshPro == null)
                 return;
 
-            //èCê≥
 
             textMeshPro.text = getNum.ToString();
             beforeNum = getNum;

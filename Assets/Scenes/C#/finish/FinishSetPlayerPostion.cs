@@ -35,7 +35,6 @@ public class FinishSetPlayerPostion : MonoBehaviour
         StartCoroutine(SetActiveTextAndPlayer());
         
         // 内部関数なのはスコープの関係上らしい。
-        // 2023 11月七日　絶望している。
         IEnumerator SetActiveTextAndPlayer()
         {
             // 4つのint型配列を作成
