@@ -14,20 +14,21 @@ public class GamePadPlayerNum : MonoBehaviour
     bool[] nowTruebool = new bool[4];
     public int playerNum = 0;
     int beforeNum = 0;
-    InputAction Submit, Cancel;
     UIAudioManager audioManager;
     [SerializeField] GameObject obj1;
+    [SerializeField] PlayerInput playerinput;
+    InputAction Submit, Cancel;
     private void Awake()
     {
+        Submit = playerinput.actions["Submit"]; // ← "Move" Actionを利用する。
+        Cancel = playerinput.actions["Cancel"]; // ← "ButtonA" Actionを利用
+
         for (int i = 0; i < 4; i++)
         {
             nowTruebool[i] = false;
         }
         var director = GameObject.FindGameObjectWithTag("GameDirector");
-
         audioManager = director.GetComponent<UIAudioManager>();
-        Submit = director.GetComponent<PlayerInput>().actions["Submit"]; // ← "Move" Actionを利用する。
-        Cancel = director.GetComponent<PlayerInput>().actions["Cancel"]; // ← "ButtonA" Actionを利用
     }
     private void OnEnable()
     {
@@ -47,7 +48,7 @@ public class GamePadPlayerNum : MonoBehaviour
             GameMaster.setPlayersNumMaster = playerNum;
         }
     }
-    private void OnPushSubmitMotion(InputAction.CallbackContext context)
+    public void OnPushSubmitMotion(InputAction.CallbackContext context)
     {
         Debug.Log("a");
         if (!CanChange)
@@ -79,7 +80,7 @@ public class GamePadPlayerNum : MonoBehaviour
         }
         Debug.Log("e " + GameMaster.inputDeviceMaster.Count);
     }
-    private void OnPushCancelMotion(InputAction.CallbackContext context)
+    public void OnPushCancelMotion(InputAction.CallbackContext context)
     {
         if (!CanChange)
             return;
