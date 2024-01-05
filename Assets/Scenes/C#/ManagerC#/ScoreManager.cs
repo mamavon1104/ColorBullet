@@ -46,6 +46,7 @@ public class ScoreManager : MonoBehaviour
         var _Number1PlayersNum = Number1PlayersNum;
         playersPoint[playerNum]++;
         bestScore = FindBestScore();
+        
         //(bestScoreが同じで点数が追い付いた時)もしくはベストスコアの人数が変わったら(王冠を変えたい)
         if ((playersPoint[playerNum] == bestScore && (bestScore == _bestScore)) || Number1PlayersNum != _Number1PlayersNum)
         {
