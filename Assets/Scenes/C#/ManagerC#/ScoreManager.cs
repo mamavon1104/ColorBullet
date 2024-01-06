@@ -1,22 +1,22 @@
 using UnityEngine;
 
 public class ScoreManager : MonoBehaviour
-{   
+{
     [SerializeField] GameObject playersMaster;
-    
+
     PlayerController[] playerControllers;//王冠のため
     private int bestScore = 0; //最大値
     bool[] isThisPlayerNumber1;//trueなら一流、ちがければ愚民
     int[] playersPoint; //現在の点数
 
     private int Number1PlayersNum;//1位が何人いますか？
-    
+
     TextManager textManager;
     private void Start()
     {
         Number1PlayersNum = GameMaster.setPlayersNumMaster; //人数、点数が一番でかい人。
         textManager = gameObject.GetComponent<TextManager>();
-        
+
         playersPoint = new int[GameMaster.setPlayersNumMaster];
         isThisPlayerNumber1 = new bool[GameMaster.setPlayersNumMaster];
         playerControllers = new PlayerController[GameMaster.setPlayersNumMaster];
@@ -32,7 +32,7 @@ public class ScoreManager : MonoBehaviour
         {
             Debug.Log("<color=yellow>" + playersMaster.transform.GetChild(i).name + "</color>");
             Debug.Log(playersMaster);
-            Debug.Log("<color=yellow>" + playerControllers[i] +"</color>");
+            Debug.Log("<color=yellow>" + playerControllers[i] + "</color>");
         }
     }
 
@@ -41,34 +41,31 @@ public class ScoreManager : MonoBehaviour
         if (GameMaster.canNotPlayersMove == true)
             return;
 
-        var playerNum = GameMaster.GetTeamID(team);   
+        var playerNum = GameMaster.GetTeamID(team);
         var _bestScore = bestScore;
         var _Number1PlayersNum = Number1PlayersNum;
         playersPoint[playerNum]++;
         bestScore = FindBestScore();
-        
-        //(bestScoreが同じで点数が追い付いた時)もしくはベストスコアの人数が変わったら(王冠を変えたい)
-        if ((playersPoint[playerNum] == bestScore && (bestScore == _bestScore)) || Number1PlayersNum != _Number1PlayersNum)
+
+
+        for (int i = 0; i < Number1PlayersNum; i++)
         {
-            for (int i = 0; i < Number1PlayersNum; i++)
-            {
-                if (playersPoint[i] < bestScore) isThisPlayerNumber1[i] = false;
-                else isThisPlayerNumber1[i] = true;
+            if (playersPoint[i] < bestScore) isThisPlayerNumber1[i] = false;
+            else isThisPlayerNumber1[i] = true;
 
-                Debug.Log(playerControllers[i]);
-                Debug.Log(bestScore);
+            Debug.Log(playerControllers[i]);
+            Debug.Log(bestScore);
 
-                playerControllers[i].SetActiveCrown(isThisPlayerNumber1[i]);
-            }
-            textManager.SetActiveCrown(isThisPlayerNumber1);
+            playerControllers[i].SetActiveCrown(isThisPlayerNumber1[i]);
         }
+        textManager.SetActiveCrown(isThisPlayerNumber1);
         textManager.WritePlayersScore(playerNum, playersPoint[playerNum]);
     }
     int FindBestScore()
     {
         int maxNum = playersPoint[0];
         Number1PlayersNum = 0;
-        
+
         for (int i = 1; i < playersPoint.Length; i++)
         {
             if (playersPoint[i] > maxNum)
